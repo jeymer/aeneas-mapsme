@@ -1,0 +1,438 @@
+STOKE: Range:9000 Partition:4500 Middle:5500
+==RUN 0==
+==ROUND-START==
+Bandit Runs:1 Tasks-in-Run:10
+Self-Optimizer Rounds:0 Tasks-in-Round:0
+Continuous Knob Rounds:Inf Tasks-in-Round:0
+STOKE: Start Bat: 0.610000
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+STOKE: Start Bat: 0.610000
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:49.427148965309996 Time:32506 TotalReward:49.427148965309996
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:38.3417504328 Time:32510 TotalReward:87.76889939811
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:40.384112335875 Time:32615 TotalReward:128.153011733985
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:66.75194812704 Time:32516 TotalReward:194.90495986102502
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:135.69724685349 Time:32542 TotalReward:330.602206714515
+ETask 6: Configuration:2 Energy:0.0 Power:0.0 Reward:66.73289505167999 Time:32516 TotalReward:397.33510176619495
+ETask 7: Configuration:1 Energy:0.0 Power:0.0 Reward:34.066721070585004 Time:32573 TotalReward:431.40182283677996
+ETask 8: Configuration:1 Energy:0.0 Power:0.0 Reward:32.71597438449599 Time:32517 TotalReward:464.11779722127596
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:37.05486625416 Time:32547 TotalReward:501.17266347543597
+ETask 10: Configuration:1 Energy:0.0 Power:0.0 Reward:66.759084441776 Time:32567 TotalReward:567.931747917212
+ETask 11: Configuration:1 Energy:0.0 Power:0.0 Reward:38.972211887088 Time:32517 TotalReward:606.9039598042999
+ETask 12: Configuration:1 Energy:0.0 Power:0.0 Reward:35.333899162752 Time:32514 TotalReward:642.2378589670519
+ETask 13: Configuration:1 Energy:0.0 Power:0.0 Reward:42.28083938003199 Time:32516 TotalReward:684.518698347084
+ETask 14: Configuration:1 Energy:0.0 Power:0.0 Reward:64.89412128 Time:32510 TotalReward:749.412819627084
+ETask 15: Configuration:1 Energy:0.0 Power:0.0 Reward:83.036457742576 Time:32513 TotalReward:832.44927736966
+ETask 16: Configuration:1 Energy:0.0 Power:0.0 Reward:35.5685425104 Time:32511 TotalReward:868.01781988006
+ETask 17: Configuration:1 Energy:0.0 Power:0.0 Reward:51.545948687808014 Time:32514 TotalReward:919.563768567868
+STOKE: jouleRange: 10.64
+STOKE: Tightening intervals
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:3 joules:41.61 reward:0.9096
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:12 joules:49.36 reward:0.9477
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:101.22 reward:0.7975
+==ROUND-END==
+STOKE: Range:4500 Partition:2250 Middle:5500
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:159.85853772047994 Time:32544 TotalReward:159.85853772047994
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:148.12946798571 Time:32518 TotalReward:307.98800570618994
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:52.66199969532 Time:32548 TotalReward:360.65000540150993
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:34.16005545975 Time:32505 TotalReward:394.8100608612599
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:93.927933882 Time:32520 TotalReward:488.7379947432599
+ETask 6: Configuration:2 Energy:0.0 Power:0.0 Reward:33.244071977025 Time:32515 TotalReward:521.9820667202849
+ETask 7: Configuration:2 Energy:0.0 Power:0.0 Reward:40.127573913435 Time:32507 TotalReward:562.1096406337199
+ETask 8: Configuration:2 Energy:0.0 Power:0.0 Reward:33.554968035975 Time:32511 TotalReward:595.6646086696949
+ETask 9: Configuration:2 Energy:0.0 Power:0.0 Reward:60.57156559960801 Time:32508 TotalReward:656.2361742693029
+ETask 10: Configuration:2 Energy:0.0 Power:0.0 Reward:65.78245841025601 Time:32508 TotalReward:722.0186326795589
+ETask 11: Configuration:2 Energy:0.0 Power:0.0 Reward:70.319541539988 Time:32513 TotalReward:792.3381742195469
+ETask 12: Configuration:2 Energy:0.0 Power:0.0 Reward:67.50887109073201 Time:32506 TotalReward:859.8470453102789
+ETask 13: Configuration:2 Energy:0.0 Power:0.0 Reward:46.221691839336 Time:32514 TotalReward:906.0687371496149
+ETask 14: Configuration:2 Energy:0.0 Power:0.0 Reward:35.998425071388 Time:32506 TotalReward:942.067162221003
+STOKE: jouleRange: 5.27
+STOKE: Tightening intervals
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:153.99 reward:0.5382
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:43.41 reward:0.9185
+STOKE: Config: 2 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:10 joules:54.73 reward:0.9741
+==ROUND-END==
+STOKE: Range:2250 Partition:1125 Middle:3250
+STOKE: Config: 0 - Knobs: {interval:4375 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:37.177098257052 Time:32539 TotalReward:37.177098257052
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:68.399111483582 Time:32509 TotalReward:105.576209740634
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:62.303753240903994 Time:32547 TotalReward:167.879962981538
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:34.01962606994999 Time:32510 TotalReward:201.899589051488
+ETask 5: Configuration:0 Energy:0.0 Power:0.0 Reward:92.34839127176 Time:32540 TotalReward:294.247980323248
+ETask 6: Configuration:0 Energy:0.0 Power:0.0 Reward:64.10970446022 Time:32510 TotalReward:358.357684783468
+ETask 7: Configuration:0 Energy:0.0 Power:0.0 Reward:50.154684229362005 Time:32509 TotalReward:408.51236901283005
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:49.393878703595995 Time:32508 TotalReward:457.90624771642604
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:66.904465859584 Time:32512 TotalReward:524.81071357601
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:64.70217125478399 Time:32512 TotalReward:589.5128848307941
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:36.774711620864 Time:32512 TotalReward:626.287596451658
+STOKE: jouleRange: 1.12
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:36.445230150754 Time:32506 TotalReward:662.732826602412
+STOKE: jouleRange: 3.36
+STOKE: Difference at 1.9152, staying!
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:36.60487968993699 Time:32513 TotalReward:699.337706292349
+STOKE: jouleRange: 5.18
+STOKE: Difference at 0.0938, staying!
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:36.6261699377 Time:32515 TotalReward:735.963876230049
+STOKE: jouleRange: 6.70
+STOKE: Difference at 1.4223, staying!
+ETask 15: Configuration:0 Energy:0.0 Power:0.0 Reward:67.535374289625 Time:32517 TotalReward:803.499250519674
+STOKE: jouleRange: 5.60
+STOKE: Difference at 0.3276, staying!
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:69.027239426145 Time:32515 TotalReward:872.526489945819
+STOKE: jouleRange: 4.56
+STOKE: Difference at 0.7174, staying!
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:36.6095497097 Time:32518 TotalReward:909.136039655519
+STOKE: jouleRange: 5.81
+STOKE: Difference at 0.5382, staying!
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:36.850139197013995 Time:32513 TotalReward:945.9861788525329
+STOKE: jouleRange: 6.90
+STOKE: Difference at 1.6218, staying!
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:39.128465464264 Time:32518 TotalReward:985.1146443167969
+STOKE: jouleRange: 7.72
+STOKE: Widening intervals
+STOKE: Config: 0 - Knobs: {interval:4375 priority:100 sensor-configuration:1 batch:1 }  | -- on:17 joules:52.28 reward:0.9621
+STOKE: Config: 1 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:48.16 reward:0.9418
+==ROUND-END==
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:36.37818619456 Time:32540 TotalReward:36.37818619456
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:89.227199647672 Time:32507 TotalReward:125.605385842232
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:66.49701791823999 Time:32552 TotalReward:192.102403760472
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:40.207104635832 Time:32514 TotalReward:232.30950839630398
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:37.0973844936 Time:32540 TotalReward:269.406892889904
+ETask 6: Configuration:2 Energy:0.0 Power:0.0 Reward:36.33091461888 Time:32515 TotalReward:305.737807508784
+ETask 7: Configuration:0 Energy:0.0 Power:0.0 Reward:56.368288561088 Time:32554 TotalReward:362.10609606987197
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:55.620631377920006 Time:32515 TotalReward:417.726727447792
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:56.63030869776001 Time:32509 TotalReward:474.357036145552
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:39.690249052160006 Time:32512 TotalReward:514.047285197712
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:55.048717058048 Time:32512 TotalReward:569.0960022557599
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:74.17179656723201 Time:32506 TotalReward:643.267798822992
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:38.61932543683201 Time:32517 TotalReward:681.887124259824
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:39.21310528128 Time:32508 TotalReward:721.100229541104
+STOKE: jouleRange: 5.90
+STOKE: Tightening intervals
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:10 joules:54.10 reward:0.9710
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:53.35 reward:0.9673
+STOKE: Config: 2 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:36.71 reward:0.8856
+==ROUND-END==
+STOKE: Range:2250 Partition:1125 Middle:7750
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:6625 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:35.994233512832004 Time:32518 TotalReward:35.994233512832004
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:42.121249718016 Time:32522 TotalReward:78.11548323084801
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:38.988526829688 Time:32548 TotalReward:117.10401006053601
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:36.325262889486005 Time:32511 TotalReward:153.429272950022
+ETask 5: Configuration:0 Energy:0.0 Power:0.0 Reward:65.271899895696 Time:32552 TotalReward:218.70117284571802
+ETask 6: Configuration:0 Energy:0.0 Power:0.0 Reward:79.317326165112 Time:32508 TotalReward:298.01849901083
+ETask 7: Configuration:0 Energy:0.0 Power:0.0 Reward:96.36351888158399 Time:32518 TotalReward:394.38201789241396
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:39.822623870976 Time:32512 TotalReward:434.20464176339
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:39.69524244924 Time:32515 TotalReward:473.89988421263
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:39.023587771578 Time:32517 TotalReward:512.923471984208
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:48.4822049088 Time:32506 TotalReward:561.405676893008
+STOKE: jouleRange: 5.99
+STOKE: Difference at 0.0866, staying!
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:38.24409184023 Time:32507 TotalReward:599.649768733238
+STOKE: jouleRange: 7.57
+STOKE: Difference at 1.6632, staying!
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:59.908165701719994 Time:32510 TotalReward:659.557934434958
+STOKE: jouleRange: 6.89
+STOKE: Difference at 0.9837, staying!
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:51.57178587288001 Time:32514 TotalReward:711.129720307838
+STOKE: jouleRange: 7.02
+STOKE: Difference at 1.1121, staying!
+ETask 15: Configuration:0 Energy:0.0 Power:0.0 Reward:52.8845119614 Time:32514 TotalReward:764.014232269238
+STOKE: jouleRange: 7.02
+STOKE: Difference at 1.1198, staying!
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:52.92777552804 Time:32506 TotalReward:816.942007797278
+STOKE: jouleRange: 7.03
+STOKE: Difference at 1.1233, staying!
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:43.79575932270001 Time:32505 TotalReward:860.7377671199781
+STOKE: jouleRange: 7.64
+STOKE: Difference at 1.7352, staying!
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:35.453928832559995 Time:32506 TotalReward:896.1916959525381
+STOKE: jouleRange: 8.70
+STOKE: Widening intervals
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:16 joules:51.30 reward:0.9573
+STOKE: Config: 1 - Knobs: {interval:6625 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:37.66 reward:0.8902
+==ROUND-END==
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:35.64788838912 Time:32512 TotalReward:35.64788838912
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:40.29725510622001 Time:32511 TotalReward:75.94514349534
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:40.960062702719995 Time:32546 TotalReward:116.90520619806
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:35.859743697960006 Time:32517 TotalReward:152.76494989602
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:66.79460991294 Time:32539 TotalReward:219.55955980896
+ETask 6: Configuration:2 Energy:0.0 Power:0.0 Reward:67.550792843625 Time:32515 TotalReward:287.110352652585
+ETask 7: Configuration:2 Energy:0.0 Power:0.0 Reward:65.77188581913299 Time:32511 TotalReward:352.882238471718
+ETask 8: Configuration:2 Energy:0.0 Power:0.0 Reward:37.536019475370004 Time:32511 TotalReward:390.41825794708797
+ETask 9: Configuration:2 Energy:0.0 Power:0.0 Reward:42.83426955262 Time:32515 TotalReward:433.252527499708
+ETask 10: Configuration:1 Energy:0.0 Power:0.0 Reward:157.548306142227 Time:32539 TotalReward:590.800833641935
+ETask 11: Configuration:2 Energy:0.0 Power:0.0 Reward:62.185805060184 Time:32546 TotalReward:652.986638702119
+ETask 12: Configuration:2 Energy:0.0 Power:0.0 Reward:37.147976077290004 Time:32514 TotalReward:690.1346147794089
+ETask 13: Configuration:2 Energy:0.0 Power:0.0 Reward:34.56618547668 Time:32505 TotalReward:724.7008002560889
+ETask 14: Configuration:2 Energy:0.0 Power:0.0 Reward:36.112851551205004 Time:32505 TotalReward:760.8136518072939
+ETask 15: Configuration:2 Energy:0.0 Power:0.0 Reward:72.073548381952 Time:32512 TotalReward:832.887200189246
+ETask 16: Configuration:2 Energy:0.0 Power:0.0 Reward:96.54279192604801 Time:32511 TotalReward:929.429992115294
+ETask 17: Configuration:2 Energy:0.0 Power:0.0 Reward:84.39294028089601 Time:32517 TotalReward:1013.82293239619
+STOKE: jouleRange: 1.37
+ETask 18: Configuration:2 Energy:0.0 Power:0.0 Reward:95.339397950784 Time:32506 TotalReward:1109.162330346974
+STOKE: jouleRange: 1.45
+ETask 19: Configuration:2 Energy:0.0 Power:0.0 Reward:62.048790224928 Time:32509 TotalReward:1171.211120571902
+STOKE: jouleRange: 1.49
+ETask 20: Configuration:2 Energy:0.0 Power:0.0 Reward:34.690163878655994 Time:32507 TotalReward:1205.901284450558
+STOKE: jouleRange: 0.29
+ETask 21: Configuration:2 Energy:0.0 Power:0.0 Reward:38.54030325350401 Time:32512 TotalReward:1244.441587704062
+STOKE: jouleRange: 1.62
+ETask 22: Configuration:1 Energy:0.0 Power:0.0 Reward:157.547924232192 Time:32544 TotalReward:1401.9895119362538
+STOKE: jouleRange: 1.62
+ETask 23: Configuration:2 Energy:0.0 Power:0.0 Reward:85.529946371688 Time:32526 TotalReward:1487.519458307942
+STOKE: jouleRange: 0.02
+ETask 24: Configuration:1 Energy:0.0 Power:0.0 Reward:32.274310964792 Time:32552 TotalReward:1519.793769272734
+STOKE: jouleRange: 0.02
+ETask 25: Configuration:2 Energy:0.0 Power:0.0 Reward:80.74373720705 Time:32530 TotalReward:1600.537506479784
+STOKE: jouleRange: 1.13
+ETask 26: Configuration:2 Energy:0.0 Power:0.0 Reward:34.873196526684005 Time:32514 TotalReward:1635.410703006468
+STOKE: jouleRange: 0.25
+ETask 27: Configuration:0 Energy:0.0 Power:0.0 Reward:44.663759582293004 Time:32563 TotalReward:1680.0744625887612
+STOKE: jouleRange: 0.25
+ETask 28: Configuration:0 Energy:0.0 Power:0.0 Reward:35.062357224399996 Time:32516 TotalReward:1715.1368198131613
+ETask 29: Configuration:2 Energy:0.0 Power:0.0 Reward:75.75810571063802 Time:32526 TotalReward:1790.8949255237994
+ETask 30: Configuration:2 Energy:0.0 Power:0.0 Reward:68.38358702034999 Time:32515 TotalReward:1859.2785125441494
+ETask 31: Configuration:2 Energy:0.0 Power:0.0 Reward:72.40263440546599 Time:32506 TotalReward:1931.6811469496154
+STOKE: jouleRange: 1.45
+ETask 32: Configuration:2 Energy:0.0 Power:0.0 Reward:34.876726952759995 Time:32508 TotalReward:1966.5578739023754
+STOKE: jouleRange: 0.29
+ETask 33: Configuration:2 Energy:0.0 Power:0.0 Reward:72.122443902432 Time:32516 TotalReward:2038.6803178048074
+STOKE: jouleRange: 0.78
+ETask 34: Configuration:2 Energy:0.0 Power:0.0 Reward:34.707625793873994 Time:32507 TotalReward:2073.3879435986814
+STOKE: jouleRange: 0.26
+ETask 35: Configuration:2 Energy:0.0 Power:0.0 Reward:59.577508731509994 Time:32515 TotalReward:2132.9654523301915
+Hit safety!
+ERROR: We got 'done' signal before finishing experiment!
+ERun: Time:3806355
+==END-RUN 0==
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:4 joules:38.92 reward:0.8964
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:5 joules:84.84 reward:0.8780
+STOKE: Config: 2 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:26 joules:59.73 reward:0.9987
+STOKE: Range:9000 Partition:4500 Middle:5500
+==RUN 1==
+==ROUND-START==
+Bandit Runs:1 Tasks-in-Run:10
+Self-Optimizer Rounds:0 Tasks-in-Round:0
+Continuous Knob Rounds:Inf Tasks-in-Round:0
+STOKE: Start Bat: 0.760000
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+STOKE: Start Bat: 0.760000
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:47.16081773625199 Time:32516 TotalReward:47.16081773625199
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:51.485914938307005 Time:32509 TotalReward:98.64673267455899
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:69.990659820328 Time:32653 TotalReward:168.637392494887
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:41.17379779062 Time:32516 TotalReward:209.811190285507
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:73.91731972302 Time:32535 TotalReward:283.728510008527
+ETask 6: Configuration:2 Energy:0.0 Power:0.0 Reward:73.500236869341 Time:32509 TotalReward:357.228746877868
+ETask 7: Configuration:1 Energy:0.0 Power:0.0 Reward:38.473901120655 Time:32571 TotalReward:395.702647998523
+ETask 8: Configuration:1 Energy:0.0 Power:0.0 Reward:64.885450702914 Time:32517 TotalReward:460.588098701437
+ETask 9: Configuration:1 Energy:0.0 Power:0.0 Reward:52.26793072776599 Time:32513 TotalReward:512.856029429203
+ETask 10: Configuration:1 Energy:0.0 Power:0.0 Reward:34.36902221742 Time:32514 TotalReward:547.225051646623
+ETask 11: Configuration:1 Energy:0.0 Power:0.0 Reward:37.334965398150004 Time:32515 TotalReward:584.560017044773
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:51.40179825795 Time:32535 TotalReward:635.9618153027229
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:52.22942111520001 Time:32520 TotalReward:688.1912364179229
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:56.2597771722 Time:32515 TotalReward:744.4510135901229
+ETask 15: Configuration:2 Energy:0.0 Power:0.0 Reward:88.78154402145599 Time:32538 TotalReward:833.2325576115788
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:66.423311136 Time:32550 TotalReward:899.6558687475788
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:74.496646919388 Time:32509 TotalReward:974.1525156669668
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:36.34887573936 Time:32524 TotalReward:1010.5013914063268
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:37.160486502744 Time:32527 TotalReward:1047.6618779090709
+ETask 20: Configuration:0 Energy:0.0 Power:0.0 Reward:73.52963672824801 Time:32517 TotalReward:1121.191514637319
+ETask 21: Configuration:0 Energy:0.0 Power:0.0 Reward:46.749253677424 Time:32503 TotalReward:1167.9407683147429
+ETask 22: Configuration:1 Energy:0.0 Power:0.0 Reward:38.79912890952 Time:32545 TotalReward:1206.739897224263
+ETask 23: Configuration:0 Energy:0.0 Power:0.0 Reward:43.176033479488 Time:32552 TotalReward:1249.915930703751
+ETask 24: Configuration:0 Energy:0.0 Power:0.0 Reward:53.822161451039996 Time:32510 TotalReward:1303.738092154791
+ETask 25: Configuration:0 Energy:0.0 Power:0.0 Reward:91.98188186304 Time:32520 TotalReward:1395.719974017831
+ETask 26: Configuration:0 Energy:0.0 Power:0.0 Reward:74.18083977612 Time:32515 TotalReward:1469.9008137939509
+ETask 27: Configuration:0 Energy:0.0 Power:0.0 Reward:84.96387233712 Time:32508 TotalReward:1554.8646861310708
+ETask 28: Configuration:0 Energy:0.0 Power:0.0 Reward:69.129832713144 Time:32523 TotalReward:1623.9945188442148
+ETask 29: Configuration:0 Energy:0.0 Power:0.0 Reward:55.54476948148799 Time:32522 TotalReward:1679.5392883257027
+ETask 30: Configuration:0 Energy:0.0 Power:0.0 Reward:36.8962606036 Time:32525 TotalReward:1716.4355489293027
+ETask 31: Configuration:1 Energy:0.0 Power:0.0 Reward:55.06639603423999 Time:32540 TotalReward:1771.5019449635427
+ETask 32: Configuration:0 Energy:0.0 Power:0.0 Reward:66.58861266797999 Time:32532 TotalReward:1838.0905576315226
+ETask 33: Configuration:0 Energy:0.0 Power:0.0 Reward:52.107351669559996 Time:32510 TotalReward:1890.1979093010827
+ETask 34: Configuration:0 Energy:0.0 Power:0.0 Reward:38.99604466599399 Time:32513 TotalReward:1929.1939539670768
+ETask 35: Configuration:2 Energy:0.0 Power:0.0 Reward:71.12320465269599 Time:32532 TotalReward:2000.3171586197727
+ETask 36: Configuration:0 Energy:0.0 Power:0.0 Reward:35.285034896832 Time:32557 TotalReward:2035.6021935166048
+ETask 37: Configuration:0 Energy:0.0 Power:0.0 Reward:36.106501370400004 Time:32520 TotalReward:2071.7086948870046
+ETask 38: Configuration:0 Energy:0.0 Power:0.0 Reward:41.71451467177201 Time:32511 TotalReward:2113.4232095587768
+ETask 39: Configuration:0 Energy:0.0 Power:0.0 Reward:56.477170142240006 Time:32524 TotalReward:2169.900379701017
+ETask 40: Configuration:0 Energy:0.0 Power:0.0 Reward:41.717080850276 Time:32513 TotalReward:2211.617460551293
+ETask 41: Configuration:2 Energy:0.0 Power:0.0 Reward:69.94122199878 Time:32538 TotalReward:2281.5586825500727
+ETask 42: Configuration:0 Energy:0.0 Power:0.0 Reward:37.01211477246 Time:32567 TotalReward:2318.5707973225326
+ETask 43: Configuration:2 Energy:0.0 Power:0.0 Reward:73.91007539169 Time:32534 TotalReward:2392.4808727142226
+ETask 44: Configuration:0 Energy:0.0 Power:0.0 Reward:67.43942244324 Time:32568 TotalReward:2459.9202951574625
+ETask 45: Configuration:0 Energy:0.0 Power:0.0 Reward:36.846078081915 Time:32507 TotalReward:2496.7663732393776
+ETask 46: Configuration:0 Energy:0.0 Power:0.0 Reward:44.468839473975 Time:32515 TotalReward:2541.2352127133527
+ETask 47: Configuration:0 Energy:0.0 Power:0.0 Reward:35.31969013425 Time:32525 TotalReward:2576.5549028476025
+ETask 48: Configuration:0 Energy:0.0 Power:0.0 Reward:36.904480954680004 Time:32524 TotalReward:2613.4593838022824
+ETask 49: Configuration:0 Energy:0.0 Power:0.0 Reward:45.338523217559995 Time:32507 TotalReward:2658.7979070198426
+ETask 50: Configuration:2 Energy:0.0 Power:0.0 Reward:85.18129527599999 Time:32538 TotalReward:2743.9792022958427
+ETask 51: Configuration:0 Energy:0.0 Power:0.0 Reward:83.904564825536 Time:32536 TotalReward:2827.8837671213787
+ETask 52: Configuration:0 Energy:0.0 Power:0.0 Reward:60.882311757701 Time:32519 TotalReward:2888.7660788790795
+ETask 53: Configuration:0 Energy:0.0 Power:0.0 Reward:69.321773784965 Time:32513 TotalReward:2958.0878526640445
+ETask 54: Configuration:0 Energy:0.0 Power:0.0 Reward:36.61917373777 Time:32513 TotalReward:2994.7070264018143
+STOKE: jouleRange: 6.68
+STOKE: Tightening intervals
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:38 joules:53.32 reward:0.9397
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:9 joules:48.04 reward:0.8921
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:7 joules:76.62 reward:0.8501
+==ROUND-END==
+STOKE: Range:4500 Partition:2250 Middle:10000
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:35.472076650615 Time:32505 TotalReward:35.472076650615
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:37.998278756866995 Time:32521 TotalReward:73.470355407482
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:38.04334769729199 Time:32543 TotalReward:111.513703104774
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:37.461071578529 Time:32507 TotalReward:148.974774683303
+ETask 5: Configuration:1 Energy:0.0 Power:0.0 Reward:48.305040299577 Time:32509 TotalReward:197.27981498288
+ETask 6: Configuration:1 Energy:0.0 Power:0.0 Reward:37.469138379558004 Time:32514 TotalReward:234.748953362438
+ETask 7: Configuration:1 Energy:0.0 Power:0.0 Reward:39.304530858956 Time:32516 TotalReward:274.053484221394
+ETask 8: Configuration:1 Energy:0.0 Power:0.0 Reward:36.739388541825 Time:32517 TotalReward:310.792872763219
+ETask 9: Configuration:1 Energy:0.0 Power:0.0 Reward:36.84275707679401 Time:32506 TotalReward:347.635629840013
+ETask 10: Configuration:1 Energy:0.0 Power:0.0 Reward:37.004245367550006 Time:32509 TotalReward:384.639875207563
+ETask 11: Configuration:1 Energy:0.0 Power:0.0 Reward:36.93109305561 Time:32513 TotalReward:421.57096826317303
+STOKE: jouleRange: 21.32
+STOKE: Widening intervals
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:36.74 reward:0.7902
+STOKE: Config: 1 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:9 joules:38.68 reward:0.8077
+==ROUND-END==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:35.256302844036 Time:32546 TotalReward:35.256302844036
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:49.584847423565996 Time:32513 TotalReward:84.84115026760199
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:81.80034418035 Time:32547 TotalReward:166.64149444795197
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:55.61387768727 Time:32515 TotalReward:222.25537213522196
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:83.99748192883999 Time:32540 TotalReward:306.2528540640619
+ETask 6: Configuration:2 Energy:0.0 Power:0.0 Reward:69.12767764203998 Time:32510 TotalReward:375.3805317061019
+ETask 7: Configuration:1 Energy:0.0 Power:0.0 Reward:66.81121939934998 Time:32559 TotalReward:442.1917511054519
+ETask 8: Configuration:1 Energy:0.0 Power:0.0 Reward:80.69125261085 Time:32515 TotalReward:522.8830037163019
+ETask 9: Configuration:1 Energy:0.0 Power:0.0 Reward:37.06650660125 Time:32515 TotalReward:559.9495103175519
+ETask 10: Configuration:1 Energy:0.0 Power:0.0 Reward:37.60234004403 Time:32514 TotalReward:597.551850361582
+ETask 11: Configuration:1 Energy:0.0 Power:0.0 Reward:44.792983468230005 Time:32514 TotalReward:642.3448338298119
+ETask 12: Configuration:1 Energy:0.0 Power:0.0 Reward:66.97236382479001 Time:32511 TotalReward:709.317197654602
+ETask 13: Configuration:2 Energy:0.0 Power:0.0 Reward:74.23305931498001 Time:32542 TotalReward:783.5502569695819
+ETask 14: Configuration:1 Energy:0.0 Power:0.0 Reward:65.51786659439999 Time:32560 TotalReward:849.0681235639819
+ETask 15: Configuration:1 Energy:0.0 Power:0.0 Reward:47.90375597421001 Time:32517 TotalReward:896.9718795381918
+ETask 16: Configuration:1 Energy:0.0 Power:0.0 Reward:37.54478473665001 Time:32514 TotalReward:934.5166642748419
+ETask 17: Configuration:1 Energy:0.0 Power:0.0 Reward:37.51863293304 Time:32508 TotalReward:972.0352972078819
+STOKE: jouleRange: 5.01
+STOKE: Tightening intervals
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:42.42 reward:0.8414
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:12 joules:54.99 reward:0.9548
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:3 joules:75.79 reward:0.8576
+==ROUND-END==
+STOKE: Range:4500 Partition:2250 Middle:5500
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:41.145153408476006 Time:32554 TotalReward:41.145153408476006
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:35.435593433188 Time:32506 TotalReward:76.580746841664
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:41.593132319648 Time:32557 TotalReward:118.17387916131199
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:67.674534823233 Time:32517 TotalReward:185.848413984545
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:84.07303629121799 Time:32534 TotalReward:269.921450275763
+ETask 6: Configuration:2 Energy:0.0 Power:0.0 Reward:103.34712581692399 Time:32516 TotalReward:373.268576092687
+ETask 7: Configuration:1 Energy:0.0 Power:0.0 Reward:58.011734328052995 Time:32549 TotalReward:431.28031042073997
+ETask 8: Configuration:1 Energy:0.0 Power:0.0 Reward:37.762011454356006 Time:32508 TotalReward:469.042321875096
+ETask 9: Configuration:1 Energy:0.0 Power:0.0 Reward:38.694423468848 Time:32507 TotalReward:507.736745343944
+ETask 10: Configuration:1 Energy:0.0 Power:0.0 Reward:39.683837029548 Time:32506 TotalReward:547.420582373492
+ETask 11: Configuration:1 Energy:0.0 Power:0.0 Reward:87.437380713606 Time:32506 TotalReward:634.857963087098
+ETask 12: Configuration:1 Energy:0.0 Power:0.0 Reward:44.48669819294399 Time:32506 TotalReward:679.344661280042
+ETask 13: Configuration:1 Energy:0.0 Power:0.0 Reward:37.419900062159996 Time:32505 TotalReward:716.764561342202
+ETask 14: Configuration:1 Energy:0.0 Power:0.0 Reward:48.17316687971199 Time:32519 TotalReward:764.937728221914
+STOKE: jouleRange: 9.91
+STOKE: Widening intervals
+STOKE: Config: 0 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:38.29 reward:0.8042
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:10 joules:50.09 reward:0.9107
+STOKE: Config: 2 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:93.71 reward:0.6960
+==ROUND-END==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:89.08570935149899 Time:32533 TotalReward:89.08570935149899
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:38.53939504282 Time:32510 TotalReward:127.62510439431898
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:40.47836732982 Time:32556 TotalReward:168.10347172413898
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:130.12480381723202 Time:32517 TotalReward:298.228275541371
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:82.60215926561999 Time:32535 TotalReward:380.830434806991
+ETask 6: Configuration:2 Energy:0.0 Power:0.0 Reward:77.24263382418002 Time:32505 TotalReward:458.073068631171
+ETask 7: Configuration:0 Energy:0.0 Power:0.0 Reward:33.1471165998 Time:32550 TotalReward:491.22018523097097
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:143.07132947565398 Time:32519 TotalReward:634.291514706625
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:58.31745899935199 Time:32522 TotalReward:692.608973705977
+ETask 10: Configuration:1 Energy:0.0 Power:0.0 Reward:52.438373726580004 Time:32542 TotalReward:745.047347432557
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:49.152296613312 Time:32544 TotalReward:794.199644045869
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:34.225239712328 Time:32522 TotalReward:828.424883758197
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:34.24854892258801 Time:32526 TotalReward:862.673432680785
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:35.88143590787 Time:32515 TotalReward:898.554868588655
+ETask 15: Configuration:0 Energy:0.0 Power:0.0 Reward:56.57698872027001 Time:32517 TotalReward:955.1318573089251
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:42.74717535324 Time:32520 TotalReward:997.8790326621651
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:66.104626837254 Time:32523 TotalReward:1063.983659499419
+STOKE: jouleRange: 3.24
+STOKE: Tightening intervals
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:12 joules:56.76 reward:0.9834
+STOKE: Config: 1 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:3 joules:74.35 reward:0.9265
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:79.92 reward:0.8979
+==ROUND-END==
+STOKE: Range:4500 Partition:2250 Middle:10000
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+==ROUND-START==
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:70.25352701143 Time:32515 TotalReward:70.25352701143
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:142.23384413655498 Time:32521 TotalReward:212.48737114798496
+ETask 3: Configuration:1 Energy:0.0 Power:0.0 Reward:65.24646061621799 Time:32543 TotalReward:277.73383176420293
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:43.542982327424994 Time:32515 TotalReward:321.2768140916279
+Hit safety!
+ERROR: We got 'done' signal before finishing experiment!
+ERun: Time:3806925
+==END-RUN 1==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:106.24 reward:0.7631
+STOKE: Config: 1 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:54.39 reward:0.9713

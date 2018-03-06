@@ -1,0 +1,407 @@
+==RUN 0==
+Bandit Runs:3 Tasks-in-Run:20
+Self-Optimizer Rounds:0 Tasks-in-Round:0
+Continuous Knob Rounds:Inf Tasks-in-Round:0
+STOKE: Start Bat: 0.370000
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:36.93 Time:30011 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:222.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:75.10 Time:30044 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:222.00 } | -- on:1 reward:0.6721933276
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:73.54 Time:30043 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:222.00 } | -- on:1 reward:0.6721933276
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:75.40 Time:30047 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:222.00 } | -- on:1 reward:0.6721933276
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 5: Configuration:0 Energy:0.00 Power:0.00 Reward:35.80 Time:30054
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:273.00 } | -- on:2 reward:0.6771896939
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 6: Configuration:0 Energy:0.00 Power:0.00 Reward:35.74 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:341.00 } | -- on:3 reward:0.6790208206
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 7: Configuration:0 Energy:0.00 Power:0.00 Reward:43.17 Time:30009
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:389.00 } | -- on:4 reward:0.6634444879
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 8: Configuration:0 Energy:0.00 Power:0.00 Reward:38.68 Time:30011
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:426.00 } | -- on:5 reward:0.6620810858
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:48.53 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:447.00 } | -- on:6 reward:0.6465917264
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 10: Configuration:0 Energy:0.00 Power:0.00 Reward:49.06 Time:30006
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:504.00 } | -- on:7 reward:0.6348543466
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 11: Configuration:0 Energy:0.00 Power:0.00 Reward:35.54 Time:30013
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:555.00 } | -- on:8 reward:0.6410545435
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 12: Configuration:0 Energy:0.00 Power:0.00 Reward:44.21 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:597.00 } | -- on:9 reward:0.6373316288
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 13: Configuration:0 Energy:0.00 Power:0.00 Reward:37.05 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:658.00 } | -- on:10 reward:0.6407075088
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 14: Configuration:0 Energy:0.00 Power:0.00 Reward:35.47 Time:30009
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:693.00 } | -- on:11 reward:0.6447445588
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 15: Configuration:0 Energy:0.00 Power:0.00 Reward:41.00 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:714.00 } | -- on:12 reward:0.6440170749
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 16: Configuration:0 Energy:0.00 Power:0.00 Reward:36.76 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:750.00 } | -- on:13 reward:0.6462991382
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:37.42 Time:30006
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:808.00 } | -- on:14 reward:0.6478317899
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 18: Configuration:0 Energy:0.00 Power:0.00 Reward:35.33 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:851.00 } | -- on:15 reward:0.6503994240
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 19: Configuration:0 Energy:0.00 Power:0.00 Reward:40.18 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:908.00 } | -- on:16 reward:0.6499580229
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:55.00 } | -- on:1 reward:0.3471420124
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+STOKE: Randomly selected 2
+ETask 20: Configuration:2 Energy:0.00 Power:0.00 Reward:90.20 Time:30037
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:908.00 } | -- on:16 reward:0.6499580229
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:199.00 } | -- on:2 reward:0.2731990735
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 21: Configuration:0 Energy:0.00 Power:0.00 Reward:34.07 Time:30048
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:939.00 } | -- on:17 reward:0.6527588826
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:199.00 } | -- on:2 reward:0.2731990735
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 22: Configuration:0 Energy:0.00 Power:0.00 Reward:36.71 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:970.00 } | -- on:18 reward:0.6539437256
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:199.00 } | -- on:2 reward:0.2731990735
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 23: Configuration:0 Energy:0.00 Power:0.00 Reward:35.56 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:1010.00 } | -- on:19 reward:0.6555400722
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:199.00 } | -- on:2 reward:0.2731990735
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 24: Configuration:0 Energy:0.00 Power:0.00 Reward:38.16 Time:30010
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:1018.00 } | -- on:20 reward:0.6558262968
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:199.00 } | -- on:2 reward:0.2731990735
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ETask 25: Configuration:0 Energy:0.00 Power:0.00 Reward:40.62 Time:30006
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:1054.00 } | -- on:21 reward:0.6550436401
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:199.00 } | -- on:2 reward:0.2731990735
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+ERun: Time:750868
+==END-RUN 0==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:1054.00 } | -- on:21 reward:0.6550436401
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:104.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:199.00 } | -- on:2 reward:0.2731990735
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:242.00 } | -- on:1 reward:0.3306623141
+==RUN 1==
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:75.21 Time:30008 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:35.00 } | -- on:1 reward:0.3323174637
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:67.94 Time:30046 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:35.00 } | -- on:1 reward:0.3323174637
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:72.00 } | -- on:1 reward:0.3968617333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:81.54 Time:30048 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:35.00 } | -- on:1 reward:0.3323174637
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:72.00 } | -- on:1 reward:0.3968617333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:72.59 Time:30042 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:35.00 } | -- on:1 reward:0.3323174637
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:72.00 } | -- on:1 reward:0.3968617333
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 5: Configuration:1 Energy:0.00 Power:0.00 Reward:74.13 Time:30049
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:35.00 } | -- on:1 reward:0.3323174637
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:97.00 } | -- on:2 reward:0.3693904455
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 6: Configuration:1 Energy:0.00 Power:0.00 Reward:40.89 Time:30006
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:35.00 } | -- on:1 reward:0.3323174637
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:119.00 } | -- on:3 reward:0.4585906175
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 7: Configuration:1 Energy:0.00 Power:0.00 Reward:72.59 Time:30009
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:35.00 } | -- on:1 reward:0.3323174637
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+STOKE: Randomly selected 0
+ETask 8: Configuration:0 Energy:0.00 Power:0.00 Reward:35.55 Time:30046
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:74.00 } | -- on:2 reward:0.5083410487
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:36.65 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:97.00 } | -- on:3 reward:0.5637640201
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 10: Configuration:0 Energy:0.00 Power:0.00 Reward:35.30 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:138.00 } | -- on:4 reward:0.5944716782
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 11: Configuration:0 Energy:0.00 Power:0.00 Reward:35.35 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:151.00 } | -- on:5 reward:0.6128052072
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 12: Configuration:0 Energy:0.00 Power:0.00 Reward:37.78 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:185.00 } | -- on:6 reward:0.6214355924
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 13: Configuration:0 Energy:0.00 Power:0.00 Reward:45.13 Time:30006
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:205.00 } | -- on:7 reward:0.6182850411
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 14: Configuration:0 Energy:0.00 Power:0.00 Reward:43.23 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:223.00 } | -- on:8 reward:0.6180252356
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 15: Configuration:0 Energy:0.00 Power:0.00 Reward:47.40 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:240.00 } | -- on:9 reward:0.6137105146
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 16: Configuration:0 Energy:0.00 Power:0.00 Reward:80.91 Time:30006
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:265.00 } | -- on:10 reward:0.5805133525
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:72.20 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:286.00 } | -- on:11 reward:0.5603811132
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 18: Configuration:0 Energy:0.00 Power:0.00 Reward:64.25 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:327.00 } | -- on:12 reward:0.5494842910
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 19: Configuration:0 Energy:0.00 Power:0.00 Reward:35.46 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:338.00 } | -- on:13 reward:0.5599253591
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 20: Configuration:0 Energy:0.00 Power:0.00 Reward:42.16 Time:30010
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:356.00 } | -- on:14 reward:0.5646254131
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 21: Configuration:0 Energy:0.00 Power:0.00 Reward:40.79 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:380.00 } | -- on:15 reward:0.5695095366
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 22: Configuration:0 Energy:0.00 Power:0.00 Reward:35.87 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:409.00 } | -- on:16 reward:0.5765150043
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 23: Configuration:0 Energy:0.00 Power:0.00 Reward:50.06 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:430.00 } | -- on:17 reward:0.5752855773
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 24: Configuration:0 Energy:0.00 Power:0.00 Reward:35.66 Time:30006
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:452.00 } | -- on:18 reward:0.5812940189
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ETask 25: Configuration:0 Energy:0.00 Power:0.00 Reward:33.99 Time:30007
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:483.00 } | -- on:19 reward:0.5874514283
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+ERun: Time:1501664
+==END-RUN 1==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:483.00 } | -- on:19 reward:0.5874514283
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:147.00 } | -- on:4 reward:0.4328301118
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:61.00 } | -- on:1 reward:0.2760941952
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:111.00 } | -- on:1 reward:0.3555947827
+==RUN 2==
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:40.61 Time:30011 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:53.00 } | -- on:1 reward:0.6394785253
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:40.66 Time:30046 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:53.00 } | -- on:1 reward:0.6394785253
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:41.00 } | -- on:1 reward:0.6390580710
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:83.41 Time:30047 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:53.00 } | -- on:1 reward:0.6394785253
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:41.00 } | -- on:1 reward:0.6390580710
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:0.00 } | -- on:0 reward:NaN
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:74.67 Time:30042 -- SAMPLE
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:53.00 } | -- on:1 reward:0.6394785253
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:41.00 } | -- on:1 reward:0.6390580710
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 5: Configuration:0 Energy:0.00 Power:0.00 Reward:83.25 Time:30049
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:41.00 } | -- on:1 reward:0.6390580710
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 6: Configuration:1 Energy:0.00 Power:0.00 Reward:40.72 Time:30026
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:79.00 } | -- on:2 reward:0.6387980500
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 7: Configuration:1 Energy:0.00 Power:0.00 Reward:36.19 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:94.00 } | -- on:3 reward:0.6521187643
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 8: Configuration:1 Energy:0.00 Power:0.00 Reward:73.49 Time:30010
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:139.00 } | -- on:4 reward:0.5759860045
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 9: Configuration:1 Energy:0.00 Power:0.00 Reward:37.69 Time:30009
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:198.00 } | -- on:5 reward:0.5938716461
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 10: Configuration:1 Energy:0.00 Power:0.00 Reward:35.96 Time:30013
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:247.00 } | -- on:6 reward:0.6083604474
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 11: Configuration:1 Energy:0.00 Power:0.00 Reward:36.15 Time:30009
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:307.00 } | -- on:7 reward:0.6184588108
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 12: Configuration:1 Energy:0.00 Power:0.00 Reward:46.75 Time:30010
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:353.00 } | -- on:8 reward:0.6142687097
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 13: Configuration:1 Energy:0.00 Power:0.00 Reward:76.95 Time:30010
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:407.00 } | -- on:9 reward:0.5812243437
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 14: Configuration:1 Energy:0.00 Power:0.00 Reward:35.83 Time:30010
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:452.00 } | -- on:10 reward:0.5912904241
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 15: Configuration:1 Energy:0.00 Power:0.00 Reward:80.57 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:506.00 } | -- on:11 reward:0.5634186775
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 16: Configuration:1 Energy:0.00 Power:0.00 Reward:37.59 Time:30008
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:551.00 } | -- on:12 reward:0.5719941080
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 17: Configuration:1 Energy:0.00 Power:0.00 Reward:75.18 Time:30012
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:600.00 } | -- on:13 reward:0.5535764800
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 18: Configuration:1 Energy:0.00 Power:0.00 Reward:76.90 Time:30010
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:668.00 } | -- on:14 reward:0.5367033362
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 19: Configuration:1 Energy:0.00 Power:0.00 Reward:55.79 Time:30009
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:725.00 } | -- on:15 reward:0.5345688270
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 20: Configuration:1 Energy:0.00 Power:0.00 Reward:75.76 Time:30013
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:770.00 } | -- on:16 reward:0.5216211534
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 21: Configuration:1 Energy:0.00 Power:0.00 Reward:72.81 Time:30013
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:824.00 } | -- on:17 reward:0.5117365881
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 22: Configuration:1 Energy:0.00 Power:0.00 Reward:36.85 Time:30014
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:869.00 } | -- on:18 reward:0.5206900639
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 23: Configuration:1 Energy:0.00 Power:0.00 Reward:71.96 Time:30006
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:924.00 } | -- on:19 reward:0.5122956724
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 24: Configuration:1 Energy:0.00 Power:0.00 Reward:36.70 Time:30018
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:969.00 } | -- on:20 reward:0.5203908926
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ETask 25: Configuration:1 Energy:0.00 Power:0.00 Reward:85.72 Time:30009
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:1014.00 } | -- on:21 reward:0.5069928306
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ERun: Time:2252505
+==END-RUN 2==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:1014.00 } | -- on:21 reward:0.5069928306
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724
+ERROR: We got 'done' signal before finishing experiment!
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:91.00 } | -- on:2 reward:0.4501985126
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:1014.00 } | -- on:21 reward:0.5069928306
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:36.00 } | -- on:1 reward:0.2595510872
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:1 reward:0.3371420724

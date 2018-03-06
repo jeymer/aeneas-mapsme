@@ -1,0 +1,111 @@
+==RUN-0==
+Signal: Info:LTE dBM:-89 level:4
+Signal: Info:LTE dBM:-89 level:4
+Signal: Info:LTE dBM:-90 level:4
+Signal: Info:LTE dBM:-95 level:4
+Signal: Info:LTE dBM:-104 level:3
+ETask 4: Configuration:0 Energy:12.00 Power:12.00 Reward:12.00 Time:5009
+Signal: Info:LTE dBM:-93 level:4
+ETask 5: Configuration:18 Energy:11.90 Power:11.90 Reward:11.90 Time:5012
+Signal: Info:LTE dBM:-103 level:3
+ETask 6: Configuration:36 Energy:12.50 Power:12.50 Reward:12.50 Time:5011
+Signal: Info:LTE dBM:-101 level:3
+ETask 7: Configuration:18 Energy:11.70 Power:11.70 Reward:11.70 Time:5012
+Signal: Info:LTE dBM:-103 level:3
+ETask 8: Configuration:18 Energy:11.30 Power:11.30 Reward:11.30 Time:5012
+Signal: Info:LTE dBM:-101 level:3
+ETask 9: Configuration:18 Energy:13.90 Power:13.90 Reward:13.90 Time:5011
+Signal: Info:LTE dBM:-106 level:2
+ETask 10: Configuration:19 Energy:11.20 Power:11.20 Reward:11.20 Time:5012
+Signal: Info:LTE dBM:-110 level:2
+ETask 11: Configuration:19 Energy:11.00 Power:11.00 Reward:11.00 Time:5011
+Signal: Info:LTE dBM:-106 level:2
+ETask 12: Configuration:19 Energy:11.70 Power:11.70 Reward:11.70 Time:5011
+Signal: Info:LTE dBM:-112 level:2
+ETask 13: Configuration:19 Energy:11.30 Power:11.30 Reward:11.30 Time:5011
+Signal: Info:LTE dBM:-112 level:2
+ETask 14: Configuration:19 Energy:10.90 Power:10.90 Reward:10.90 Time:5012
+Signal: Info:LTE dBM:-103 level:3
+ETask 15: Configuration:19 Energy:11.50 Power:11.50 Reward:11.50 Time:5013
+Signal: Info:LTE dBM:-91 level:4
+ETask 16: Configuration:19 Energy:11.00 Power:11.00 Reward:11.00 Time:5011
+Signal: Info:LTE dBM:-93 level:4
+ETask 17: Configuration:19 Energy:10.70 Power:10.70 Reward:10.70 Time:5013
+Signal: Info:LTE dBM:-103 level:3
+ETask 18: Configuration:19 Energy:11.40 Power:11.40 Reward:11.40 Time:5011
+Signal: Info:LTE dBM:-105 level:3
+ETask 19: Configuration:19 Energy:11.00 Power:11.00 Reward:11.00 Time:5009
+Signal: Info:LTE dBM:-96 level:3
+ETask 20: Configuration:19 Energy:10.60 Power:10.60 Reward:10.60 Time:5017
+Signal: Info:LTE dBM:-105 level:3
+ETask 21: Configuration:19 Energy:11.00 Power:11.00 Reward:11.00 Time:5018
+Signal: Info:LTE dBM:-103 level:3
+ETask 22: Configuration:19 Energy:9.70 Power:9.70 Reward:9.70 Time:5015
+Signal: Info:LTE dBM:-105 level:3
+ETask 23: Configuration:19 Energy:9.60 Power:9.60 Reward:9.60 Time:5014
+Signal: Info:LTE dBM:-109 level:2
+ETask 24: Configuration:19 Energy:10.60 Power:10.60 Reward:10.60 Time:5013
+Signal: Info:LTE dBM:-115 level:2
+ETask 25: Configuration:19 Energy:10.30 Power:10.30 Reward:10.30 Time:5015
+Signal: Info:LTE dBM:-110 level:2
+ETask 26: Configuration:19 Energy:10.10 Power:10.10 Reward:10.10 Time:5013
+Signal: Info:LTE dBM:-101 level:3
+ETask 27: Configuration:19 Energy:10.60 Power:10.60 Reward:10.60 Time:5013
+Signal: Info:LTE dBM:-100 level:3
+ETask 28: Configuration:19 Energy:10.40 Power:10.40 Reward:10.40 Time:5012
+Signal: Info:LTE dBM:-101 level:3
+ETask 29: Configuration:19 Energy:10.30 Power:10.30 Reward:10.30 Time:5012
+Signal: Info:LTE dBM:-104 level:3
+ETask 30: Configuration:19 Energy:11.20 Power:11.20 Reward:11.20 Time:5012
+Signal: Info:LTE dBM:-113 level:2
+ETask 31: Configuration:19 Energy:10.70 Power:10.70 Reward:10.70 Time:5011
+Signal: Info:LTE dBM:-112 level:2
+ETask 32: Configuration:19 Energy:10.50 Power:10.50 Reward:10.50 Time:5012
+Signal: Info:LTE dBM:-120 level:1
+ETask 33: Configuration:19 Energy:10.90 Power:10.90 Reward:10.90 Time:5023
+Signal: Info:LTE dBM:-116 level:1
+ETask 34: Configuration:19 Energy:10.30 Power:10.30 Reward:10.30 Time:5016
+Signal: Info:LTE dBM:-117 level:1
+ETask 35: Configuration:19 Energy:10.10 Power:10.10 Reward:10.10 Time:5016
+Signal: Info:WCDMA dBM:-95 level:3
+ETask 36: Configuration:19 Energy:11.30 Power:11.30 Reward:11.30 Time:5005
+Signal: Info:WCDMA dBM:-91 level:3
+ETask 37: Configuration:19 Energy:12.20 Power:12.20 Reward:12.20 Time:5014
+Signal: Info:WCDMA dBM:-97 level:3
+ETask 38: Configuration:19 Energy:13.60 Power:13.60 Reward:13.60 Time:5013
+Signal: Info:WCDMA dBM:-107 level:1
+ETask 39: Configuration:19 Energy:15.30 Power:15.30 Reward:15.30 Time:5012
+Signal: Info:WCDMA dBM:-101 level:2
+ETask 40: Configuration:19 Energy:14.50 Power:14.50 Reward:14.50 Time:5011
+ETask 41: Configuration:19 Energy:13.90 Power:13.90 Reward:13.90 Time:5007
+ETask 42: Configuration:19 Energy:15.00 Power:15.00 Reward:15.00 Time:5010
+ETask 43: Configuration:19 Energy:14.30 Power:14.30 Reward:14.30 Time:5007
+ETask 44: Configuration:19 Energy:14.30 Power:14.30 Reward:14.30 Time:5011
+ETask 45: Configuration:19 Energy:14.70 Power:14.70 Reward:14.70 Time:5007
+ETask 46: Configuration:19 Energy:13.80 Power:13.80 Reward:13.80 Time:5008
+Signal: Info:WCDMA dBM:-105 level:1
+ETask 47: Configuration:19 Energy:15.00 Power:15.00 Reward:15.00 Time:5013
+Signal: Info:WCDMA dBM:-101 level:2
+ETask 48: Configuration:19 Energy:17.90 Power:17.90 Reward:17.90 Time:5009
+Signal: Info:WCDMA dBM:-103 level:2
+ETask 49: Configuration:20 Energy:16.30 Power:16.30 Reward:16.30 Time:5013
+Signal: Info:WCDMA dBM:-97 level:3
+ETask 50: Configuration:21 Energy:14.50 Power:14.50 Reward:14.50 Time:5003
+Signal: Info:WCDMA dBM:-105 level:1
+ETask 51: Configuration:22 Energy:16.60 Power:16.60 Reward:16.60 Time:5010
+Signal: Info:WCDMA dBM:-99 level:2
+ETask 52: Configuration:23 Energy:15.40 Power:15.40 Reward:15.40 Time:5014
+ETask 53: Configuration:24 Energy:14.40 Power:14.40 Reward:14.40 Time:5009
+ETask 54: Configuration:25 Energy:14.70 Power:14.70 Reward:14.70 Time:5009
+ETask 55: Configuration:26 Energy:14.00 Power:14.00 Reward:14.00 Time:5001
+ETask 56: Configuration:27 Energy:14.00 Power:14.00 Reward:14.00 Time:5010
+ETask 57: Configuration:28 Energy:14.40 Power:14.40 Reward:14.40 Time:5008
+Signal: Info:WCDMA dBM:-83 level:4
+ETask 58: Configuration:29 Energy:13.90 Power:13.90 Reward:13.90 Time:5083
+Signal: Info:WCDMA dBM:-81 level:4
+ETask 59: Configuration:30 Energy:15.40 Power:15.40 Reward:15.40 Time:5010
+Signal: Info:WCDMA dBM:-77 level:4
+ETask 60: Configuration:31 Energy:16.80 Power:16.80 Reward:16.80 Time:5010
+Signal: Info:WCDMA dBM:-87 level:4
+ETask 61: Configuration:32 Energy:15.60 Power:15.60 Reward:15.60 Time:5017
+ERun: Reward:733.70 PostConfigReward:697.30 Time:295504

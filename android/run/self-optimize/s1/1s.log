@@ -1,0 +1,77 @@
+==RUN 0==
+STOKE: Start Bat: 0.950000
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+ELocation 0: Accuracy:21.21
+ELocation 1: Accuracy:21.21
+ELocation 2: Accuracy:21.21
+ETask 1: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1036 TotalReward:0.0
+ELocation 3: Accuracy:21.21
+ELocation 4: Accuracy:21.21
+ELocation 5: Accuracy:21.21
+ELocation 6: Accuracy:21.21
+ETask 2: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1040 TotalReward:0.0
+ELocation 7: Accuracy:21.21
+ELocation 8: Accuracy:21.21
+ELocation 9: Accuracy:21.21
+ELocation 10: Accuracy:21.21
+ELocation 11: Accuracy:16.00
+ETask 3: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1026 TotalReward:0.0
+ELocation 12: Accuracy:16.00
+ELocation 13: Accuracy:16.00
+ELocation 14: Accuracy:16.00
+ELocation 15: Accuracy:16.00
+ETask 4: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1038 TotalReward:0.0
+ELocation 16: Accuracy:8.00
+ELocation 17: Accuracy:8.00
+ELocation 18: Accuracy:8.00
+ELocation 19: Accuracy:8.00
+ETask 5: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1037 TotalReward:0.0
+ELocation 20: Accuracy:6.00
+ELocation 21: Accuracy:6.00
+ELocation 22: Accuracy:5.00
+ELocation 23: Accuracy:5.00
+ETask 6: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1045 TotalReward:0.0
+ELocation 24: Accuracy:6.00
+ELocation 25: Accuracy:6.00
+ELocation 26: Accuracy:5.00
+ELocation 27: Accuracy:5.00
+ETask 7: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1029 TotalReward:0.0
+ELocation 28: Accuracy:4.00
+ELocation 29: Accuracy:4.00
+ELocation 30: Accuracy:4.00
+ELocation 31: Accuracy:4.00
+ETask 8: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1036 TotalReward:0.0
+ELocation 32: Accuracy:4.00
+ELocation 33: Accuracy:4.00
+ELocation 34: Accuracy:4.00
+ELocation 35: Accuracy:4.00
+ETask 9: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1031 TotalReward:0.0
+ELocation 36: Accuracy:4.00
+ELocation 37: Accuracy:4.00
+ELocation 38: Accuracy:3.00
+ELocation 39: Accuracy:3.00
+ETask 10: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1030 TotalReward:0.0
+ELocation 40: Accuracy:3.00
+ELocation 41: Accuracy:3.00
+ELocation 42: Accuracy:4.00
+ELocation 43: Accuracy:4.00
+ELocation 44: Accuracy:4.00
+ETask 11: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1037 TotalReward:0.0
+ELocation 45: Accuracy:4.00
+ELocation 46: Accuracy:4.00
+ELocation 47: Accuracy:4.00
+ELocation 48: Accuracy:4.00
+ELocation 49: Accuracy:3.90
+ETask 12: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1045 TotalReward:0.0
+ELocation 50: Accuracy:3.90
+ELocation 51: Accuracy:3.90
+ELocation 52: Accuracy:3.90
+ELocation 53: Accuracy:4.00
+ETask 13: Configuration:3 Energy:0.0 Power:0.0 Reward:0.0 Time:1046 TotalReward:0.0
+ERROR: We got 'done' signal before finishing experiment!
+ERun: Time:27082
+==END-RUN 0==
+STOKE: Config: 3 - Knobs: {task-interval:1000 } Records:{location_accuracy:9.28} | -- on:13 reward:0.00

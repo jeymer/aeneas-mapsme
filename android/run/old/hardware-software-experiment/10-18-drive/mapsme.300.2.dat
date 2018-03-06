@@ -1,0 +1,10 @@
+energy	drain	gps_interval	sensor_configuration
+84.31	0.02	10000	Sensor Off
+92.65	0.01	5000	Sensor Off
+155.61	0.02	500	Sensor Off
+82.77	0.01	10000	Callback Off
+114.32	0.03	5000	Callback Off
+142.18	0.02	500	Callback Off
+175.28	0.03	10000	Everything On
+188.82	0.03	5000	Everything On
+195.57	0.03	500	Everything On

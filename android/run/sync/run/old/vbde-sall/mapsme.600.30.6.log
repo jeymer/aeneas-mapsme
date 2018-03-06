@@ -1,0 +1,975 @@
+==RUN 0==
+Bandit Runs:6 Tasks-in-Run:20
+Self-Optimizer Rounds:0 Tasks-in-Round:0
+Continuous Knob Rounds:Inf Tasks-in-Round:0
+STOKE: Start Bat: 0.780000
+ELocation 0: Diff:0 ms Accuracy:20.00
+ELocation 1: Diff:10307 ms Accuracy:105.76
+ELocation 2: Diff:11134 ms Accuracy:18.00
+ELocation 3: Diff:10474 ms Accuracy:16.00
+ELocation 4: Diff:19526 ms Accuracy:19.00
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:36.23 Time:30015 -- SAMPLE
+ELocation 5: Diff:8380 ms Accuracy:19.00
+ELocation 6: Diff:1 ms Accuracy:19.00
+ELocation 7: Diff:4619 ms Accuracy:7.00
+ELocation 8: Diff:5000 ms Accuracy:4.00
+ELocation 9: Diff:5000 ms Accuracy:4.00
+ELocation 10: Diff:5000 ms Accuracy:4.00
+ELocation 11: Diff:5000 ms Accuracy:4.00
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:38.15 Time:30043 -- SAMPLE
+ELocation 12: Diff:5455 ms Accuracy:6.00
+ELocation 13: Diff:-455 ms Accuracy:6.00
+ELocation 14: Diff:3000 ms Accuracy:6.00
+ELocation 15: Diff:3000 ms Accuracy:6.00
+ELocation 16: Diff:3000 ms Accuracy:5.00
+ELocation 17: Diff:3000 ms Accuracy:6.00
+ELocation 18: Diff:3000 ms Accuracy:6.00
+ELocation 19: Diff:3000 ms Accuracy:7.00
+ELocation 20: Diff:3000 ms Accuracy:5.00
+ELocation 21: Diff:3000 ms Accuracy:6.00
+ELocation 22: Diff:2000 ms Accuracy:6.00
+ELocation 23: Diff:3000 ms Accuracy:6.00
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:76.97 Time:30059 -- SAMPLE
+ELocation 24: Diff:1501 ms Accuracy:5.00
+ELocation 25: Diff:-8 ms Accuracy:5.00
+ELocation 26: Diff:507 ms Accuracy:6.00
+ELocation 27: Diff:1000 ms Accuracy:6.00
+ELocation 28: Diff:1000 ms Accuracy:10.00
+ELocation 29: Diff:1000 ms Accuracy:10.00
+ELocation 30: Diff:1000 ms Accuracy:10.00
+ELocation 31: Diff:1000 ms Accuracy:10.00
+ELocation 32: Diff:1000 ms Accuracy:10.00
+ELocation 33: Diff:1000 ms Accuracy:10.00
+ELocation 34: Diff:1000 ms Accuracy:10.00
+ELocation 35: Diff:1000 ms Accuracy:10.00
+ELocation 36: Diff:1000 ms Accuracy:10.00
+ELocation 37: Diff:1000 ms Accuracy:10.00
+ELocation 38: Diff:1000 ms Accuracy:10.00
+ELocation 39: Diff:1000 ms Accuracy:10.00
+ELocation 40: Diff:1000 ms Accuracy:10.00
+ELocation 41: Diff:1000 ms Accuracy:10.00
+ELocation 42: Diff:1000 ms Accuracy:10.00
+ELocation 43: Diff:1000 ms Accuracy:10.00
+ELocation 44: Diff:1000 ms Accuracy:10.00
+ELocation 45: Diff:1000 ms Accuracy:10.00
+ELocation 46: Diff:1000 ms Accuracy:10.00
+ELocation 47: Diff:1000 ms Accuracy:10.00
+ELocation 48: Diff:1000 ms Accuracy:9.00
+ELocation 49: Diff:1000 ms Accuracy:9.00
+ELocation 50: Diff:1000 ms Accuracy:9.00
+ELocation 51: Diff:1000 ms Accuracy:9.00
+ELocation 52: Diff:1000 ms Accuracy:9.00
+ELocation 53: Diff:1000 ms Accuracy:9.00
+ELocation 54: Diff:1000 ms Accuracy:9.00
+ELocation 55: Diff:1000 ms Accuracy:9.00
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:75.22 Time:30033 -- SAMPLE
+ELocation 56: Diff:558 ms Accuracy:9.00
+ELocation 57: Diff:-14 ms Accuracy:9.00
+ELocation 58: Diff:11456 ms Accuracy:33.00
+ELocation 59: Diff:11000 ms Accuracy:16.00
+ETask 5: Configuration:0 Energy:0.00 Power:0.00 Reward:46.32 Time:30052
+ELocation 60: Diff:7623 ms Accuracy:16.00
+ELocation 61: Diff:1 ms Accuracy:16.00
+ELocation 62: Diff:5376 ms Accuracy:6.00
+ELocation 63: Diff:6000 ms Accuracy:5.00
+ELocation 64: Diff:6000 ms Accuracy:4.00
+ELocation 65: Diff:5000 ms Accuracy:4.00
+ELocation 66: Diff:6000 ms Accuracy:3.00
+ETask 6: Configuration:1 Energy:0.00 Power:0.00 Reward:44.24 Time:30051
+ELocation 67: Diff:6000 ms Accuracy:3.00
+ELocation 68: Diff:5000 ms Accuracy:3.00
+ELocation 69: Diff:5000 ms Accuracy:3.00
+ELocation 70: Diff:5000 ms Accuracy:3.00
+ELocation 71: Diff:6000 ms Accuracy:3.00
+ETask 7: Configuration:1 Energy:0.00 Power:0.00 Reward:41.19 Time:30016
+ELocation 72: Diff:5000 ms Accuracy:3.00
+ELocation 73: Diff:6000 ms Accuracy:9.00
+ELocation 74: Diff:5000 ms Accuracy:9.00
+ELocation 75: Diff:5000 ms Accuracy:10.00
+ELocation 76: Diff:6000 ms Accuracy:9.00
+ELocation 77: Diff:5000 ms Accuracy:9.00
+ETask 8: Configuration:1 Energy:0.00 Power:0.00 Reward:74.76 Time:30011
+ELocation 78: Diff:2753 ms Accuracy:10.00
+ELocation 79: Diff:-12 ms Accuracy:10.00
+ELocation 80: Diff:10722 ms Accuracy:10.00
+ELocation 81: Diff:10537 ms Accuracy:22.00
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:36.87 Time:30052
+ELocation 82: Diff:10000 ms Accuracy:20.00
+ELocation 83: Diff:10000 ms Accuracy:20.00
+ETask 10: Configuration:0 Energy:0.00 Power:0.00 Reward:37.93 Time:30010
+ELocation 84: Diff:20000 ms Accuracy:42.00
+ELocation 85: Diff:10000 ms Accuracy:24.00
+ELocation 86: Diff:10000 ms Accuracy:18.00
+ETask 11: Configuration:0 Energy:0.00 Power:0.00 Reward:49.77 Time:30010
+ELocation 87: Diff:20000 ms Accuracy:20.00
+ELocation 88: Diff:10000 ms Accuracy:16.00
+ETask 12: Configuration:0 Energy:0.00 Power:0.00 Reward:51.84 Time:30008
+ELocation 89: Diff:10000 ms Accuracy:20.00
+ELocation 90: Diff:20000 ms Accuracy:16.00
+ETask 13: Configuration:0 Energy:0.00 Power:0.00 Reward:34.98 Time:30011
+ELocation 91: Diff:20000 ms Accuracy:20.00
+ELocation 92: Diff:10488 ms Accuracy:23.00
+ETask 14: Configuration:0 Energy:0.00 Power:0.00 Reward:35.37 Time:30013
+ELocation 93: Diff:19512 ms Accuracy:25.00
+ELocation 94: Diff:10000 ms Accuracy:26.00
+ETask 15: Configuration:0 Energy:0.00 Power:0.00 Reward:37.15 Time:30007
+ELocation 95: Diff:20000 ms Accuracy:19.00
+ELocation 96: Diff:10000 ms Accuracy:18.00
+ETask 16: Configuration:0 Energy:0.00 Power:0.00 Reward:40.03 Time:30010
+ELocation 97: Diff:10000 ms Accuracy:21.00
+ELocation 98: Diff:20000 ms Accuracy:22.00
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:34.45 Time:30009
+ELocation 99: Diff:10000 ms Accuracy:16.00
+ELocation 100: Diff:20000 ms Accuracy:9.00
+ETask 18: Configuration:0 Energy:0.00 Power:0.00 Reward:35.51 Time:30010
+ELocation 101: Diff:20000 ms Accuracy:17.00
+ELocation 102: Diff:10000 ms Accuracy:17.00
+ETask 19: Configuration:0 Energy:0.00 Power:0.00 Reward:43.49 Time:30010
+ELocation 103: Diff:10000 ms Accuracy:11.00
+ELocation 104: Diff:20000 ms Accuracy:11.00
+ETask 20: Configuration:0 Energy:0.00 Power:0.00 Reward:39.97 Time:30008
+ELocation 105: Diff:20000 ms Accuracy:10.00
+ELocation 106: Diff:10474 ms Accuracy:9.00
+ETask 21: Configuration:0 Energy:0.00 Power:0.00 Reward:50.79 Time:30011
+ELocation 107: Diff:19526 ms Accuracy:19.00
+ELocation 108: Diff:10000 ms Accuracy:14.00
+ETask 22: Configuration:0 Energy:0.00 Power:0.00 Reward:70.91 Time:30011
+ELocation 109: Diff:10000 ms Accuracy:10.00
+ELocation 110: Diff:10000 ms Accuracy:11.00
+ELocation 111: Diff:10480 ms Accuracy:16.00
+ETask 23: Configuration:0 Energy:0.00 Power:0.00 Reward:69.43 Time:30012
+ELocation 112: Diff:19520 ms Accuracy:20.00
+ELocation 113: Diff:10000 ms Accuracy:17.00
+ETask 24: Configuration:0 Energy:0.00 Power:0.00 Reward:66.39 Time:30009
+ELocation 114: Diff:10477 ms Accuracy:25.00
+ELocation 115: Diff:19523 ms Accuracy:11.00
+ETask 25: Configuration:0 Energy:0.00 Power:0.00 Reward:33.93 Time:30011
+ERun: Time:750868
+==END-RUN 0==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:930.76 } | -- on:19 reward:0.6118656606
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:179.00 } | -- on:4 reward:0.5705105045
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:71.00 } | -- on:1 reward:0.3333333333
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:294.00 } | -- on:1 reward:0.3484592843
+==RUN 1==
+ELocation 116: Diff:20000 ms Accuracy:14.00
+ELocation 117: Diff:10000 ms Accuracy:13.00
+ELocation 118: Diff:10000 ms Accuracy:16.00
+ELocation 119: Diff:20000 ms Accuracy:31.00
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:33.97 Time:30010 -- SAMPLE
+ELocation 120: Diff:9239 ms Accuracy:31.00
+ELocation 121: Diff:1 ms Accuracy:31.00
+ELocation 122: Diff:4760 ms Accuracy:8.00
+ELocation 123: Diff:6000 ms Accuracy:5.00
+ELocation 124: Diff:6000 ms Accuracy:4.00
+ELocation 125: Diff:5000 ms Accuracy:6.00
+ELocation 126: Diff:5000 ms Accuracy:9.00
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:37.39 Time:30040 -- SAMPLE
+ELocation 127: Diff:3299 ms Accuracy:9.00
+ELocation 128: Diff:-299 ms Accuracy:8.00
+ELocation 129: Diff:2000 ms Accuracy:7.00
+ELocation 130: Diff:2000 ms Accuracy:8.00
+ELocation 131: Diff:3000 ms Accuracy:7.00
+ELocation 132: Diff:3000 ms Accuracy:8.00
+ELocation 133: Diff:2000 ms Accuracy:8.00
+ELocation 134: Diff:3000 ms Accuracy:8.00
+ELocation 135: Diff:3000 ms Accuracy:10.00
+ELocation 136: Diff:3000 ms Accuracy:12.00
+ELocation 137: Diff:3000 ms Accuracy:13.00
+ELocation 138: Diff:2000 ms Accuracy:12.00
+ELocation 139: Diff:2000 ms Accuracy:13.00
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:78.03 Time:30031 -- SAMPLE
+ELocation 140: Diff:2342 ms Accuracy:13.00
+ELocation 141: Diff:1 ms Accuracy:13.00
+ELocation 142: Diff:657 ms Accuracy:13.00
+ELocation 143: Diff:1000 ms Accuracy:14.00
+ELocation 144: Diff:1000 ms Accuracy:14.00
+ELocation 145: Diff:1000 ms Accuracy:13.00
+ELocation 146: Diff:1000 ms Accuracy:13.00
+ELocation 147: Diff:1000 ms Accuracy:13.00
+ELocation 148: Diff:1000 ms Accuracy:13.00
+ELocation 149: Diff:1000 ms Accuracy:12.00
+ELocation 150: Diff:1000 ms Accuracy:12.00
+ELocation 151: Diff:1000 ms Accuracy:12.00
+ELocation 152: Diff:1000 ms Accuracy:12.00
+ELocation 153: Diff:1000 ms Accuracy:12.00
+ELocation 154: Diff:1000 ms Accuracy:12.00
+ELocation 155: Diff:1000 ms Accuracy:12.00
+ELocation 156: Diff:1000 ms Accuracy:12.00
+ELocation 157: Diff:1000 ms Accuracy:12.00
+ELocation 158: Diff:1000 ms Accuracy:12.00
+ELocation 159: Diff:1000 ms Accuracy:12.00
+ELocation 160: Diff:1000 ms Accuracy:11.00
+ELocation 161: Diff:1000 ms Accuracy:11.00
+ELocation 162: Diff:1000 ms Accuracy:12.00
+ELocation 163: Diff:1000 ms Accuracy:12.00
+ELocation 164: Diff:1000 ms Accuracy:12.00
+ELocation 165: Diff:1000 ms Accuracy:12.00
+ELocation 166: Diff:1000 ms Accuracy:12.00
+ELocation 167: Diff:1000 ms Accuracy:12.00
+ELocation 168: Diff:1000 ms Accuracy:11.00
+ELocation 169: Diff:1000 ms Accuracy:11.00
+ELocation 170: Diff:1000 ms Accuracy:10.00
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:79.59 Time:30038 -- SAMPLE
+ELocation 171: Diff:1391 ms Accuracy:10.00
+ELocation 172: Diff:-391 ms Accuracy:11.00
+ELocation 173: Diff:3000 ms Accuracy:10.00
+ELocation 174: Diff:3000 ms Accuracy:10.00
+ELocation 175: Diff:3000 ms Accuracy:9.00
+ELocation 176: Diff:3000 ms Accuracy:10.00
+ELocation 177: Diff:3000 ms Accuracy:10.00
+ELocation 178: Diff:3000 ms Accuracy:10.00
+ELocation 179: Diff:3000 ms Accuracy:10.00
+ELocation 180: Diff:3000 ms Accuracy:10.00
+ELocation 181: Diff:2000 ms Accuracy:10.00
+ELocation 182: Diff:2000 ms Accuracy:10.00
+ETask 5: Configuration:2 Energy:0.00 Power:0.00 Reward:75.37 Time:30043
+ELocation 183: Diff:2451 ms Accuracy:10.00
+ELocation 184: Diff:0 ms Accuracy:10.00
+ELocation 185: Diff:549 ms Accuracy:9.00
+ELocation 186: Diff:1000 ms Accuracy:9.00
+ELocation 187: Diff:1000 ms Accuracy:9.00
+ELocation 188: Diff:1000 ms Accuracy:9.00
+ELocation 189: Diff:1000 ms Accuracy:9.00
+ELocation 190: Diff:1000 ms Accuracy:9.00
+ELocation 191: Diff:1000 ms Accuracy:9.00
+ELocation 192: Diff:1000 ms Accuracy:9.00
+ELocation 193: Diff:1000 ms Accuracy:9.00
+ELocation 194: Diff:1000 ms Accuracy:9.00
+ELocation 195: Diff:1000 ms Accuracy:9.00
+ELocation 196: Diff:1000 ms Accuracy:9.00
+ELocation 197: Diff:1000 ms Accuracy:9.00
+ELocation 198: Diff:1000 ms Accuracy:9.00
+ELocation 199: Diff:1000 ms Accuracy:9.00
+ELocation 200: Diff:1000 ms Accuracy:9.00
+ELocation 201: Diff:1000 ms Accuracy:9.00
+ELocation 202: Diff:1000 ms Accuracy:9.00
+ELocation 203: Diff:1000 ms Accuracy:9.00
+ELocation 204: Diff:1000 ms Accuracy:9.00
+ELocation 205: Diff:1000 ms Accuracy:9.00
+ELocation 206: Diff:1000 ms Accuracy:9.00
+ELocation 207: Diff:1000 ms Accuracy:9.00
+ELocation 208: Diff:1000 ms Accuracy:9.00
+ELocation 209: Diff:1000 ms Accuracy:9.00
+ELocation 210: Diff:1000 ms Accuracy:9.00
+ELocation 211: Diff:1000 ms Accuracy:9.00
+ELocation 212: Diff:1000 ms Accuracy:9.00
+ELocation 213: Diff:1000 ms Accuracy:9.00
+ELocation 214: Diff:1000 ms Accuracy:9.00
+ETask 6: Configuration:3 Energy:0.00 Power:0.00 Reward:75.32 Time:30045
+ELocation 215: Diff:509 ms Accuracy:9.00
+ELocation 216: Diff:-8 ms Accuracy:9.00
+ELocation 217: Diff:11964 ms Accuracy:9.00
+ELocation 218: Diff:10535 ms Accuracy:22.00
+ETask 7: Configuration:0 Energy:0.00 Power:0.00 Reward:34.60 Time:30042
+ELocation 219: Diff:20000 ms Accuracy:19.00
+ETask 8: Configuration:0 Energy:0.00 Power:0.00 Reward:35.09 Time:30012
+ELocation 220: Diff:20000 ms Accuracy:12.00
+ELocation 221: Diff:20000 ms Accuracy:20.00
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:35.09 Time:30011
+ELocation 222: Diff:20000 ms Accuracy:17.00
+ETask 10: Configuration:0 Energy:0.00 Power:0.00 Reward:34.36 Time:30016
+ELocation 223: Diff:20000 ms Accuracy:12.00
+ELocation 224: Diff:10000 ms Accuracy:13.00
+ETask 11: Configuration:0 Energy:0.00 Power:0.00 Reward:37.96 Time:30009
+ELocation 225: Diff:20000 ms Accuracy:13.00
+ELocation 226: Diff:10000 ms Accuracy:14.00
+ELocation 227: Diff:10000 ms Accuracy:10.00
+ETask 12: Configuration:0 Energy:0.00 Power:0.00 Reward:40.99 Time:30010
+ELocation 228: Diff:10000 ms Accuracy:10.00
+ELocation 229: Diff:20000 ms Accuracy:19.00
+ETask 13: Configuration:0 Energy:0.00 Power:0.00 Reward:37.49 Time:30012
+ELocation 230: Diff:10482 ms Accuracy:14.00
+ELocation 231: Diff:19518 ms Accuracy:24.00
+ETask 14: Configuration:0 Energy:0.00 Power:0.00 Reward:73.93 Time:30009
+ELocation 232: Diff:7769 ms Accuracy:24.00
+ELocation 233: Diff:1 ms Accuracy:24.00
+ELocation 234: Diff:5230 ms Accuracy:5.00
+ELocation 235: Diff:5000 ms Accuracy:4.00
+ELocation 236: Diff:6000 ms Accuracy:6.00
+ELocation 237: Diff:5000 ms Accuracy:8.00
+ELocation 238: Diff:5000 ms Accuracy:9.00
+ETask 15: Configuration:1 Energy:0.00 Power:0.00 Reward:36.27 Time:30042
+ELocation 239: Diff:6000 ms Accuracy:8.00
+ELocation 240: Diff:5000 ms Accuracy:8.00
+ELocation 241: Diff:5000 ms Accuracy:8.00
+ELocation 242: Diff:6000 ms Accuracy:9.00
+ELocation 243: Diff:5000 ms Accuracy:9.00
+ELocation 244: Diff:5000 ms Accuracy:6.00
+ETask 16: Configuration:1 Energy:0.00 Power:0.00 Reward:70.55 Time:30007
+ELocation 245: Diff:1858 ms Accuracy:6.00
+ELocation 246: Diff:-13 ms Accuracy:6.00
+ELocation 247: Diff:10621 ms Accuracy:5.00
+ELocation 248: Diff:10534 ms Accuracy:14.00
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:35.08 Time:30047
+ELocation 249: Diff:10000 ms Accuracy:20.00
+ELocation 250: Diff:20000 ms Accuracy:11.00
+ETask 18: Configuration:0 Energy:0.00 Power:0.00 Reward:34.60 Time:30011
+ELocation 251: Diff:20000 ms Accuracy:15.00
+ELocation 252: Diff:10478 ms Accuracy:15.00
+ETask 19: Configuration:0 Energy:0.00 Power:0.00 Reward:52.24 Time:30007
+ELocation 253: Diff:19522 ms Accuracy:23.00
+ELocation 254: Diff:10000 ms Accuracy:16.00
+ETask 20: Configuration:0 Energy:0.00 Power:0.00 Reward:40.32 Time:30008
+ELocation 255: Diff:10000 ms Accuracy:27.00
+ELocation 256: Diff:20000 ms Accuracy:17.00
+ETask 21: Configuration:0 Energy:0.00 Power:0.00 Reward:37.78 Time:30007
+ELocation 257: Diff:10000 ms Accuracy:20.00
+ELocation 258: Diff:10000 ms Accuracy:22.00
+ETask 22: Configuration:0 Energy:0.00 Power:0.00 Reward:33.93 Time:30007
+ELocation 259: Diff:20000 ms Accuracy:14.00
+ELocation 260: Diff:10000 ms Accuracy:23.00
+ELocation 261: Diff:10000 ms Accuracy:21.00
+ETask 23: Configuration:0 Energy:0.00 Power:0.00 Reward:34.39 Time:30010
+ELocation 262: Diff:20000 ms Accuracy:17.00
+ETask 24: Configuration:0 Energy:0.00 Power:0.00 Reward:37.44 Time:30010
+ELocation 263: Diff:20000 ms Accuracy:16.00
+ELocation 264: Diff:10000 ms Accuracy:18.00
+ELocation 265: Diff:10000 ms Accuracy:20.00
+ETask 25: Configuration:0 Energy:0.00 Power:0.00 Reward:45.31 Time:30012
+ERun: Time:1501747
+==END-RUN 1==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:666.00 } | -- on:18 reward:0.6561353764
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:222.00 } | -- on:3 reward:0.5836117109
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:243.00 } | -- on:2 reward:0.3356539986
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:667.00 } | -- on:2 reward:0.3290786927
+==RUN 2==
+ELocation 266: Diff:10000 ms Accuracy:30.00
+ELocation 267: Diff:20000 ms Accuracy:13.00
+ELocation 268: Diff:10000 ms Accuracy:13.00
+ELocation 269: Diff:20000 ms Accuracy:16.00
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:50.05 Time:30009 -- SAMPLE
+ELocation 270: Diff:9139 ms Accuracy:16.00
+ELocation 271: Diff:0 ms Accuracy:16.00
+ELocation 272: Diff:4861 ms Accuracy:15.00
+ELocation 273: Diff:5000 ms Accuracy:10.00
+ELocation 274: Diff:6000 ms Accuracy:9.00
+ELocation 275: Diff:6000 ms Accuracy:6.00
+ELocation 276: Diff:5000 ms Accuracy:6.00
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:71.15 Time:30038 -- SAMPLE
+ELocation 277: Diff:3208 ms Accuracy:5.00
+ELocation 278: Diff:-12 ms Accuracy:5.00
+ELocation 279: Diff:1804 ms Accuracy:5.00
+ELocation 280: Diff:2000 ms Accuracy:5.00
+ELocation 281: Diff:3000 ms Accuracy:5.00
+ELocation 282: Diff:3000 ms Accuracy:5.00
+ELocation 283: Diff:3000 ms Accuracy:5.00
+ELocation 284: Diff:3000 ms Accuracy:5.00
+ELocation 285: Diff:3000 ms Accuracy:5.00
+ELocation 286: Diff:2000 ms Accuracy:5.00
+ELocation 287: Diff:3000 ms Accuracy:5.00
+ELocation 288: Diff:3000 ms Accuracy:4.00
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:40.02 Time:30060 -- SAMPLE
+ELocation 289: Diff:3262 ms Accuracy:4.00
+ELocation 290: Diff:1 ms Accuracy:4.00
+ELocation 291: Diff:737 ms Accuracy:4.00
+ELocation 292: Diff:1000 ms Accuracy:4.00
+ELocation 293: Diff:1000 ms Accuracy:9.00
+ELocation 294: Diff:1000 ms Accuracy:9.00
+ELocation 295: Diff:1000 ms Accuracy:9.00
+ELocation 296: Diff:1000 ms Accuracy:9.00
+ELocation 297: Diff:1000 ms Accuracy:9.00
+ELocation 298: Diff:1000 ms Accuracy:9.00
+ELocation 299: Diff:1000 ms Accuracy:9.00
+ELocation 300: Diff:1000 ms Accuracy:9.00
+ELocation 301: Diff:1000 ms Accuracy:9.00
+ELocation 302: Diff:1000 ms Accuracy:9.00
+ELocation 303: Diff:1000 ms Accuracy:9.00
+ELocation 304: Diff:1000 ms Accuracy:9.00
+ELocation 305: Diff:1000 ms Accuracy:9.00
+ELocation 306: Diff:1000 ms Accuracy:9.00
+ELocation 307: Diff:1000 ms Accuracy:9.00
+ELocation 308: Diff:1000 ms Accuracy:9.00
+ELocation 309: Diff:1000 ms Accuracy:9.00
+ELocation 310: Diff:1000 ms Accuracy:9.00
+ELocation 311: Diff:1000 ms Accuracy:9.00
+ELocation 312: Diff:1000 ms Accuracy:9.00
+ELocation 313: Diff:1000 ms Accuracy:9.00
+ELocation 314: Diff:1000 ms Accuracy:9.00
+ELocation 315: Diff:1000 ms Accuracy:9.00
+ELocation 316: Diff:1000 ms Accuracy:9.00
+ELocation 317: Diff:1000 ms Accuracy:9.00
+ELocation 318: Diff:1000 ms Accuracy:9.00
+ELocation 319: Diff:1000 ms Accuracy:9.00
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:92.54 Time:30038 -- SAMPLE
+ELocation 320: Diff:1326 ms Accuracy:9.00
+ELocation 321: Diff:-326 ms Accuracy:9.00
+ELocation 322: Diff:2000 ms Accuracy:9.00
+ELocation 323: Diff:3000 ms Accuracy:9.00
+ELocation 324: Diff:3000 ms Accuracy:9.00
+ELocation 325: Diff:3000 ms Accuracy:9.00
+ELocation 326: Diff:3000 ms Accuracy:9.00
+ELocation 327: Diff:2000 ms Accuracy:9.00
+ELocation 328: Diff:2000 ms Accuracy:9.00
+ELocation 329: Diff:2000 ms Accuracy:9.00
+ELocation 330: Diff:3000 ms Accuracy:9.00
+ELocation 331: Diff:2000 ms Accuracy:9.00
+ELocation 332: Diff:2000 ms Accuracy:9.00
+ETask 5: Configuration:2 Energy:0.00 Power:0.00 Reward:46.12 Time:30050
+ELocation 333: Diff:3000 ms Accuracy:9.00
+ELocation 334: Diff:2000 ms Accuracy:9.00
+ELocation 335: Diff:3000 ms Accuracy:9.00
+ELocation 336: Diff:3000 ms Accuracy:9.00
+ELocation 337: Diff:3000 ms Accuracy:9.00
+ELocation 338: Diff:2000 ms Accuracy:9.00
+ELocation 339: Diff:2000 ms Accuracy:9.00
+ELocation 340: Diff:3000 ms Accuracy:9.00
+ELocation 341: Diff:2000 ms Accuracy:9.00
+ELocation 342: Diff:2000 ms Accuracy:9.00
+ELocation 343: Diff:2000 ms Accuracy:9.00
+ELocation 344: Diff:2000 ms Accuracy:9.00
+ELocation 345: Diff:3000 ms Accuracy:9.00
+ETask 6: Configuration:2 Energy:0.00 Power:0.00 Reward:73.52 Time:30012
+ELocation 346: Diff:1426 ms Accuracy:9.00
+ELocation 347: Diff:-15 ms Accuracy:9.00
+ELocation 348: Diff:11055 ms Accuracy:9.00
+ELocation 349: Diff:10534 ms Accuracy:15.00
+ETask 7: Configuration:0 Energy:0.00 Power:0.00 Reward:33.89 Time:30054
+ELocation 350: Diff:20000 ms Accuracy:23.00
+ELocation 351: Diff:10000 ms Accuracy:23.00
+ETask 8: Configuration:0 Energy:0.00 Power:0.00 Reward:35.11 Time:30010
+ELocation 352: Diff:10481 ms Accuracy:29.00
+ELocation 353: Diff:19519 ms Accuracy:14.00
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:35.73 Time:30011
+ELocation 354: Diff:20000 ms Accuracy:25.00
+ELocation 355: Diff:10481 ms Accuracy:23.00
+ETask 10: Configuration:0 Energy:0.00 Power:0.00 Reward:39.53 Time:30009
+ELocation 356: Diff:19519 ms Accuracy:18.00
+ELocation 357: Diff:10000 ms Accuracy:13.00
+ETask 11: Configuration:0 Energy:0.00 Power:0.00 Reward:35.57 Time:30008
+ELocation 358: Diff:10000 ms Accuracy:12.00
+ELocation 359: Diff:20000 ms Accuracy:15.00
+ETask 12: Configuration:0 Energy:0.00 Power:0.00 Reward:33.84 Time:30011
+ELocation 360: Diff:10000 ms Accuracy:23.00
+ELocation 361: Diff:20000 ms Accuracy:17.00
+ETask 13: Configuration:0 Energy:0.00 Power:0.00 Reward:34.63 Time:30008
+ELocation 362: Diff:20000 ms Accuracy:23.00
+ELocation 363: Diff:10000 ms Accuracy:22.00
+ETask 14: Configuration:0 Energy:0.00 Power:0.00 Reward:37.54 Time:30011
+ELocation 364: Diff:10000 ms Accuracy:22.00
+ELocation 365: Diff:20000 ms Accuracy:30.00
+ETask 15: Configuration:0 Energy:0.00 Power:0.00 Reward:41.58 Time:30011
+ELocation 366: Diff:10000 ms Accuracy:28.00
+ELocation 367: Diff:10000 ms Accuracy:23.00
+ELocation 368: Diff:10480 ms Accuracy:12.00
+ETask 16: Configuration:0 Energy:0.00 Power:0.00 Reward:37.77 Time:30008
+ELocation 369: Diff:19520 ms Accuracy:14.00
+ELocation 370: Diff:10481 ms Accuracy:17.00
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:60.25 Time:30008
+ELocation 371: Diff:19519 ms Accuracy:15.00
+ELocation 372: Diff:10000 ms Accuracy:21.00
+ETask 18: Configuration:0 Energy:0.00 Power:0.00 Reward:93.21 Time:30008
+ELocation 373: Diff:10000 ms Accuracy:17.00
+ELocation 374: Diff:20000 ms Accuracy:26.00
+ETask 19: Configuration:0 Energy:0.00 Power:0.00 Reward:78.10 Time:30008
+ELocation 375: Diff:10000 ms Accuracy:23.00
+ELocation 376: Diff:20000 ms Accuracy:21.00
+ETask 20: Configuration:0 Energy:0.00 Power:0.00 Reward:51.44 Time:30011
+ELocation 377: Diff:20000 ms Accuracy:22.00
+ETask 21: Configuration:0 Energy:0.00 Power:0.00 Reward:35.98 Time:30009
+ELocation 378: Diff:20000 ms Accuracy:27.00
+ELocation 379: Diff:20000 ms Accuracy:14.00
+ETask 22: Configuration:0 Energy:0.00 Power:0.00 Reward:33.97 Time:30009
+ELocation 380: Diff:10000 ms Accuracy:14.00
+ELocation 381: Diff:10000 ms Accuracy:13.00
+ETask 23: Configuration:0 Energy:0.00 Power:0.00 Reward:40.67 Time:30010
+ELocation 382: Diff:20000 ms Accuracy:26.00
+ELocation 383: Diff:20000 ms Accuracy:13.00
+ETask 24: Configuration:0 Energy:0.00 Power:0.00 Reward:36.63 Time:30011
+ELocation 384: Diff:10000 ms Accuracy:15.00
+ELocation 385: Diff:10000 ms Accuracy:23.00
+ELocation 386: Diff:10000 ms Accuracy:12.00
+ETask 25: Configuration:0 Energy:0.00 Power:0.00 Reward:35.30 Time:30008
+ERun: Time:2252546
+==END-RUN 2==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:842.00 } | -- on:20 reward:0.6185324848
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:78.00 } | -- on:1 reward:0.3837191273
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:293.00 } | -- on:3 reward:0.5390064214
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:259.00 } | -- on:1 reward:0.1984305047
+==RUN 3==
+ELocation 387: Diff:10472 ms Accuracy:10.00
+ELocation 388: Diff:19528 ms Accuracy:17.00
+ELocation 389: Diff:10000 ms Accuracy:16.00
+ELocation 390: Diff:20000 ms Accuracy:10.00
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:34.42 Time:30012 -- SAMPLE
+ELocation 391: Diff:8956 ms Accuracy:10.00
+ELocation 392: Diff:1 ms Accuracy:10.00
+ELocation 393: Diff:5043 ms Accuracy:8.00
+ELocation 394: Diff:5000 ms Accuracy:5.00
+ELocation 395: Diff:5000 ms Accuracy:4.00
+ELocation 396: Diff:5000 ms Accuracy:3.00
+ELocation 397: Diff:6000 ms Accuracy:3.00
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:38.41 Time:30041 -- SAMPLE
+ELocation 398: Diff:4036 ms Accuracy:3.00
+ELocation 399: Diff:-10 ms Accuracy:3.00
+ELocation 400: Diff:1974 ms Accuracy:3.00
+ELocation 401: Diff:2000 ms Accuracy:3.00
+ELocation 402: Diff:3000 ms Accuracy:3.00
+ELocation 403: Diff:2000 ms Accuracy:3.00
+ELocation 404: Diff:2000 ms Accuracy:3.00
+ELocation 405: Diff:3000 ms Accuracy:3.00
+ELocation 406: Diff:2000 ms Accuracy:3.00
+ELocation 407: Diff:2000 ms Accuracy:3.00
+ELocation 408: Diff:2000 ms Accuracy:4.00
+ELocation 409: Diff:3000 ms Accuracy:4.00
+ELocation 410: Diff:2000 ms Accuracy:4.00
+ELocation 411: Diff:3000 ms Accuracy:4.00
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:93.44 Time:30053 -- SAMPLE
+ELocation 412: Diff:2096 ms Accuracy:4.00
+ELocation 413: Diff:0 ms Accuracy:4.00
+ELocation 414: Diff:904 ms Accuracy:3.00
+ELocation 415: Diff:1000 ms Accuracy:3.00
+ELocation 416: Diff:1000 ms Accuracy:9.00
+ELocation 417: Diff:1000 ms Accuracy:9.00
+ELocation 418: Diff:1000 ms Accuracy:9.00
+ELocation 419: Diff:1000 ms Accuracy:9.00
+ELocation 420: Diff:1000 ms Accuracy:9.00
+ELocation 421: Diff:1000 ms Accuracy:9.00
+ELocation 422: Diff:1000 ms Accuracy:9.00
+ELocation 423: Diff:1000 ms Accuracy:9.00
+ELocation 424: Diff:1000 ms Accuracy:9.00
+ELocation 425: Diff:1000 ms Accuracy:9.00
+ELocation 426: Diff:1000 ms Accuracy:9.00
+ELocation 427: Diff:1000 ms Accuracy:9.00
+ELocation 428: Diff:1000 ms Accuracy:9.00
+ELocation 429: Diff:1000 ms Accuracy:9.00
+ELocation 430: Diff:1000 ms Accuracy:9.00
+ELocation 431: Diff:1000 ms Accuracy:9.00
+ELocation 432: Diff:1000 ms Accuracy:9.00
+ELocation 433: Diff:1000 ms Accuracy:9.00
+ELocation 434: Diff:1000 ms Accuracy:9.00
+ELocation 435: Diff:1000 ms Accuracy:10.00
+ELocation 436: Diff:1000 ms Accuracy:10.00
+ELocation 437: Diff:1000 ms Accuracy:10.00
+ELocation 438: Diff:1000 ms Accuracy:10.00
+ELocation 439: Diff:1000 ms Accuracy:10.00
+ELocation 440: Diff:1000 ms Accuracy:10.00
+ELocation 441: Diff:1000 ms Accuracy:9.00
+ELocation 442: Diff:1000 ms Accuracy:9.00
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:93.41 Time:30045 -- SAMPLE
+ELocation 443: Diff:1158 ms Accuracy:9.00
+ELocation 444: Diff:-13 ms Accuracy:9.00
+ELocation 445: Diff:11323 ms Accuracy:9.00
+ELocation 446: Diff:10532 ms Accuracy:61.00
+ETask 5: Configuration:0 Energy:0.00 Power:0.00 Reward:82.52 Time:30055
+ELocation 447: Diff:8214 ms Accuracy:61.00
+ELocation 448: Diff:0 ms Accuracy:61.00
+ELocation 449: Diff:4786 ms Accuracy:12.00
+ELocation 450: Diff:5000 ms Accuracy:7.00
+ELocation 451: Diff:5000 ms Accuracy:5.00
+ELocation 452: Diff:6000 ms Accuracy:6.00
+ELocation 453: Diff:5000 ms Accuracy:7.00
+ETask 6: Configuration:1 Energy:0.00 Power:0.00 Reward:74.38 Time:30042
+ELocation 454: Diff:6000 ms Accuracy:6.00
+ELocation 455: Diff:5000 ms Accuracy:5.00
+ELocation 456: Diff:5000 ms Accuracy:5.00
+ELocation 457: Diff:6000 ms Accuracy:9.00
+ELocation 458: Diff:6000 ms Accuracy:10.00
+ELocation 459: Diff:5000 ms Accuracy:10.00
+ETask 7: Configuration:1 Energy:0.00 Power:0.00 Reward:60.54 Time:30008
+ELocation 460: Diff:5000 ms Accuracy:10.00
+ELocation 461: Diff:5000 ms Accuracy:10.00
+ELocation 462: Diff:6000 ms Accuracy:10.00
+ELocation 463: Diff:6000 ms Accuracy:10.00
+ELocation 464: Diff:5000 ms Accuracy:10.00
+ETask 8: Configuration:1 Energy:0.00 Power:0.00 Reward:39.27 Time:30011
+ELocation 465: Diff:6000 ms Accuracy:10.00
+ELocation 466: Diff:6000 ms Accuracy:11.00
+ELocation 467: Diff:6000 ms Accuracy:11.00
+ELocation 468: Diff:6000 ms Accuracy:10.00
+ELocation 469: Diff:6000 ms Accuracy:9.00
+ETask 9: Configuration:1 Energy:0.00 Power:0.00 Reward:73.41 Time:30011
+ELocation 470: Diff:5000 ms Accuracy:9.00
+ELocation 471: Diff:5000 ms Accuracy:9.00
+ELocation 472: Diff:6000 ms Accuracy:9.00
+ELocation 473: Diff:5000 ms Accuracy:10.00
+ELocation 474: Diff:6000 ms Accuracy:10.00
+ELocation 475: Diff:6000 ms Accuracy:10.00
+ETask 10: Configuration:1 Energy:0.00 Power:0.00 Reward:37.94 Time:30009
+ELocation 476: Diff:5000 ms Accuracy:10.00
+ELocation 477: Diff:6000 ms Accuracy:9.00
+ELocation 478: Diff:5000 ms Accuracy:9.00
+ELocation 479: Diff:5000 ms Accuracy:9.00
+ELocation 480: Diff:6000 ms Accuracy:9.00
+ETask 11: Configuration:1 Energy:0.00 Power:0.00 Reward:36.64 Time:30011
+ELocation 481: Diff:5000 ms Accuracy:9.00
+ELocation 482: Diff:6000 ms Accuracy:9.00
+ELocation 483: Diff:6000 ms Accuracy:9.00
+ELocation 484: Diff:6000 ms Accuracy:9.00
+ELocation 485: Diff:6000 ms Accuracy:9.00
+ETask 12: Configuration:1 Energy:0.00 Power:0.00 Reward:36.46 Time:30014
+ELocation 486: Diff:5000 ms Accuracy:9.00
+ELocation 487: Diff:5000 ms Accuracy:9.00
+ELocation 488: Diff:5000 ms Accuracy:10.00
+ELocation 489: Diff:6000 ms Accuracy:10.00
+ELocation 490: Diff:5000 ms Accuracy:10.00
+ELocation 491: Diff:6000 ms Accuracy:10.00
+ETask 13: Configuration:1 Energy:0.00 Power:0.00 Reward:77.77 Time:30014
+ELocation 492: Diff:5000 ms Accuracy:10.00
+ELocation 493: Diff:5000 ms Accuracy:11.00
+ELocation 494: Diff:6000 ms Accuracy:11.00
+ELocation 495: Diff:5000 ms Accuracy:11.00
+ELocation 496: Diff:6000 ms Accuracy:10.00
+ETask 14: Configuration:1 Energy:0.00 Power:0.00 Reward:44.91 Time:30012
+ELocation 497: Diff:6000 ms Accuracy:10.00
+ELocation 498: Diff:5000 ms Accuracy:10.00
+ELocation 499: Diff:6000 ms Accuracy:11.00
+ELocation 500: Diff:5000 ms Accuracy:10.00
+ELocation 501: Diff:5000 ms Accuracy:10.00
+ELocation 502: Diff:6000 ms Accuracy:10.00
+ETask 15: Configuration:1 Energy:0.00 Power:0.00 Reward:71.74 Time:30013
+ELocation 503: Diff:5000 ms Accuracy:10.00
+ELocation 504: Diff:5000 ms Accuracy:10.00
+ELocation 505: Diff:5000 ms Accuracy:10.00
+ELocation 506: Diff:6000 ms Accuracy:9.00
+ELocation 507: Diff:5000 ms Accuracy:9.00
+ELocation 508: Diff:6000 ms Accuracy:9.00
+ETask 16: Configuration:1 Energy:0.00 Power:0.00 Reward:94.27 Time:30008
+ELocation 509: Diff:6000 ms Accuracy:10.00
+ELocation 510: Diff:6000 ms Accuracy:10.00
+ELocation 511: Diff:6000 ms Accuracy:10.00
+ELocation 512: Diff:5000 ms Accuracy:10.00
+ELocation 513: Diff:5000 ms Accuracy:10.00
+ETask 17: Configuration:1 Energy:0.00 Power:0.00 Reward:36.32 Time:30005
+ELocation 514: Diff:5000 ms Accuracy:9.00
+ELocation 515: Diff:5000 ms Accuracy:9.00
+ELocation 516: Diff:6000 ms Accuracy:9.00
+ELocation 517: Diff:5000 ms Accuracy:9.00
+ELocation 518: Diff:6000 ms Accuracy:9.00
+ELocation 519: Diff:6000 ms Accuracy:9.00
+ETask 18: Configuration:1 Energy:0.00 Power:0.00 Reward:79.10 Time:30007
+ELocation 520: Diff:6000 ms Accuracy:9.00
+ELocation 521: Diff:5000 ms Accuracy:10.00
+ELocation 522: Diff:5000 ms Accuracy:10.00
+ELocation 523: Diff:6000 ms Accuracy:10.00
+ELocation 524: Diff:6000 ms Accuracy:11.00
+ETask 19: Configuration:1 Energy:0.00 Power:0.00 Reward:35.74 Time:30006
+ELocation 525: Diff:6000 ms Accuracy:10.00
+ELocation 526: Diff:6000 ms Accuracy:10.00
+ELocation 527: Diff:6000 ms Accuracy:9.00
+ELocation 528: Diff:5000 ms Accuracy:9.00
+ELocation 529: Diff:5000 ms Accuracy:10.00
+ETask 20: Configuration:1 Energy:0.00 Power:0.00 Reward:76.58 Time:30007
+ELocation 530: Diff:5000 ms Accuracy:10.00
+ELocation 531: Diff:6000 ms Accuracy:10.00
+ELocation 532: Diff:5000 ms Accuracy:10.00
+ELocation 533: Diff:6000 ms Accuracy:11.00
+ELocation 534: Diff:6000 ms Accuracy:11.00
+ELocation 535: Diff:5000 ms Accuracy:11.00
+ETask 21: Configuration:1 Energy:0.00 Power:0.00 Reward:36.24 Time:30012
+ELocation 536: Diff:5000 ms Accuracy:11.00
+ELocation 537: Diff:5000 ms Accuracy:11.00
+ELocation 538: Diff:6000 ms Accuracy:11.00
+ELocation 539: Diff:5000 ms Accuracy:11.00
+ELocation 540: Diff:5000 ms Accuracy:12.00
+ELocation 541: Diff:5000 ms Accuracy:12.00
+ETask 22: Configuration:1 Energy:0.00 Power:0.00 Reward:36.17 Time:30008
+ELocation 542: Diff:5000 ms Accuracy:12.00
+ELocation 543: Diff:5000 ms Accuracy:11.00
+ELocation 544: Diff:6000 ms Accuracy:11.00
+ELocation 545: Diff:6000 ms Accuracy:10.00
+ELocation 546: Diff:5000 ms Accuracy:10.00
+ETask 23: Configuration:1 Energy:0.00 Power:0.00 Reward:42.32 Time:30011
+ELocation 547: Diff:5000 ms Accuracy:10.00
+ELocation 548: Diff:5000 ms Accuracy:10.00
+ELocation 549: Diff:5000 ms Accuracy:10.00
+ELocation 550: Diff:6000 ms Accuracy:10.00
+ELocation 551: Diff:5000 ms Accuracy:10.00
+ELocation 552: Diff:5000 ms Accuracy:10.00
+ETask 24: Configuration:1 Energy:0.00 Power:0.00 Reward:77.50 Time:30015
+ELocation 553: Diff:5000 ms Accuracy:10.00
+ELocation 554: Diff:5000 ms Accuracy:9.00
+ELocation 555: Diff:5000 ms Accuracy:9.00
+ELocation 556: Diff:6000 ms Accuracy:9.00
+ELocation 557: Diff:6000 ms Accuracy:9.00
+ETask 25: Configuration:1 Energy:0.00 Power:0.00 Reward:73.20 Time:30013
+ERun: Time:3003333
+==END-RUN 3==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:141.00 } | -- on:2 reward:0.4935580414
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:1218.00 } | -- on:21 reward:0.5137325859
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:46.00 } | -- on:1 reward:0.1906600452
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:263.00 } | -- on:1 reward:0.1908754885
+==RUN 4==
+ELocation 558: Diff:5736 ms Accuracy:9.00
+ELocation 559: Diff:-8 ms Accuracy:9.00
+ELocation 560: Diff:10739 ms Accuracy:9.00
+ELocation 561: Diff:10983 ms Accuracy:10.00
+ELocation 562: Diff:19550 ms Accuracy:25.00
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:36.66 Time:30012 -- SAMPLE
+ELocation 563: Diff:18795 ms Accuracy:26.00
+ELocation 564: Diff:1 ms Accuracy:26.00
+ELocation 565: Diff:5204 ms Accuracy:10.00
+ELocation 566: Diff:6000 ms Accuracy:6.00
+ELocation 567: Diff:5000 ms Accuracy:6.00
+ELocation 568: Diff:5000 ms Accuracy:4.00
+ELocation 569: Diff:6000 ms Accuracy:4.00
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:36.64 Time:30036 -- SAMPLE
+ELocation 570: Diff:2857 ms Accuracy:5.00
+ELocation 571: Diff:-10 ms Accuracy:5.00
+ELocation 572: Diff:2153 ms Accuracy:6.00
+ELocation 573: Diff:3000 ms Accuracy:5.00
+ELocation 574: Diff:3000 ms Accuracy:5.00
+ELocation 575: Diff:3000 ms Accuracy:6.00
+ELocation 576: Diff:3000 ms Accuracy:5.00
+ELocation 577: Diff:2000 ms Accuracy:5.00
+ELocation 578: Diff:2000 ms Accuracy:5.00
+ELocation 579: Diff:2000 ms Accuracy:5.00
+ELocation 580: Diff:2000 ms Accuracy:5.00
+ELocation 581: Diff:2000 ms Accuracy:5.00
+ELocation 582: Diff:3000 ms Accuracy:5.00
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:87.66 Time:30046 -- SAMPLE
+ELocation 583: Diff:2917 ms Accuracy:5.00
+ELocation 584: Diff:83 ms Accuracy:5.00
+ELocation 585: Diff:1000 ms Accuracy:5.00
+ELocation 586: Diff:1000 ms Accuracy:10.00
+ELocation 587: Diff:1000 ms Accuracy:10.00
+ELocation 588: Diff:1000 ms Accuracy:10.00
+ELocation 589: Diff:1000 ms Accuracy:10.00
+ELocation 590: Diff:1000 ms Accuracy:10.00
+ELocation 591: Diff:1000 ms Accuracy:10.00
+ELocation 592: Diff:1000 ms Accuracy:10.00
+ELocation 593: Diff:1000 ms Accuracy:10.00
+ELocation 594: Diff:1000 ms Accuracy:10.00
+ELocation 595: Diff:1000 ms Accuracy:10.00
+ELocation 596: Diff:1000 ms Accuracy:10.00
+ELocation 597: Diff:1000 ms Accuracy:10.00
+ELocation 598: Diff:1000 ms Accuracy:10.00
+ELocation 599: Diff:1000 ms Accuracy:10.00
+ELocation 600: Diff:1000 ms Accuracy:10.00
+ELocation 601: Diff:1000 ms Accuracy:10.00
+ELocation 602: Diff:1000 ms Accuracy:10.00
+ELocation 603: Diff:1000 ms Accuracy:10.00
+ELocation 604: Diff:1000 ms Accuracy:10.00
+ELocation 605: Diff:1000 ms Accuracy:10.00
+ELocation 606: Diff:1000 ms Accuracy:10.00
+ELocation 607: Diff:1000 ms Accuracy:10.00
+ELocation 608: Diff:1000 ms Accuracy:10.00
+ELocation 609: Diff:1000 ms Accuracy:10.00
+ELocation 610: Diff:1000 ms Accuracy:10.00
+ELocation 611: Diff:1000 ms Accuracy:10.00
+ELocation 612: Diff:1000 ms Accuracy:10.00
+ELocation 613: Diff:1000 ms Accuracy:10.00
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:82.64 Time:30041 -- SAMPLE
+ELocation 614: Diff:981 ms Accuracy:10.00
+ELocation 615: Diff:-14 ms Accuracy:10.00
+ELocation 616: Diff:5033 ms Accuracy:10.00
+ELocation 617: Diff:6000 ms Accuracy:10.00
+ELocation 618: Diff:5000 ms Accuracy:10.00
+ELocation 619: Diff:6000 ms Accuracy:9.00
+ELocation 620: Diff:6000 ms Accuracy:10.00
+ETask 5: Configuration:1 Energy:0.00 Power:0.00 Reward:73.36 Time:30053
+ELocation 621: Diff:2040 ms Accuracy:10.00
+ELocation 622: Diff:-10 ms Accuracy:10.00
+ELocation 623: Diff:11434 ms Accuracy:10.00
+ELocation 624: Diff:10536 ms Accuracy:13.00
+ETask 6: Configuration:0 Energy:0.00 Power:0.00 Reward:38.79 Time:30046
+ELocation 625: Diff:20000 ms Accuracy:20.00
+ELocation 626: Diff:10000 ms Accuracy:24.00
+ETask 7: Configuration:0 Energy:0.00 Power:0.00 Reward:38.27 Time:30011
+ELocation 627: Diff:20000 ms Accuracy:26.00
+ELocation 628: Diff:10000 ms Accuracy:21.00
+ETask 8: Configuration:0 Energy:0.00 Power:0.00 Reward:36.85 Time:30011
+ELocation 629: Diff:20000 ms Accuracy:12.00
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:36.25 Time:30011
+ELocation 630: Diff:20000 ms Accuracy:16.00
+ELocation 631: Diff:10000 ms Accuracy:17.00
+ETask 10: Configuration:0 Energy:0.00 Power:0.00 Reward:43.63 Time:30013
+ELocation 632: Diff:20000 ms Accuracy:16.00
+ELocation 633: Diff:10000 ms Accuracy:15.00
+ELocation 634: Diff:10000 ms Accuracy:17.00
+ETask 11: Configuration:0 Energy:0.00 Power:0.00 Reward:39.16 Time:30011
+ELocation 635: Diff:20000 ms Accuracy:21.00
+ETask 12: Configuration:0 Energy:0.00 Power:0.00 Reward:39.93 Time:30014
+ELocation 636: Diff:20000 ms Accuracy:11.00
+ELocation 637: Diff:20000 ms Accuracy:14.00
+ETask 13: Configuration:0 Energy:0.00 Power:0.00 Reward:70.54 Time:30010
+ELocation 638: Diff:10000 ms Accuracy:13.00
+ELocation 639: Diff:10000 ms Accuracy:16.00
+ELocation 640: Diff:10479 ms Accuracy:16.00
+ETask 14: Configuration:0 Energy:0.00 Power:0.00 Reward:80.12 Time:30012
+ELocation 641: Diff:19521 ms Accuracy:13.00
+ETask 15: Configuration:0 Energy:0.00 Power:0.00 Reward:38.38 Time:30010
+ELocation 642: Diff:20000 ms Accuracy:31.00
+ELocation 643: Diff:10000 ms Accuracy:21.00
+ELocation 644: Diff:10000 ms Accuracy:23.00
+ETask 16: Configuration:0 Energy:0.00 Power:0.00 Reward:35.11 Time:30011
+ELocation 645: Diff:20000 ms Accuracy:27.00
+ELocation 646: Diff:10000 ms Accuracy:24.00
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:34.56 Time:30010
+ELocation 647: Diff:20000 ms Accuracy:21.00
+ETask 18: Configuration:0 Energy:0.00 Power:0.00 Reward:37.05 Time:30011
+ELocation 648: Diff:20000 ms Accuracy:13.00
+ELocation 649: Diff:20000 ms Accuracy:12.00
+ETask 19: Configuration:0 Energy:0.00 Power:0.00 Reward:53.28 Time:30014
+ELocation 650: Diff:20000 ms Accuracy:9.00
+ELocation 651: Diff:10000 ms Accuracy:12.00
+ETask 20: Configuration:0 Energy:0.00 Power:0.00 Reward:41.19 Time:30014
+ELocation 652: Diff:10000 ms Accuracy:15.00
+ELocation 653: Diff:10000 ms Accuracy:19.00
+ETask 21: Configuration:0 Energy:0.00 Power:0.00 Reward:35.89 Time:30009
+ELocation 654: Diff:20000 ms Accuracy:15.00
+ELocation 655: Diff:10484 ms Accuracy:10.00
+ETask 22: Configuration:0 Energy:0.00 Power:0.00 Reward:34.17 Time:30012
+ELocation 656: Diff:19516 ms Accuracy:21.00
+ELocation 657: Diff:10000 ms Accuracy:16.00
+ETask 23: Configuration:0 Energy:0.00 Power:0.00 Reward:34.66 Time:30008
+ELocation 658: Diff:20000 ms Accuracy:15.00
+ELocation 659: Diff:10476 ms Accuracy:23.00
+ETask 24: Configuration:0 Energy:0.00 Power:0.00 Reward:35.57 Time:30010
+ELocation 660: Diff:19524 ms Accuracy:18.00
+ELocation 661: Diff:10000 ms Accuracy:25.00
+ELocation 662: Diff:10000 ms Accuracy:30.00
+ETask 25: Configuration:0 Energy:0.00 Power:0.00 Reward:35.57 Time:30009
+ERun: Time:3754179
+==END-RUN 4==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:793.00 } | -- on:21 reward:0.6388354084
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:151.00 } | -- on:2 reward:0.5236253150
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:67.00 } | -- on:1 reward:0.2407412761
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:295.00 } | -- on:1 reward:0.2841589284
+==RUN 5==
+ELocation 663: Diff:10000 ms Accuracy:32.00
+ELocation 664: Diff:20000 ms Accuracy:38.00
+ELocation 665: Diff:10000 ms Accuracy:17.00
+ELocation 666: Diff:20452 ms Accuracy:19.00
+ETask 1: Configuration:0 Energy:0.00 Power:0.00 Reward:40.55 Time:30010 -- SAMPLE
+ELocation 667: Diff:8206 ms Accuracy:21.00
+ELocation 668: Diff:1 ms Accuracy:21.00
+ELocation 669: Diff:5341 ms Accuracy:16.00
+ELocation 670: Diff:6000 ms Accuracy:6.00
+ELocation 671: Diff:5000 ms Accuracy:5.00
+ELocation 672: Diff:6000 ms Accuracy:4.00
+ELocation 673: Diff:6000 ms Accuracy:4.00
+ETask 2: Configuration:1 Energy:0.00 Power:0.00 Reward:75.56 Time:30037 -- SAMPLE
+ELocation 674: Diff:1719 ms Accuracy:4.00
+ELocation 675: Diff:-11 ms Accuracy:4.00
+ELocation 676: Diff:2292 ms Accuracy:4.00
+ELocation 677: Diff:3000 ms Accuracy:4.00
+ELocation 678: Diff:3000 ms Accuracy:5.00
+ELocation 679: Diff:2000 ms Accuracy:5.00
+ELocation 680: Diff:3000 ms Accuracy:5.00
+ELocation 681: Diff:2000 ms Accuracy:5.00
+ELocation 682: Diff:2000 ms Accuracy:4.00
+ELocation 683: Diff:3000 ms Accuracy:4.00
+ELocation 684: Diff:2000 ms Accuracy:4.00
+ELocation 685: Diff:3000 ms Accuracy:3.00
+ELocation 686: Diff:3000 ms Accuracy:3.00
+ETask 3: Configuration:2 Energy:0.00 Power:0.00 Reward:37.71 Time:30052 -- SAMPLE
+ELocation 687: Diff:1772 ms Accuracy:3.00
+ELocation 688: Diff:228 ms Accuracy:3.00
+ELocation 689: Diff:1000 ms Accuracy:3.00
+ELocation 690: Diff:1000 ms Accuracy:3.00
+ELocation 691: Diff:1000 ms Accuracy:3.00
+ELocation 692: Diff:1000 ms Accuracy:3.00
+ELocation 693: Diff:1000 ms Accuracy:3.00
+ELocation 694: Diff:1000 ms Accuracy:3.00
+ELocation 695: Diff:1000 ms Accuracy:3.00
+ELocation 696: Diff:1000 ms Accuracy:4.00
+ELocation 697: Diff:1000 ms Accuracy:4.00
+ELocation 698: Diff:1000 ms Accuracy:4.00
+ELocation 699: Diff:1000 ms Accuracy:4.00
+ELocation 700: Diff:1000 ms Accuracy:4.00
+ELocation 701: Diff:1000 ms Accuracy:4.00
+ELocation 702: Diff:1000 ms Accuracy:4.00
+ELocation 703: Diff:1000 ms Accuracy:4.00
+ELocation 704: Diff:1000 ms Accuracy:4.00
+ELocation 705: Diff:1000 ms Accuracy:4.00
+ELocation 706: Diff:1000 ms Accuracy:4.00
+ELocation 707: Diff:1000 ms Accuracy:4.00
+ELocation 708: Diff:1000 ms Accuracy:4.00
+ELocation 709: Diff:1000 ms Accuracy:4.00
+ELocation 710: Diff:1000 ms Accuracy:4.00
+ELocation 711: Diff:1000 ms Accuracy:4.00
+ELocation 712: Diff:1000 ms Accuracy:4.00
+ELocation 713: Diff:1000 ms Accuracy:4.00
+ELocation 714: Diff:1000 ms Accuracy:4.00
+ELocation 715: Diff:1000 ms Accuracy:4.00
+ELocation 716: Diff:1000 ms Accuracy:4.00
+ELocation 717: Diff:1000 ms Accuracy:9.00
+ETask 4: Configuration:3 Energy:0.00 Power:0.00 Reward:72.31 Time:30039 -- SAMPLE
+ELocation 718: Diff:822 ms Accuracy:9.00
+ELocation 719: Diff:-8 ms Accuracy:9.00
+ELocation 720: Diff:2186 ms Accuracy:9.00
+ELocation 721: Diff:3000 ms Accuracy:9.00
+ELocation 722: Diff:3000 ms Accuracy:9.00
+ELocation 723: Diff:3000 ms Accuracy:9.00
+ELocation 724: Diff:3000 ms Accuracy:9.00
+ELocation 725: Diff:3000 ms Accuracy:9.00
+ELocation 726: Diff:2000 ms Accuracy:9.00
+ELocation 727: Diff:2000 ms Accuracy:9.00
+ELocation 728: Diff:2000 ms Accuracy:9.00
+ELocation 729: Diff:3000 ms Accuracy:10.00
+ELocation 730: Diff:3000 ms Accuracy:10.00
+ETask 5: Configuration:2 Energy:0.00 Power:0.00 Reward:81.63 Time:30040
+ELocation 731: Diff:878 ms Accuracy:10.00
+ELocation 732: Diff:-11 ms Accuracy:10.00
+ELocation 733: Diff:11599 ms Accuracy:10.00
+ELocation 734: Diff:10534 ms Accuracy:14.00
+ETask 6: Configuration:0 Energy:0.00 Power:0.00 Reward:34.89 Time:30048
+ELocation 735: Diff:10478 ms Accuracy:19.00
+ELocation 736: Diff:19522 ms Accuracy:22.00
+ETask 7: Configuration:0 Energy:0.00 Power:0.00 Reward:36.26 Time:30011
+ELocation 737: Diff:10000 ms Accuracy:14.00
+ELocation 738: Diff:10479 ms Accuracy:13.00
+ETask 8: Configuration:0 Energy:0.00 Power:0.00 Reward:35.74 Time:30015
+ELocation 739: Diff:19521 ms Accuracy:14.00
+ELocation 740: Diff:10000 ms Accuracy:23.00
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:34.27 Time:30013
+ELocation 741: Diff:20000 ms Accuracy:15.00
+ELocation 742: Diff:20000 ms Accuracy:13.00
+ETask 10: Configuration:0 Energy:0.00 Power:0.00 Reward:34.30 Time:30011
+ELocation 743: Diff:10000 ms Accuracy:10.00
+ELocation 744: Diff:10000 ms Accuracy:14.00
+ETask 11: Configuration:0 Energy:0.00 Power:0.00 Reward:37.05 Time:30016
+ELocation 745: Diff:20000 ms Accuracy:13.00
+ELocation 746: Diff:10000 ms Accuracy:17.00
+ETask 12: Configuration:0 Energy:0.00 Power:0.00 Reward:34.54 Time:30006
+ELocation 747: Diff:20000 ms Accuracy:13.00
+ELocation 748: Diff:10000 ms Accuracy:13.00
+ELocation 749: Diff:10000 ms Accuracy:13.00
+ETask 13: Configuration:0 Energy:0.00 Power:0.00 Reward:34.67 Time:30011
+ELocation 750: Diff:20000 ms Accuracy:16.00
+ELocation 751: Diff:10000 ms Accuracy:15.00
+ETask 14: Configuration:0 Energy:0.00 Power:0.00 Reward:41.14 Time:30011
+ELocation 752: Diff:10000 ms Accuracy:15.00
+ELocation 753: Diff:10483 ms Accuracy:23.00
+ETask 15: Configuration:0 Energy:0.00 Power:0.00 Reward:34.64 Time:30014
+ELocation 754: Diff:19517 ms Accuracy:23.00
+ELocation 755: Diff:10000 ms Accuracy:23.00
+ELocation 756: Diff:10000 ms Accuracy:26.00
+ETask 16: Configuration:0 Energy:0.00 Power:0.00 Reward:38.87 Time:30012
+ELocation 757: Diff:10000 ms Accuracy:25.00
+ELocation 758: Diff:20000 ms Accuracy:15.00
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:39.62 Time:30011
+ELocation 759: Diff:10477 ms Accuracy:18.00
+ELocation 760: Diff:19523 ms Accuracy:15.00
+ETask 18: Configuration:0 Energy:0.00 Power:0.00 Reward:39.20 Time:30011
+ELocation 761: Diff:20000 ms Accuracy:18.00
+ELocation 762: Diff:10000 ms Accuracy:12.00
+ETask 19: Configuration:0 Energy:0.00 Power:0.00 Reward:82.70 Time:30010
+ELocation 763: Diff:10000 ms Accuracy:11.00
+ELocation 764: Diff:20000 ms Accuracy:20.00
+ETask 20: Configuration:0 Energy:0.00 Power:0.00 Reward:48.23 Time:30012
+ELocation 765: Diff:10000 ms Accuracy:15.00
+ELocation 766: Diff:20000 ms Accuracy:20.00
+ETask 21: Configuration:0 Energy:0.00 Power:0.00 Reward:40.61 Time:30010
+ELocation 767: Diff:20000 ms Accuracy:13.00
+ELocation 768: Diff:10000 ms Accuracy:16.00
+ETask 22: Configuration:0 Energy:0.00 Power:0.00 Reward:36.10 Time:30011
+ELocation 769: Diff:20000 ms Accuracy:8.00
+ELocation 770: Diff:10000 ms Accuracy:13.00
+ETask 23: Configuration:0 Energy:0.00 Power:0.00 Reward:35.51 Time:30010
+ELocation 771: Diff:20000 ms Accuracy:17.00
+ETask 24: Configuration:0 Energy:0.00 Power:0.00 Reward:34.48 Time:30013
+ELocation 772: Diff:20000 ms Accuracy:17.00
+ELocation 773: Diff:10000 ms Accuracy:15.00
+ETask 25: Configuration:0 Energy:0.00 Power:0.00 Reward:34.44 Time:30008
+ERun: Time:4505011
+==END-RUN 5==
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:785.00 } | -- on:21 reward:0.6585652494
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:77.00 } | -- on:1 reward:0.3454798079
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:173.00 } | -- on:2 reward:0.4831300376
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:120.00 } | -- on:1 reward:0.3736797306
+ERROR: We got 'done' signal before finishing experiment!
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:2 } Records:{location_accuracy:785.00 } | -- on:21 reward:0.6585652494
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:2 } Records:{location_accuracy:77.00 } | -- on:1 reward:0.3454798079
+STOKE: Config: 2 - Knobs: {interval:2000 priority:100 sensor-configuration:2 } Records:{location_accuracy:173.00 } | -- on:2 reward:0.4831300376
+STOKE: Config: 3 - Knobs: {interval:500 priority:100 sensor-configuration:2 } Records:{location_accuracy:120.00 } | -- on:1 reward:0.3736797306
