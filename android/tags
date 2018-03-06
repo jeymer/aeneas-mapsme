@@ -1,0 +1,395 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABOUT	src/com/mapswithme/util/statistics/AlohaHelper.java	/^    public static final String ABOUT = "about";$/;"	f	class:AlohaHelper.Settings
+ABOUT	src/com/mapswithme/util/statistics/Statistics.java	/^      public static final String ABOUT = "Settings. About.";$/;"	f	class:Statistics.EventName.Settings
+ACTION	src/com/mapswithme/util/statistics/Statistics.java	/^    public static final String ACTION = "action";$/;"	f	class:Statistics.EventParam
+ACTION_CHECK_LOCATIION	src/com/mapswithme/maps/background/WorkerService.java	/^  private static final String ACTION_CHECK_LOCATIION = "com.mapswithme.maps.action.check_location";$/;"	f	class:WorkerService	file:
+ACTION_MWM_REQUEST	src/com/mapswithme/maps/api/Const.java	/^  public static final String ACTION_MWM_REQUEST = AUTHORITY + ".request";$/;"	f	class:Const
+BaseLocationListener	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  BaseLocationListener(@NonNull LocationFixChecker locationFixChecker)$/;"	m	class:BaseLocationListener
+BaseLocationListener	src/com/mapswithme/maps/location/BaseLocationListener.java	/^class BaseLocationListener implements LocationListener, com.google.android.gms.location.LocationListener$/;"	c
+BaseUserMarkTask	src/com/mapswithme/maps/MwmActivity.java	/^    BaseUserMarkTask(int categoryId, int id)$/;"	m	class:MwmActivity.BaseUserMarkTask
+BaseUserMarkTask	src/com/mapswithme/maps/MwmActivity.java	/^  public static abstract class BaseUserMarkTask implements MapTask$/;"	c	class:MwmActivity
+DOCKED_FRAGMENTS	src/com/mapswithme/maps/MwmActivity.java	/^  private static final String[] DOCKED_FRAGMENTS = { SearchFragment.class.getName(),$/;"	f	class:MwmActivity	file:
+ERROR_DENIED	src/com/mapswithme/maps/location/LocationHelper.java	/^  public static final int ERROR_DENIED = 2;$/;"	f	class:LocationHelper
+ERROR_GPS_OFF	src/com/mapswithme/maps/location/LocationHelper.java	/^  public static final int ERROR_GPS_OFF = 3;$/;"	f	class:LocationHelper
+ERROR_NOT_SUPPORTED	src/com/mapswithme/maps/location/LocationHelper.java	/^  public static final int ERROR_NOT_SUPPORTED = 1;$/;"	f	class:LocationHelper
+ERROR_UNKNOWN	src/com/mapswithme/maps/location/LocationHelper.java	/^  public static final int ERROR_UNKNOWN = 0;$/;"	f	class:LocationHelper
+EXTRA_CONSUMED	src/com/mapswithme/maps/MwmActivity.java	/^  private static final String EXTRA_CONSUMED = "mwm.extra.intent.processed";$/;"	f	class:MwmActivity	file:
+EXTRA_LOCATION_DIALOG_IS_ANNOYING	src/com/mapswithme/maps/MwmActivity.java	/^  private static final String EXTRA_LOCATION_DIALOG_IS_ANNOYING = "LOCATION_DIALOG_IS_ANNOYING";$/;"	f	class:MwmActivity	file:
+EXTRA_TASK	src/com/mapswithme/maps/MwmActivity.java	/^  public static final String EXTRA_TASK = "map_task";$/;"	f	class:MwmActivity
+EXTRA_UPDATE_COUNTRIES	src/com/mapswithme/maps/MwmActivity.java	/^  private static final String EXTRA_UPDATE_COUNTRIES = ".extra.update.countries";$/;"	f	class:MwmActivity	file:
+GoogleFusedLocationProvider	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  GoogleFusedLocationProvider(@NonNull LocationFixChecker locationFixChecker, TelephonyManager telephonyManager)$/;"	m	class:GoogleFusedLocationProvider
+GoogleFusedLocationProvider	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^class GoogleFusedLocationProvider extends BaseLocationProvider$/;"	c
+INSTANCE	src/com/mapswithme/maps/location/LocationHelper.java	/^  INSTANCE;$/;"	e	enum:LocationHelper	file:
+INTERVAL_FOLLOW_AND_ROTATE_MS	src/com/mapswithme/maps/location/LocationHelper.java	/^  private static final long INTERVAL_FOLLOW_AND_ROTATE_MS = 5000;$/;"	f	class:LocationHelper	file:
+INTERVAL_FOLLOW_MS	src/com/mapswithme/maps/location/LocationHelper.java	/^  private static final long INTERVAL_FOLLOW_MS = 500;$/;"	f	class:LocationHelper	file:
+INTERVAL_NAVIGATION_BICYCLE_MS	src/com/mapswithme/maps/location/LocationHelper.java	/^  private static final long INTERVAL_NAVIGATION_BICYCLE_MS = 1000;$/;"	f	class:LocationHelper	file:
+INTERVAL_NAVIGATION_PEDESTRIAN_MS	src/com/mapswithme/maps/location/LocationHelper.java	/^  private static final long INTERVAL_NAVIGATION_PEDESTRIAN_MS = 1000;$/;"	f	class:LocationHelper	file:
+INTERVAL_NAVIGATION_VEHICLE_MS	src/com/mapswithme/maps/location/LocationHelper.java	/^  private static final long INTERVAL_NAVIGATION_VEHICLE_MS = 500;$/;"	f	class:LocationHelper	file:
+INTERVAL_NOT_FOLLOW_MS	src/com/mapswithme/maps/location/LocationHelper.java	/^  private static final long INTERVAL_NOT_FOLLOW_MS = 3000;$/;"	f	class:LocationHelper	file:
+LOGGER	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  private static final Logger LOGGER = LoggerFactory.INSTANCE.getLogger(LoggerFactory.Type.LOCATION);$/;"	f	class:BaseLocationListener	file:
+LeftAnimationTrackListener	src/com/mapswithme/maps/MwmActivity.java	/^  public interface LeftAnimationTrackListener$/;"	i	class:MwmActivity
+LocationHelper	src/com/mapswithme/maps/location/LocationHelper.java	/^  LocationHelper()$/;"	m	class:LocationHelper
+LocationHelper	src/com/mapswithme/maps/location/LocationHelper.java	/^public enum LocationHelper$/;"	g
+MapTask	src/com/mapswithme/maps/MwmActivity.java	/^  public interface MapTask extends Serializable$/;"	i	class:MwmActivity
+MwmActivity	src/com/mapswithme/maps/MwmActivity.java	/^public class MwmActivity extends BaseMwmFragmentActivity$/;"	c
+MwmApplication	src/com/mapswithme/maps/MwmApplication.java	/^  public MwmApplication()$/;"	m	class:MwmApplication
+MwmApplication	src/com/mapswithme/maps/MwmApplication.java	/^public class MwmApplication extends MultiDexApplication$/;"	c
+OpenUrlTask	src/com/mapswithme/maps/MwmActivity.java	/^    OpenUrlTask(String url)$/;"	m	class:MwmActivity.OpenUrlTask
+OpenUrlTask	src/com/mapswithme/maps/MwmActivity.java	/^  public static class OpenUrlTask implements MapTask$/;"	c	class:MwmActivity
+PW_EMPTY_APP_ID	src/com/mapswithme/maps/MwmApplication.java	/^  private static final String PW_EMPTY_APP_ID = "XXXXX";$/;"	f	class:MwmApplication	file:
+SENSOR_CALLBACK_OFF	src/com/mapswithme/maps/MwmActivity.java	/^  public static final int SENSOR_CALLBACK_OFF = 2;$/;"	f	class:MwmActivity
+SENSOR_FULL	src/com/mapswithme/maps/MwmActivity.java	/^  public static final int SENSOR_FULL  = 0;$/;"	f	class:MwmActivity
+SENSOR_OFF	src/com/mapswithme/maps/MwmActivity.java	/^  public static final int SENSOR_OFF   = 1;$/;"	f	class:MwmActivity
+STATE_MAP_OBJECT	src/com/mapswithme/maps/MwmActivity.java	/^  private static final String STATE_MAP_OBJECT = "MapObject";$/;"	f	class:MwmActivity	file:
+STATE_PP	src/com/mapswithme/maps/MwmActivity.java	/^  private static final String STATE_PP = "PpState";$/;"	f	class:MwmActivity	file:
+ShowAuthorizationTask	src/com/mapswithme/maps/MwmActivity.java	/^  public static class ShowAuthorizationTask implements MapTask$/;"	c	class:MwmActivity
+ShowBookmarkTask	src/com/mapswithme/maps/MwmActivity.java	/^    public ShowBookmarkTask(int categoryId, int bookmarkId)$/;"	m	class:MwmActivity.ShowBookmarkTask
+ShowBookmarkTask	src/com/mapswithme/maps/MwmActivity.java	/^  public static class ShowBookmarkTask extends BaseUserMarkTask$/;"	c	class:MwmActivity
+ShowCountryTask	src/com/mapswithme/maps/MwmActivity.java	/^    public ShowCountryTask(String countryId, boolean doAutoDownload)$/;"	m	class:MwmActivity.ShowCountryTask
+ShowCountryTask	src/com/mapswithme/maps/MwmActivity.java	/^  public static class ShowCountryTask implements MapTask$/;"	c	class:MwmActivity
+ShowTrackTask	src/com/mapswithme/maps/MwmActivity.java	/^    public ShowTrackTask(int categoryId, int trackId)$/;"	m	class:MwmActivity.ShowTrackTask
+ShowTrackTask	src/com/mapswithme/maps/MwmActivity.java	/^  public static class ShowTrackTask extends BaseUserMarkTask$/;"	c	class:MwmActivity
+TAG	src/com/mapswithme/maps/MwmApplication.java	/^  private final static String TAG = "MwmApplication";$/;"	f	class:MwmApplication	file:
+TAG	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  private static final String TAG = BaseLocationListener.class.getSimpleName();$/;"	f	class:BaseLocationListener	file:
+TAG	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private final static String TAG = GoogleFusedLocationProvider.class.getSimpleName();$/;"	f	class:GoogleFusedLocationProvider	file:
+TAG	src/com/mapswithme/maps/location/LocationHelper.java	/^  private final static String TAG = LocationHelper.class.getSimpleName();$/;"	f	class:LocationHelper	file:
+UiCallback	src/com/mapswithme/maps/location/LocationHelper.java	/^  public interface UiCallback$/;"	i	class:LocationHelper
+VisibleRectListener	src/com/mapswithme/maps/MwmActivity.java	/^  public interface VisibleRectListener$/;"	i	class:MwmActivity
+VisibleRectMeasurer	src/com/mapswithme/maps/MwmActivity.java	/^    public VisibleRectMeasurer(VisibleRectListener listener)$/;"	m	class:MwmActivity.VisibleRectMeasurer
+VisibleRectMeasurer	src/com/mapswithme/maps/MwmActivity.java	/^  class VisibleRectMeasurer implements View.OnLayoutChangeListener$/;"	c	class:MwmActivity
+_lastLocation	src/com/mapswithme/maps/location/LocationHelper.java	/^  public Location _lastLocation = null;$/;"	f	class:LocationHelper
+_locationCount	src/com/mapswithme/maps/location/LocationHelper.java	/^  public int _locationCount = 0;$/;"	f	class:LocationHelper
+_summedAcc	src/com/mapswithme/maps/location/LocationHelper.java	/^  public double _summedAcc = 0;$/;"	f	class:LocationHelper
+acceptedCount	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  public int acceptedCount = 0;$/;"	f	class:BaseLocationListener
+addListener	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void addListener(@NonNull LocationListener listener, boolean forceUpdate)$/;"	m	class:LocationHelper
+addTask	src/com/mapswithme/maps/MwmActivity.java	/^  private void addTask(Intent intent)$/;"	m	class:MwmActivity	file:
+addTask	src/com/mapswithme/maps/MwmActivity.java	/^  private void addTask(MapTask task)$/;"	m	class:MwmActivity	file:
+adjustCompass	src/com/mapswithme/maps/MwmActivity.java	/^  void adjustCompass(int offsetY)$/;"	m	class:MwmActivity
+adjustCompassAndTraffic	src/com/mapswithme/maps/MwmActivity.java	/^  private void adjustCompassAndTraffic(int offsetY)$/;"	m	class:MwmActivity	file:
+adjustMenuLineFrameVisibility	src/com/mapswithme/maps/MwmActivity.java	/^  private void adjustMenuLineFrameVisibility(@Nullable final Runnable completion)$/;"	m	class:MwmActivity	file:
+adjustRuler	src/com/mapswithme/maps/MwmActivity.java	/^  private void adjustRuler(int offsetX, int offsetY)$/;"	m	class:MwmActivity	file:
+adjustTraffic	src/com/mapswithme/maps/MwmActivity.java	/^  private void adjustTraffic(int offsetX, int offsetY)$/;"	m	class:MwmActivity	file:
+androidJoules	src/com/mapswithme/maps/MwmActivity.java	/^  public static double androidJoules = 0.0;$/;"	f	class:MwmActivity
+androidReward	src/com/mapswithme/maps/MwmActivity.java	/^  public static Reward androidReward = null;$/;"	f	class:MwmActivity
+animateSearchPoiTransition	src/com/mapswithme/maps/MwmActivity.java	/^  public void animateSearchPoiTransition(@NonNull final Rect startRect,$/;"	m	class:MwmActivity
+appearMenu	src/com/mapswithme/maps/MwmActivity.java	/^  private void appearMenu(BaseMenu menu)$/;"	m	class:MwmActivity	file:
+attach	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void attach(@NonNull UiCallback callback, TelephonyManager telephonyManager)$/;"	m	class:LocationHelper
+backgroundTracker	src/com/mapswithme/maps/MwmApplication.java	/^  public static AppBackgroundTracker backgroundTracker()$/;"	m	class:MwmApplication
+batFilt	src/com/mapswithme/maps/MwmActivity.java	/^  private static IntentFilter batFilt = new IntentFilter(Intent.ACTION_BATTERY_CHANGED);$/;"	f	class:MwmActivity	file:
+batchString	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private String batchString() {$/;"	m	class:GoogleFusedLocationProvider	file:
+calcLocationUpdatesInterval	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void calcLocationUpdatesInterval()$/;"	m	class:LocationHelper	file:
+checkKitkatMigrationMove	src/com/mapswithme/maps/MwmActivity.java	/^  private void checkKitkatMigrationMove()$/;"	m	class:MwmActivity	file:
+checkMeasurementSystem	src/com/mapswithme/maps/MwmActivity.java	/^  private static void checkMeasurementSystem()$/;"	m	class:MwmActivity	file:
+checkProviderInitialization	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void checkProviderInitialization()$/;"	m	class:LocationHelper	file:
+checkSettingsAndRequestUpdates	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void checkSettingsAndRequestUpdates()$/;"	m	class:GoogleFusedLocationProvider	file:
+clearAcc	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void clearAcc() {$/;"	m	class:LocationHelper
+closeAllFloatingPanels	src/com/mapswithme/maps/MwmActivity.java	/^  private void closeAllFloatingPanels()$/;"	m	class:MwmActivity	file:
+closeMenu	src/com/mapswithme/maps/MwmActivity.java	/^  public void closeMenu(String statEvent, String alohaStatEvent, @Nullable Runnable procAfterClose)$/;"	m	class:MwmActivity
+closePlacePage	src/com/mapswithme/maps/MwmActivity.java	/^  public boolean closePlacePage()$/;"	m	class:MwmActivity
+closePositionChooser	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean closePositionChooser()$/;"	m	class:MwmActivity	file:
+closeSidePanel	src/com/mapswithme/maps/MwmActivity.java	/^  public boolean closeSidePanel()$/;"	m	class:MwmActivity
+com.mapswithme.maps	src/com/mapswithme/maps/MwmActivity.java	/^package com.mapswithme.maps;$/;"	p
+com.mapswithme.maps	src/com/mapswithme/maps/MwmApplication.java	/^package com.mapswithme.maps;$/;"	p
+com.mapswithme.maps.location	src/com/mapswithme/maps/location/BaseLocationListener.java	/^package com.mapswithme.maps.location;$/;"	p
+com.mapswithme.maps.location	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^package com.mapswithme.maps.location;$/;"	p
+com.mapswithme.maps.location	src/com/mapswithme/maps/location/LocationHelper.java	/^package com.mapswithme.maps.location;$/;"	p
+context	src/com/mapswithme/maps/MwmActivity.java	/^  private static Context context = null;$/;"	f	class:MwmActivity	file:
+createShowMapIntent	src/com/mapswithme/maps/MwmActivity.java	/^  public static Intent createShowMapIntent(Context context, String countryId, boolean doAutoDownload)$/;"	m	class:MwmActivity
+createUpdateMapsIntent	src/com/mapswithme/maps/MwmActivity.java	/^  public static Intent createUpdateMapsIntent()$/;"	m	class:MwmActivity
+curGpsUpdate	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int curGpsUpdate = 0;$/;"	f	class:GoogleFusedLocationProvider
+curTick	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int curTick = 0;$/;"	f	class:GoogleFusedLocationProvider
+currentBatchView	src/com/mapswithme/maps/MwmActivity.java	/^  public static TextView currentBatchView = null;$/;"	f	class:MwmActivity
+currentGpsAccuracyView	src/com/mapswithme/maps/MwmActivity.java	/^  public static TextView currentGpsAccuracyView = null;$/;"	f	class:MwmActivity
+currentGpsRateView	src/com/mapswithme/maps/MwmActivity.java	/^  public static TextView currentGpsRateView = null;$/;"	f	class:MwmActivity
+currentSensorRateView	src/com/mapswithme/maps/MwmActivity.java	/^  public static TextView currentSensorRateView = null;$/;"	f	class:MwmActivity
+customOnNavigateUp	src/com/mapswithme/maps/MwmActivity.java	/^  public void customOnNavigateUp()$/;"	m	class:MwmActivity
+detach	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void detach(boolean delayed)$/;"	m	class:LocationHelper
+dumpCellInfo	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void dumpCellInfo() {$/;"	m	class:GoogleFusedLocationProvider	file:
+dumpMapsMeSettings	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void dumpMapsMeSettings() {$/;"	m	class:GoogleFusedLocationProvider	file:
+experiment	src/com/mapswithme/maps/MwmActivity.java	/^  public static Experiment experiment = null;$/;"	f	class:MwmActivity
+fixAccuracyChoice	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void fixAccuracyChoice() {$/;"	m	class:GoogleFusedLocationProvider	file:
+fixBatch	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void fixBatch() {$/;"	m	class:GoogleFusedLocationProvider	file:
+fixGpsRate	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void fixGpsRate() {$/;"	m	class:GoogleFusedLocationProvider	file:
+fixSensorRate	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void fixSensorRate() {$/;"	m	class:GoogleFusedLocationProvider	file:
+forwardToMainThread	src/com/mapswithme/maps/MwmApplication.java	/^  void forwardToMainThread(final long functorPointer)$/;"	m	class:MwmApplication
+get	src/com/mapswithme/maps/MwmApplication.java	/^  public static MwmApplication get()$/;"	m	class:MwmApplication
+getActivity	src/com/mapswithme/maps/MwmActivity.java	/^  public FragmentActivity getActivity()$/;"	m	class:MwmActivity
+getActivity	src/com/mapswithme/maps/location/LocationHelper.java	/^    Activity getActivity();$/;"	m	interface:LocationHelper.UiCallback
+getApkPath	src/com/mapswithme/maps/MwmApplication.java	/^  public String getApkPath()$/;"	m	class:MwmApplication
+getBattery	src/com/mapswithme/maps/MwmActivity.java	/^  public static float getBattery() {$/;"	m	class:MwmActivity
+getBatteryAmps	src/com/mapswithme/maps/MwmActivity.java	/^  public static double getBatteryAmps() {$/;"	m	class:MwmActivity
+getBatteryLevel	src/com/mapswithme/maps/MwmActivity.java	/^  public static int getBatteryLevel() {$/;"	m	class:MwmActivity
+getBatteryScale	src/com/mapswithme/maps/MwmActivity.java	/^  public static int getBatteryScale() {$/;"	m	class:MwmActivity
+getBatteryVoltage	src/com/mapswithme/maps/MwmActivity.java	/^  public static double getBatteryVoltage() {$/;"	m	class:MwmActivity
+getBatteryWatts	src/com/mapswithme/maps/MwmActivity.java	/^  public static double getBatteryWatts() {$/;"	m	class:MwmActivity
+getCompassData	src/com/mapswithme/maps/location/LocationHelper.java	/^  public CompassData getCompassData()$/;"	m	class:LocationHelper
+getCurrentMenu	src/com/mapswithme/maps/MwmActivity.java	/^  private BaseMenu getCurrentMenu()$/;"	m	class:MwmActivity	file:
+getFragment	src/com/mapswithme/maps/MwmActivity.java	/^  Fragment getFragment(Class<? extends Fragment> clazz)$/;"	m	class:MwmActivity
+getFragmentContentResId	src/com/mapswithme/maps/MwmActivity.java	/^  protected int getFragmentContentResId()$/;"	m	class:MwmActivity
+getInterval	src/com/mapswithme/maps/location/LocationHelper.java	/^  long getInterval()$/;"	m	class:LocationHelper
+getLastKnownLocation	src/com/mapswithme/maps/location/LocationHelper.java	/^  public Location getLastKnownLocation()$/;"	m	class:LocationHelper
+getLastKnownLocation	src/com/mapswithme/maps/location/LocationHelper.java	/^  public Location getLastKnownLocation(long expirationMillis)$/;"	m	class:LocationHelper
+getMainMenu	src/com/mapswithme/maps/MwmActivity.java	/^  public MainMenu getMainMenu()$/;"	m	class:MwmActivity
+getMyPosition	src/com/mapswithme/maps/location/LocationHelper.java	/^  public MapObject getMyPosition()$/;"	m	class:LocationHelper
+getMyPositionMode	src/com/mapswithme/maps/location/LocationHelper.java	/^  public int getMyPositionMode()$/;"	m	class:LocationHelper
+getObbGooglePath	src/com/mapswithme/maps/MwmApplication.java	/^  private static String getObbGooglePath()$/;"	m	class:MwmApplication	file:
+getSavedLocation	src/com/mapswithme/maps/location/LocationHelper.java	/^  public Location getSavedLocation() { return mSavedLocation; }$/;"	m	class:LocationHelper
+getSavedLocationTime	src/com/mapswithme/maps/location/LocationHelper.java	/^  public long getSavedLocationTime() { return mSavedLocationTime; }$/;"	m	class:LocationHelper
+getSensorRate	src/com/mapswithme/maps/location/LocationHelper.java	/^  public int getSensorRate() {$/;"	m	class:LocationHelper
+getSettingsPath	src/com/mapswithme/maps/MwmApplication.java	/^  public static String getSettingsPath()$/;"	m	class:MwmApplication
+getStoragePath	src/com/mapswithme/maps/MwmApplication.java	/^  private static String getStoragePath(String settingsPath)$/;"	m	class:MwmApplication	file:
+getTempPath	src/com/mapswithme/maps/MwmApplication.java	/^  public String getTempPath()$/;"	m	class:MwmApplication
+getThemeResourceId	src/com/mapswithme/maps/MwmActivity.java	/^  public int getThemeResourceId(@NonNull String theme)$/;"	m	class:MwmActivity
+gpsAccuracyString	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private String gpsAccuracyString() {$/;"	m	class:GoogleFusedLocationProvider	file:
+gpsUpdateRateString	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private String gpsUpdateRateString() {$/;"	m	class:GoogleFusedLocationProvider	file:
+handler	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private Handler handler = null;$/;"	f	class:GoogleFusedLocationProvider	file:
+hidePositionChooser	src/com/mapswithme/maps/MwmActivity.java	/^  private void hidePositionChooser()$/;"	m	class:MwmActivity	file:
+idealBatteryDrain	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  float idealBatteryDrain = 0;$/;"	f	class:GoogleFusedLocationProvider
+idealBatteryEpsilon	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  float idealBatteryEpsilon = 0;$/;"	f	class:GoogleFusedLocationProvider
+idealBatteryLevelDrain	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int idealBatteryLevelDrain = 0;$/;"	f	class:GoogleFusedLocationProvider
+idealBatteryLevelEpsilon	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int idealBatteryLevelEpsilon = 0;$/;"	f	class:GoogleFusedLocationProvider
+initConfigurationExperiment	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  protected void initConfigurationExperiment() {$/;"	m	class:GoogleFusedLocationProvider
+initCounters	src/com/mapswithme/maps/MwmApplication.java	/^  public void initCounters()$/;"	m	class:MwmApplication
+initCrashlytics	src/com/mapswithme/maps/MwmApplication.java	/^  private void initCrashlytics()$/;"	m	class:MwmApplication	file:
+initFilterViews	src/com/mapswithme/maps/MwmActivity.java	/^  private void initFilterViews()$/;"	m	class:MwmActivity	file:
+initMachineExperiment	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  protected void initMachineExperiment() {$/;"	m	class:GoogleFusedLocationProvider
+initMainMenu	src/com/mapswithme/maps/MwmActivity.java	/^  private void initMainMenu()$/;"	m	class:MwmActivity	file:
+initMap	src/com/mapswithme/maps/MwmActivity.java	/^  private void initMap()$/;"	m	class:MwmActivity	file:
+initNativeCore	src/com/mapswithme/maps/MwmApplication.java	/^  public void initNativeCore()$/;"	m	class:MwmApplication
+initNativeProvider	src/com/mapswithme/maps/location/LocationHelper.java	/^  void initNativeProvider()$/;"	m	class:LocationHelper
+initNativeStrings	src/com/mapswithme/maps/MwmApplication.java	/^  private void initNativeStrings()$/;"	m	class:MwmApplication	file:
+initNavigationButtons	src/com/mapswithme/maps/MwmActivity.java	/^  private void initNavigationButtons()$/;"	m	class:MwmActivity	file:
+initOnmapDownloader	src/com/mapswithme/maps/MwmActivity.java	/^  private void initOnmapDownloader()$/;"	m	class:MwmActivity	file:
+initPositionChooser	src/com/mapswithme/maps/MwmActivity.java	/^  private void initPositionChooser()$/;"	m	class:MwmActivity	file:
+initProvider	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void initProvider()$/;"	m	class:LocationHelper	file:
+initPushWoosh	src/com/mapswithme/maps/MwmApplication.java	/^  private void initPushWoosh()$/;"	m	class:MwmApplication	file:
+initTracker	src/com/mapswithme/maps/MwmApplication.java	/^  private void initTracker()$/;"	m	class:MwmApplication	file:
+initViews	src/com/mapswithme/maps/MwmActivity.java	/^  private void initViews()$/;"	m	class:MwmActivity	file:
+initialize	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void initialize()$/;"	m	class:LocationHelper
+interceptBackPress	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean interceptBackPress()$/;"	m	class:MwmActivity	file:
+isCrashlyticsEnabled	src/com/mapswithme/maps/MwmApplication.java	/^  public static boolean isCrashlyticsEnabled()$/;"	m	class:MwmApplication
+isFirstStart	src/com/mapswithme/maps/MwmActivity.java	/^  boolean isFirstStart()$/;"	m	class:MwmActivity
+isFrameworkInitialized	src/com/mapswithme/maps/MwmApplication.java	/^  public boolean isFrameworkInitialized()$/;"	m	class:MwmApplication
+isTurnedOn	src/com/mapswithme/maps/location/LocationHelper.java	/^  public boolean isTurnedOn()$/;"	m	class:LocationHelper
+lastBatch	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int lastBatch;$/;"	f	class:GoogleFusedLocationProvider
+lastBattery	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  float lastBattery = 0;$/;"	f	class:GoogleFusedLocationProvider
+lastBatteryLevel	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int lastBatteryLevel = 0;$/;"	f	class:GoogleFusedLocationProvider
+lastInterval	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int lastInterval;$/;"	f	class:GoogleFusedLocationProvider
+lastPriority	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int lastPriority;$/;"	f	class:GoogleFusedLocationProvider
+lastSensor	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int lastSensor;$/;"	f	class:GoogleFusedLocationProvider
+locationAccuracyRecording	src/com/mapswithme/maps/MwmActivity.java	/^  public static Recording locationAccuracyRecording = null;$/;"	f	class:MwmActivity
+mAreCountersInitialized	src/com/mapswithme/maps/MwmApplication.java	/^  private boolean mAreCountersInitialized;$/;"	f	class:MwmApplication	file:
+mBackgroundListener	src/com/mapswithme/maps/MwmApplication.java	/^  private final AppBackgroundTracker.OnTransitionListener mBackgroundListener =$/;"	f	class:MwmApplication	file:
+mBackgroundTracker	src/com/mapswithme/maps/MwmApplication.java	/^  private AppBackgroundTracker mBackgroundTracker;$/;"	f	class:MwmApplication	file:
+mCategoryId	src/com/mapswithme/maps/MwmActivity.java	/^    final int mCategoryId;$/;"	f	class:MwmActivity.BaseUserMarkTask
+mCompassData	src/com/mapswithme/maps/location/LocationHelper.java	/^  private CompassData mCompassData;$/;"	f	class:LocationHelper	file:
+mCoreLocationListener	src/com/mapswithme/maps/location/LocationHelper.java	/^  private final LocationListener mCoreLocationListener = new LocationListener()$/;"	f	class:LocationHelper	file:
+mCountryId	src/com/mapswithme/maps/MwmActivity.java	/^    private final String mCountryId;$/;"	f	class:MwmActivity.ShowCountryTask	file:
+mDoAutoDownload	src/com/mapswithme/maps/MwmActivity.java	/^    private final boolean mDoAutoDownload;$/;"	f	class:MwmActivity.ShowCountryTask	file:
+mFadeView	src/com/mapswithme/maps/MwmActivity.java	/^  private FadeView mFadeView;$/;"	f	class:MwmActivity	file:
+mFilterController	src/com/mapswithme/maps/MwmActivity.java	/^  private SearchFilterController mFilterController;$/;"	f	class:MwmActivity	file:
+mFirstStart	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean mFirstStart;$/;"	f	class:MwmActivity	file:
+mGoogleApiClient	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private final GoogleApiClient mGoogleApiClient;$/;"	f	class:GoogleFusedLocationProvider	file:
+mId	src/com/mapswithme/maps/MwmActivity.java	/^    final int mId;$/;"	f	class:MwmActivity.BaseUserMarkTask
+mInFirstRun	src/com/mapswithme/maps/location/LocationHelper.java	/^  private boolean mInFirstRun;$/;"	f	class:LocationHelper	file:
+mInterval	src/com/mapswithme/maps/location/LocationHelper.java	/^  private long mInterval;$/;"	f	class:LocationHelper	file:
+mIsAppearMenuLater	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean mIsAppearMenuLater;$/;"	f	class:MwmActivity	file:
+mIsFragmentContainer	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean mIsFragmentContainer;$/;"	f	class:MwmActivity	file:
+mIsFrameworkInitialized	src/com/mapswithme/maps/MwmApplication.java	/^  private boolean mIsFrameworkInitialized;$/;"	f	class:MwmApplication	file:
+mIsFullscreen	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean mIsFullscreen;$/;"	f	class:MwmActivity	file:
+mIsFullscreenAnimating	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean mIsFullscreenAnimating;$/;"	f	class:MwmActivity	file:
+mLastVisibleRect	src/com/mapswithme/maps/MwmActivity.java	/^    private Rect mLastVisibleRect = null;$/;"	f	class:MwmActivity.VisibleRectMeasurer	file:
+mListener	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private final BaseLocationListener mListener;$/;"	f	class:GoogleFusedLocationProvider	file:
+mListeners	src/com/mapswithme/maps/location/LocationHelper.java	/^  private final Listeners<LocationListener> mListeners = new Listeners<>();$/;"	f	class:LocationHelper	file:
+mLocationErrorDialog	src/com/mapswithme/maps/MwmActivity.java	/^  private Dialog mLocationErrorDialog;$/;"	f	class:MwmActivity	file:
+mLocationErrorDialogAnnoying	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean mLocationErrorDialogAnnoying = false;$/;"	f	class:MwmActivity	file:
+mLocationFixChecker	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  private final LocationFixChecker mLocationFixChecker;$/;"	f	class:BaseLocationListener	file:
+mLocationProvider	src/com/mapswithme/maps/location/LocationHelper.java	/^  private BaseLocationProvider mLocationProvider;$/;"	f	class:LocationHelper	file:
+mLocationRequest	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private LocationRequest mLocationRequest;$/;"	f	class:GoogleFusedLocationProvider	file:
+mLocationSettingsResult	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private PendingResult<LocationSettingsResult> mLocationSettingsResult;$/;"	f	class:GoogleFusedLocationProvider	file:
+mLogger	src/com/mapswithme/maps/MwmApplication.java	/^  private Logger mLogger;$/;"	f	class:MwmApplication	file:
+mLogger	src/com/mapswithme/maps/location/LocationHelper.java	/^  private final Logger mLogger = LoggerFactory.INSTANCE.getLogger(LoggerFactory.Type.LOCATION);$/;"	f	class:LocationHelper	file:
+mMainLoopHandler	src/com/mapswithme/maps/MwmApplication.java	/^  private Handler mMainLoopHandler;$/;"	f	class:MwmApplication	file:
+mMainMenu	src/com/mapswithme/maps/MwmActivity.java	/^  private MainMenu mMainMenu;$/;"	f	class:MwmActivity	file:
+mMainQueueToken	src/com/mapswithme/maps/MwmApplication.java	/^  private final Object mMainQueueToken = new Object();$/;"	f	class:MwmApplication	file:
+mMapFragment	src/com/mapswithme/maps/MwmActivity.java	/^  private MapFragment mMapFragment;$/;"	f	class:MwmActivity	file:
+mMyPosition	src/com/mapswithme/maps/location/LocationHelper.java	/^  private MapObject mMyPosition;$/;"	f	class:LocationHelper	file:
+mMyPositionModeListener	src/com/mapswithme/maps/location/LocationHelper.java	/^  private final LocationState.ModeChangeListener mMyPositionModeListener =$/;"	f	class:LocationHelper	file:
+mNavAnimationController	src/com/mapswithme/maps/MwmActivity.java	/^  private NavigationButtonsAnimationController mNavAnimationController;$/;"	f	class:MwmActivity	file:
+mNavMyPosition	src/com/mapswithme/maps/MwmActivity.java	/^  private MyPositionButton mNavMyPosition;$/;"	f	class:MwmActivity	file:
+mNavigationController	src/com/mapswithme/maps/MwmActivity.java	/^  private NavigationController mNavigationController;$/;"	f	class:MwmActivity	file:
+mOnMyPositionClickListener	src/com/mapswithme/maps/MwmActivity.java	/^  private final OnClickListener mOnMyPositionClickListener = new OnClickListener()$/;"	f	class:MwmActivity	file:
+mOnTransition	src/com/mapswithme/maps/location/LocationHelper.java	/^  private final TransitionListener mOnTransition = new TransitionListener();$/;"	f	class:LocationHelper	file:
+mOnmapDownloader	src/com/mapswithme/maps/MwmActivity.java	/^  private OnmapDownloader mOnmapDownloader;$/;"	f	class:MwmActivity	file:
+mPanelAnimator	src/com/mapswithme/maps/MwmActivity.java	/^  private PanelAnimator mPanelAnimator;$/;"	f	class:MwmActivity	file:
+mPathManager	src/com/mapswithme/maps/MwmActivity.java	/^  private final StoragePathManager mPathManager = new StoragePathManager();$/;"	f	class:MwmActivity	file:
+mPlacePage	src/com/mapswithme/maps/MwmActivity.java	/^  private PlacePageView mPlacePage;$/;"	f	class:MwmActivity	file:
+mPlacePageRestored	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean mPlacePageRestored;$/;"	f	class:MwmActivity	file:
+mPlacePageVisible	src/com/mapswithme/maps/MwmActivity.java	/^    private boolean mPlacePageVisible = false;$/;"	f	class:MwmActivity.VisibleRectMeasurer	file:
+mPositionChooser	src/com/mapswithme/maps/MwmActivity.java	/^  private View mPositionChooser;$/;"	f	class:MwmActivity	file:
+mPrefs	src/com/mapswithme/maps/MwmApplication.java	/^  private SharedPreferences mPrefs;$/;"	f	class:MwmApplication	file:
+mRootView	src/com/mapswithme/maps/MwmActivity.java	/^  private ViewGroup mRootView;$/;"	f	class:MwmActivity	file:
+mRoutingPlanInplaceController	src/com/mapswithme/maps/MwmActivity.java	/^  private RoutingPlanInplaceController mRoutingPlanInplaceController;$/;"	f	class:MwmActivity	file:
+mSavedLocation	src/com/mapswithme/maps/location/LocationHelper.java	/^  private Location mSavedLocation;$/;"	f	class:LocationHelper	file:
+mSavedLocationTime	src/com/mapswithme/maps/location/LocationHelper.java	/^  private long mSavedLocationTime;$/;"	f	class:LocationHelper	file:
+mScreenFullRect	src/com/mapswithme/maps/MwmActivity.java	/^    private Rect mScreenFullRect = null;$/;"	f	class:MwmActivity.VisibleRectMeasurer	file:
+mSearchController	src/com/mapswithme/maps/MwmActivity.java	/^  private FloatingSearchToolbarController mSearchController;$/;"	f	class:MwmActivity	file:
+mSensorHelper	src/com/mapswithme/maps/location/LocationHelper.java	/^  private final SensorHelper mSensorHelper = new SensorHelper();$/;"	f	class:LocationHelper	file:
+mStorageCallbacks	src/com/mapswithme/maps/MwmApplication.java	/^  private final MapManager.StorageCallback mStorageCallbacks = new MapManager.StorageCallback()$/;"	f	class:MwmApplication	file:
+mTasks	src/com/mapswithme/maps/MwmActivity.java	/^  private final Stack<MapTask> mTasks = new Stack<>();$/;"	f	class:MwmActivity	file:
+mTelephonyManager	src/com/mapswithme/maps/MwmActivity.java	/^  private TelephonyManager mTelephonyManager;$/;"	f	class:MwmActivity	file:
+mTelephonyManager	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private TelephonyManager mTelephonyManager;$/;"	f	class:GoogleFusedLocationProvider	file:
+mTelephonyManager	src/com/mapswithme/maps/location/LocationHelper.java	/^  private TelephonyManager mTelephonyManager;$/;"	f	class:LocationHelper	file:
+mTraffic	src/com/mapswithme/maps/MwmActivity.java	/^  private TrafficButton mTraffic;$/;"	f	class:MwmActivity	file:
+mTrafficButtonController	src/com/mapswithme/maps/MwmActivity.java	/^  private TrafficButtonController mTrafficButtonController;$/;"	f	class:MwmActivity	file:
+mUiCallback	src/com/mapswithme/maps/location/LocationHelper.java	/^  private UiCallback mUiCallback;$/;"	f	class:LocationHelper	file:
+mUrl	src/com/mapswithme/maps/MwmActivity.java	/^    private final String mUrl;$/;"	f	class:MwmActivity.OpenUrlTask	file:
+mVisibleRectMeasurer	src/com/mapswithme/maps/MwmActivity.java	/^  private VisibleRectMeasurer mVisibleRectMeasurer;$/;"	f	class:MwmActivity	file:
+m_listener	src/com/mapswithme/maps/MwmActivity.java	/^    private VisibleRectListener m_listener;$/;"	f	class:MwmActivity.VisibleRectMeasurer	file:
+machine	src/com/mapswithme/maps/MwmActivity.java	/^  public static AeneasMachine machine = null; $/;"	f	class:MwmActivity
+maxGpsUpdate	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int maxGpsUpdate = 10000;$/;"	f	class:GoogleFusedLocationProvider
+minGpsUpdate	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int minGpsUpdate = 0;$/;"	f	class:GoogleFusedLocationProvider
+minLocationAcc	src/com/mapswithme/maps/MwmActivity.java	/^  public static double minLocationAcc = 0.0;$/;"	f	class:MwmActivity
+nativeAddLocalization	src/com/mapswithme/maps/MwmApplication.java	/^  private static native void nativeAddLocalization(String name, String value);$/;"	m	class:MwmApplication	file:
+nativeInitCrashlytics	src/com/mapswithme/maps/MwmApplication.java	/^  private static native void nativeInitCrashlytics();$/;"	m	class:MwmApplication	file:
+nativeInitFramework	src/com/mapswithme/maps/MwmApplication.java	/^  private static native void nativeInitFramework();$/;"	m	class:MwmApplication	file:
+nativeInitPlatform	src/com/mapswithme/maps/MwmApplication.java	/^  private native void nativeInitPlatform(String apkPath, String storagePath, String tmpPath, String obbGooglePath,$/;"	m	class:MwmApplication	file:
+nativeLocationUpdated	src/com/mapswithme/maps/location/LocationHelper.java	/^  private static native void nativeLocationUpdated(long time, double lat, double lon, float accuracy,$/;"	m	class:LocationHelper	file:
+nativeOnLocationError	src/com/mapswithme/maps/location/LocationHelper.java	/^  private static native void nativeOnLocationError(int errorCode);$/;"	m	class:LocationHelper	file:
+nativePreparePlatform	src/com/mapswithme/maps/MwmApplication.java	/^  private static native void nativePreparePlatform(String settingsPath);$/;"	m	class:MwmApplication	file:
+nativeProcessFunctor	src/com/mapswithme/maps/MwmApplication.java	/^  private static native void nativeProcessFunctor(long functorPointer);$/;"	m	class:MwmApplication	file:
+nativeUpdateCompassSensor	src/com/mapswithme/maps/location/LocationHelper.java	/^  static native float[] nativeUpdateCompassSensor(int ind, float[] arr);$/;"	m	class:LocationHelper
+notifyCompassUpdated	src/com/mapswithme/maps/location/LocationHelper.java	/^  void notifyCompassUpdated(long time, double magneticNorth, double trueNorth, double accuracy)$/;"	m	class:LocationHelper
+notifyLocationError	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void notifyLocationError(int errCode)$/;"	m	class:LocationHelper	file:
+notifyLocationNotFound	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void notifyLocationNotFound()$/;"	m	class:LocationHelper	file:
+notifyLocationUpdated	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void notifyLocationUpdated(LocationListener listener)$/;"	m	class:LocationHelper	file:
+notifyLocationUpdated	src/com/mapswithme/maps/location/LocationHelper.java	/^  void notifyLocationUpdated()$/;"	m	class:LocationHelper
+notifyMyPositionModeChanged	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void notifyMyPositionModeChanged(int newMode)$/;"	m	class:LocationHelper	file:
+onBackPressed	src/com/mapswithme/maps/MwmActivity.java	/^  public void onBackPressed()$/;"	m	class:MwmActivity
+onClick	src/com/mapswithme/maps/MwmActivity.java	/^  public void onClick(View v)$/;"	m	class:MwmActivity
+onCompassUpdated	src/com/mapswithme/maps/MwmActivity.java	/^  public void onCompassUpdated(@NonNull CompassData compass)$/;"	m	class:MwmActivity
+onCompassUpdated	src/com/mapswithme/maps/location/LocationHelper.java	/^    void onCompassUpdated(@NonNull CompassData compass);$/;"	m	interface:LocationHelper.UiCallback
+onConnected	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  public void onConnected(Bundle bundle)$/;"	m	class:GoogleFusedLocationProvider
+onConnectionFailed	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  public void onConnectionFailed(@NonNull ConnectionResult connectionResult)$/;"	m	class:GoogleFusedLocationProvider
+onConnectionSuspended	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  public void onConnectionSuspended(int i)$/;"	m	class:GoogleFusedLocationProvider
+onCreate	src/com/mapswithme/maps/MwmActivity.java	/^  public void onCreate(@Nullable Bundle savedInstanceState)$/;"	m	class:MwmActivity
+onCreate	src/com/mapswithme/maps/MwmApplication.java	/^  public void onCreate()$/;"	m	class:MwmApplication
+onDestroy	src/com/mapswithme/maps/MwmActivity.java	/^  public void onDestroy()$/;"	m	class:MwmActivity
+onDismiss	src/com/mapswithme/maps/MwmActivity.java	/^  public void onDismiss(boolean switchFullScreenMode)$/;"	m	class:MwmActivity
+onEnteredIntoFirstRun	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void onEnteredIntoFirstRun()$/;"	m	class:LocationHelper
+onExitFromFirstRun	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void onExitFromFirstRun()$/;"	m	class:LocationHelper
+onLayoutChange	src/com/mapswithme/maps/MwmActivity.java	/^    public void onLayoutChange(View v, int left, int top, int right, int bottom,$/;"	m	class:MwmActivity.VisibleRectMeasurer
+onLocationChanged	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  public void onLocationChanged(Location location)$/;"	m	class:BaseLocationListener
+onLocationError	src/com/mapswithme/maps/MwmActivity.java	/^  public void onLocationError()$/;"	m	class:MwmActivity
+onLocationError	src/com/mapswithme/maps/location/LocationHelper.java	/^    void onLocationError();$/;"	m	interface:LocationHelper.UiCallback
+onLocationNotFound	src/com/mapswithme/maps/MwmActivity.java	/^  public void onLocationNotFound()$/;"	m	class:MwmActivity
+onLocationNotFound	src/com/mapswithme/maps/location/LocationHelper.java	/^    void onLocationNotFound();$/;"	m	interface:LocationHelper.UiCallback
+onLocationUpdated	src/com/mapswithme/maps/MwmActivity.java	/^  public void onLocationUpdated(@NonNull Location location)$/;"	m	class:MwmActivity
+onLocationUpdated	src/com/mapswithme/maps/location/LocationHelper.java	/^    void onLocationUpdated(@NonNull Location location);$/;"	m	interface:LocationHelper.UiCallback
+onLocationUpdated	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void onLocationUpdated(@NonNull Location location)$/;"	m	class:LocationHelper
+onMapObjectActivated	src/com/mapswithme/maps/MwmActivity.java	/^  public void onMapObjectActivated(MapObject object)$/;"	m	class:MwmActivity
+onMyPositionModeChanged	src/com/mapswithme/maps/MwmActivity.java	/^  public void onMyPositionModeChanged(int newMode)$/;"	m	class:MwmActivity
+onMyPositionModeChanged	src/com/mapswithme/maps/location/LocationHelper.java	/^    void onMyPositionModeChanged(int newMode);$/;"	m	interface:LocationHelper.UiCallback
+onNavigationCancelled	src/com/mapswithme/maps/MwmActivity.java	/^  public void onNavigationCancelled()$/;"	m	class:MwmActivity
+onNewIntent	src/com/mapswithme/maps/MwmActivity.java	/^  protected void onNewIntent(Intent intent)$/;"	m	class:MwmActivity
+onPause	src/com/mapswithme/maps/MwmActivity.java	/^  protected void onPause()$/;"	m	class:MwmActivity
+onPlacePageVisibilityChanged	src/com/mapswithme/maps/MwmActivity.java	/^  public void onPlacePageVisibilityChanged(boolean isVisible)$/;"	m	class:MwmActivity
+onPreviewVisibilityChanged	src/com/mapswithme/maps/MwmActivity.java	/^  public void onPreviewVisibilityChanged(boolean isVisible)$/;"	m	class:MwmActivity
+onProgress	src/com/mapswithme/maps/MwmActivity.java	/^  public void onProgress(float translationX, float translationY)$/;"	m	class:MwmActivity
+onProviderDisabled	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  public void onProviderDisabled(String provider)$/;"	m	class:BaseLocationListener
+onProviderEnabled	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  public void onProviderEnabled(String provider)$/;"	m	class:BaseLocationListener
+onRenderingInitialized	src/com/mapswithme/maps/MwmActivity.java	/^  public void onRenderingInitialized()$/;"	m	class:MwmActivity
+onRenderingRestored	src/com/mapswithme/maps/MwmActivity.java	/^  public void onRenderingRestored()$/;"	m	class:MwmActivity
+onRestoreInstanceState	src/com/mapswithme/maps/MwmActivity.java	/^  protected void onRestoreInstanceState(@NonNull Bundle savedInstanceState)$/;"	m	class:MwmActivity
+onResultsEnd	src/com/mapswithme/maps/MwmActivity.java	/^  public void onResultsEnd(long timestamp)$/;"	m	class:MwmActivity
+onResultsUpdate	src/com/mapswithme/maps/MwmActivity.java	/^  public void onResultsUpdate(SearchResult[] results, long timestamp, boolean isHotel)$/;"	m	class:MwmActivity
+onResume	src/com/mapswithme/maps/MwmActivity.java	/^  protected void onResume()$/;"	m	class:MwmActivity
+onResumeFragments	src/com/mapswithme/maps/MwmActivity.java	/^  protected void onResumeFragments()$/;"	m	class:MwmActivity
+onSaveInstanceState	src/com/mapswithme/maps/MwmActivity.java	/^  protected void onSaveInstanceState(Bundle outState)$/;"	m	class:MwmActivity
+onSearchVisibilityChanged	src/com/mapswithme/maps/MwmActivity.java	/^  public void onSearchVisibilityChanged(boolean visible)$/;"	m	class:MwmActivity
+onStart	src/com/mapswithme/maps/MwmActivity.java	/^  protected void onStart()$/;"	m	class:MwmActivity
+onStatusChanged	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  public void onStatusChanged(String provider, int status, Bundle extras)$/;"	m	class:BaseLocationListener
+onStop	src/com/mapswithme/maps/MwmActivity.java	/^  protected void onStop()$/;"	m	class:MwmActivity
+onToggle	src/com/mapswithme/maps/MwmActivity.java	/^  public void onToggle(boolean state)$/;"	m	class:MwmActivity
+onTouch	src/com/mapswithme/maps/MwmActivity.java	/^  public boolean onTouch(View view, MotionEvent event)$/;"	m	class:MwmActivity
+onTrackFinished	src/com/mapswithme/maps/MwmActivity.java	/^    void onTrackFinished(boolean collapsed);$/;"	m	interface:MwmActivity.LeftAnimationTrackListener
+onTrackLeftAnimation	src/com/mapswithme/maps/MwmActivity.java	/^    void onTrackLeftAnimation(float offset);$/;"	m	interface:MwmActivity.LeftAnimationTrackListener
+onTrackStarted	src/com/mapswithme/maps/MwmActivity.java	/^    void onTrackStarted(boolean collapsed);$/;"	m	interface:MwmActivity.LeftAnimationTrackListener
+onUberError	src/com/mapswithme/maps/MwmActivity.java	/^  public void onUberError(@NonNull Uber.ErrorCode code)$/;"	m	class:MwmActivity
+onUberInfoReceived	src/com/mapswithme/maps/MwmActivity.java	/^  public void onUberInfoReceived(@NonNull UberInfo info)$/;"	m	class:MwmActivity
+onUpgrade	src/com/mapswithme/maps/MwmApplication.java	/^  public static void onUpgrade()$/;"	m	class:MwmApplication
+onVisibleRectChanged	src/com/mapswithme/maps/MwmActivity.java	/^    void onVisibleRectChanged(Rect rect);$/;"	m	interface:MwmActivity.VisibleRectListener
+prefs	src/com/mapswithme/maps/MwmApplication.java	/^  public synchronized static SharedPreferences prefs()$/;"	m	class:MwmApplication
+processIntent	src/com/mapswithme/maps/MwmActivity.java	/^  private void processIntent(Intent intent)$/;"	m	class:MwmActivity	file:
+recalculateVisibleRect	src/com/mapswithme/maps/MwmActivity.java	/^    private void recalculateVisibleRect(Rect r)$/;"	m	class:MwmActivity.VisibleRectMeasurer	file:
+recreate	src/com/mapswithme/maps/MwmActivity.java	/^  public void recreate()$/;"	m	class:MwmActivity
+refreshFade	src/com/mapswithme/maps/MwmActivity.java	/^  public void refreshFade()$/;"	m	class:MwmActivity
+refreshKnobDisplay	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void refreshKnobDisplay() {$/;"	m	class:GoogleFusedLocationProvider	file:
+rejectedAccuracyCount	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  public int rejectedAccuracyCount = 0;$/;"	f	class:BaseLocationListener
+rejectedWorseCount	src/com/mapswithme/maps/location/BaseLocationListener.java	/^  public int rejectedWorseCount = 0;$/;"	f	class:BaseLocationListener
+removeCurrentFragment	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean removeCurrentFragment(boolean animate)$/;"	m	class:MwmActivity	file:
+removeFragment	src/com/mapswithme/maps/MwmActivity.java	/^  private boolean removeFragment(String className, boolean animate)$/;"	m	class:MwmActivity	file:
+removeFragmentImmediate	src/com/mapswithme/maps/MwmActivity.java	/^  private void removeFragmentImmediate(Fragment fragment)$/;"	m	class:MwmActivity	file:
+removeListener	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void removeListener(@NonNull LocationListener listener)$/;"	m	class:LocationHelper
+repeatCount	src/com/mapswithme/maps/MwmActivity.java	/^  public static int repeatCount = 0;$/;"	f	class:MwmActivity
+repeatTotal	src/com/mapswithme/maps/MwmActivity.java	/^  public static int repeatTotal = 0;$/;"	f	class:MwmActivity
+replaceFragment	src/com/mapswithme/maps/MwmActivity.java	/^  public void replaceFragment(@NonNull Class<? extends Fragment> fragmentClass, @Nullable Bundle args, @Nullable Runnable completionListener)$/;"	m	class:MwmActivity
+replaceFragmentInternal	src/com/mapswithme/maps/MwmActivity.java	/^  void replaceFragmentInternal(Class<? extends Fragment> fragmentClass, Bundle args)$/;"	m	class:MwmActivity
+requestLocationUpdates	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private void requestLocationUpdates()$/;"	m	class:GoogleFusedLocationProvider	file:
+resetMagneticField	src/com/mapswithme/maps/location/LocationHelper.java	/^  void resetMagneticField(Location location)$/;"	m	class:LocationHelper
+resolveResolutionRequired	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private static void resolveResolutionRequired()$/;"	m	class:GoogleFusedLocationProvider	file:
+restart	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void restart()$/;"	m	class:LocationHelper
+run	src/com/mapswithme/maps/MwmActivity.java	/^    boolean run(MwmActivity target);$/;"	m	interface:MwmActivity.MapTask
+run	src/com/mapswithme/maps/MwmActivity.java	/^    public boolean run(MwmActivity target)$/;"	m	class:MwmActivity.OpenUrlTask
+run	src/com/mapswithme/maps/MwmActivity.java	/^    public boolean run(MwmActivity target)$/;"	m	class:MwmActivity.ShowAuthorizationTask
+run	src/com/mapswithme/maps/MwmActivity.java	/^    public boolean run(MwmActivity target)$/;"	m	class:MwmActivity.ShowBookmarkTask
+run	src/com/mapswithme/maps/MwmActivity.java	/^    public boolean run(MwmActivity target)$/;"	m	class:MwmActivity.ShowCountryTask
+run	src/com/mapswithme/maps/MwmActivity.java	/^    public boolean run(MwmActivity target)$/;"	m	class:MwmActivity.ShowTrackTask
+runCount	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  int runCount = 0;$/;"	f	class:GoogleFusedLocationProvider
+runSearch	src/com/mapswithme/maps/MwmActivity.java	/^  private void runSearch()$/;"	m	class:MwmActivity	file:
+runTasks	src/com/mapswithme/maps/MwmActivity.java	/^  private void runTasks()$/;"	m	class:MwmActivity	file:
+runner	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private Runnable runner = null;$/;"	f	class:GoogleFusedLocationProvider	file:
+sSelf	src/com/mapswithme/maps/MwmApplication.java	/^  private static MwmApplication sSelf;$/;"	f	class:MwmApplication	file:
+samplingPolicy	src/com/mapswithme/maps/MwmActivity.java	/^  public static SamplingPolicy samplingPolicy = null;$/;"	f	class:MwmActivity
+sendPushWooshTags	src/com/mapswithme/maps/MwmApplication.java	/^  void sendPushWooshTags(String tag, String[] values)$/;"	m	class:MwmApplication
+sensorAccuracyString	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  private String sensorAccuracyString() {$/;"	m	class:GoogleFusedLocationProvider	file:
+serialVersionUID	src/com/mapswithme/maps/MwmActivity.java	/^    private static final long serialVersionUID = 1L;$/;"	f	class:MwmActivity.BaseUserMarkTask	file:
+serialVersionUID	src/com/mapswithme/maps/MwmActivity.java	/^    private static final long serialVersionUID = 1L;$/;"	f	class:MwmActivity.OpenUrlTask	file:
+serialVersionUID	src/com/mapswithme/maps/MwmActivity.java	/^    private static final long serialVersionUID = 1L;$/;"	f	class:MwmActivity.ShowCountryTask	file:
+setFullscreen	src/com/mapswithme/maps/MwmActivity.java	/^  private void setFullscreen(boolean isFullscreen)$/;"	m	class:MwmActivity	file:
+setInstallationIdToCrashlytics	src/com/mapswithme/maps/MwmApplication.java	/^  private static boolean setInstallationIdToCrashlytics()$/;"	m	class:MwmApplication	file:
+setNavButtonsTopLimit	src/com/mapswithme/maps/MwmActivity.java	/^  private void setNavButtonsTopLimit(int limit)$/;"	m	class:MwmActivity	file:
+setPlacePageVisible	src/com/mapswithme/maps/MwmActivity.java	/^    void setPlacePageVisible(boolean visible)$/;"	m	class:MwmActivity.VisibleRectMeasurer
+setPreviewVisible	src/com/mapswithme/maps/MwmActivity.java	/^    void setPreviewVisible(boolean visible)$/;"	m	class:MwmActivity.VisibleRectMeasurer
+shareMyLocation	src/com/mapswithme/maps/MwmActivity.java	/^  private void shareMyLocation()$/;"	m	class:MwmActivity	file:
+showBookmarks	src/com/mapswithme/maps/MwmActivity.java	/^  private void showBookmarks()$/;"	m	class:MwmActivity	file:
+showDownloader	src/com/mapswithme/maps/MwmActivity.java	/^  public void showDownloader(boolean openDownloaded)$/;"	m	class:MwmActivity
+showEditor	src/com/mapswithme/maps/MwmActivity.java	/^  public void showEditor()$/;"	m	class:MwmActivity
+showLocationErrorDialog	src/com/mapswithme/maps/MwmActivity.java	/^  private void showLocationErrorDialog(@NonNull final Intent intent)$/;"	m	class:MwmActivity	file:
+showLocationNotFoundDialog	src/com/mapswithme/maps/MwmActivity.java	/^  private void showLocationNotFoundDialog()$/;"	m	class:MwmActivity	file:
+showNavigation	src/com/mapswithme/maps/MwmActivity.java	/^  public void showNavigation(boolean show)$/;"	m	class:MwmActivity
+showPositionChooser	src/com/mapswithme/maps/MwmActivity.java	/^  public void showPositionChooser(boolean isBusiness, boolean applyPosition)$/;"	m	class:MwmActivity
+showRoutePlan	src/com/mapswithme/maps/MwmActivity.java	/^  public void showRoutePlan(boolean show, @Nullable Runnable completionListener)$/;"	m	class:MwmActivity
+showSearch	src/com/mapswithme/maps/MwmActivity.java	/^  public void showSearch()$/;"	m	class:MwmActivity
+showSearch	src/com/mapswithme/maps/MwmActivity.java	/^  public void showSearch(String query)$/;"	m	class:MwmActivity
+start	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  protected void start()$/;"	m	class:GoogleFusedLocationProvider
+start	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void start()$/;"	m	class:LocationHelper
+startInternal	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void startInternal()$/;"	m	class:LocationHelper	file:
+startLocationToPoint	src/com/mapswithme/maps/MwmActivity.java	/^  public void startLocationToPoint(String statisticsEvent, String alohaEvent, final @Nullable MapObject endPoint)$/;"	m	class:MwmActivity
+startSensors	src/com/mapswithme/maps/location/LocationHelper.java	/^  void startSensors(int sensorRate)$/;"	m	class:LocationHelper
+stop	src/com/mapswithme/maps/location/GoogleFusedLocationProvider.java	/^  protected void stop()$/;"	m	class:GoogleFusedLocationProvider
+stop	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void stop()$/;"	m	class:LocationHelper	file:
+stopInternal	src/com/mapswithme/maps/location/LocationHelper.java	/^  private void stopInternal()$/;"	m	class:LocationHelper	file:
+stopSensors	src/com/mapswithme/maps/location/LocationHelper.java	/^  void stopSensors()$/;"	m	class:LocationHelper
+switchToNextMode	src/com/mapswithme/maps/location/LocationHelper.java	/^  public void switchToNextMode()$/;"	m	class:LocationHelper
+toggleMenu	src/com/mapswithme/maps/MwmActivity.java	/^  private void toggleMenu()$/;"	m	class:MwmActivity	file:
+updateBuildProgress	src/com/mapswithme/maps/MwmActivity.java	/^  public void updateBuildProgress(int progress, @Framework.RouterType int router)$/;"	m	class:MwmActivity
+updateMenu	src/com/mapswithme/maps/MwmActivity.java	/^  public void updateMenu()$/;"	m	class:MwmActivity
+updatePoints	src/com/mapswithme/maps/MwmActivity.java	/^  public void updatePoints()$/;"	m	class:MwmActivity
+updateSearchBar	src/com/mapswithme/maps/MwmActivity.java	/^  private void updateSearchBar()$/;"	m	class:MwmActivity	file:
+usingSelfOptimizer	src/com/mapswithme/maps/MwmActivity.java	/^  public static Boolean usingSelfOptimizer = false;$/;"	f	class:MwmActivity

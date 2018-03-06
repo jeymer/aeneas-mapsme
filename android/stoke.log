@@ -1,0 +1,93 @@
+==RUN 0==
+Bandit Runs:1 Tasks-in-Run:10
+Self-Optimizer Rounds:0 Tasks-in-Round:0
+Continuous Knob Rounds:Inf Tasks-in-Round:0
+STOKE: Start Bat: 1.000000
+Accepted:0 Acc-Reject:0 Worse-Reject:0
+Accepted:1 Acc-Reject:0 Worse-Reject:0
+Accepted:2 Acc-Reject:0 Worse-Reject:0
+Accepted:3 Acc-Reject:0 Worse-Reject:0
+Accepted:4 Acc-Reject:0 Worse-Reject:0
+Accepted:5 Acc-Reject:0 Worse-Reject:0
+Accepted:6 Acc-Reject:0 Worse-Reject:0
+Accepted:7 Acc-Reject:0 Worse-Reject:0
+ETask 1-1: Configuration:0 Energy:14.523437275648002 Reward:-5.202425292769433 Raw:5.202425292769433 Time:32511 TotalReward:14.523437275648002
+Accepted:8 Acc-Reject:0 Worse-Reject:0
+Accepted:9 Acc-Reject:0 Worse-Reject:0
+Accepted:10 Acc-Reject:0 Worse-Reject:0
+Accepted:11 Acc-Reject:0 Worse-Reject:0
+Accepted:12 Acc-Reject:0 Worse-Reject:0
+Accepted:13 Acc-Reject:0 Worse-Reject:0
+ETask 2-2: Configuration:0 Energy:12.168615400170001 Reward:-4.358907009016121 Raw:4.358907009016121 Time:32510 TotalReward:26.692052675818005
+Accepted:14 Acc-Reject:0 Worse-Reject:0
+Accepted:15 Acc-Reject:0 Worse-Reject:0
+Accepted:16 Acc-Reject:0 Worse-Reject:0
+Accepted:17 Acc-Reject:0 Worse-Reject:0
+Accepted:18 Acc-Reject:0 Worse-Reject:0
+Accepted:19 Acc-Reject:0 Worse-Reject:0
+Accepted:20 Acc-Reject:0 Worse-Reject:0
+ETask 3-3: Configuration:0 Energy:0.0 Reward:0.0 Raw:0.0 Time:32506 TotalReward:26.692052675818005
+Accepted:21 Acc-Reject:0 Worse-Reject:0
+Accepted:22 Acc-Reject:0 Worse-Reject:0
+Accepted:23 Acc-Reject:0 Worse-Reject:0
+Accepted:24 Acc-Reject:0 Worse-Reject:0
+Accepted:25 Acc-Reject:0 Worse-Reject:0
+Accepted:26 Acc-Reject:0 Worse-Reject:0
+ETask 4-4: Configuration:0 Energy:0.021315398063999996 Reward:-0.007635366470686564 Raw:0.007635366470686564 Time:32507 TotalReward:26.713368073882005
+Accepted:27 Acc-Reject:0 Worse-Reject:0
+Accepted:28 Acc-Reject:0 Worse-Reject:0
+Accepted:29 Acc-Reject:0 Worse-Reject:0
+Accepted:30 Acc-Reject:0 Worse-Reject:0
+Accepted:31 Acc-Reject:0 Worse-Reject:0
+Accepted:32 Acc-Reject:0 Worse-Reject:0
+Accepted:33 Acc-Reject:0 Worse-Reject:0
+ETask 5-5: Configuration:0 Energy:0.021317364791999995 Reward:-0.007636070970268655 Raw:0.007636070970268655 Time:32505 TotalReward:26.734685438674006
+Accepted:34 Acc-Reject:0 Worse-Reject:0
+Accepted:35 Acc-Reject:0 Worse-Reject:0
+Accepted:36 Acc-Reject:0 Worse-Reject:0
+Accepted:37 Acc-Reject:0 Worse-Reject:0
+Accepted:38 Acc-Reject:0 Worse-Reject:0
+Accepted:39 Acc-Reject:0 Worse-Reject:0
+ETask 6-6: Configuration:0 Energy:0.021313733055999998 Reward:-0.007634770049910446 Raw:0.007634770049910446 Time:32513 TotalReward:26.755999171730007
+Accepted:40 Acc-Reject:0 Worse-Reject:0
+Accepted:41 Acc-Reject:0 Worse-Reject:0
+Accepted:42 Acc-Reject:0 Worse-Reject:0
+Accepted:43 Acc-Reject:0 Worse-Reject:0
+Accepted:44 Acc-Reject:0 Worse-Reject:0
+Accepted:45 Acc-Reject:0 Worse-Reject:0
+Accepted:46 Acc-Reject:0 Worse-Reject:0
+ETask 7-7: Configuration:0 Energy:14.676236028607999 Reward:-5.257159174426746 Raw:5.257159174426746 Time:32505 TotalReward:41.432235200338006
+Accepted:47 Acc-Reject:0 Worse-Reject:0
+Accepted:48 Acc-Reject:0 Worse-Reject:0
+Accepted:49 Acc-Reject:0 Worse-Reject:0
+Accepted:50 Acc-Reject:0 Worse-Reject:0
+Accepted:51 Acc-Reject:0 Worse-Reject:0
+Accepted:52 Acc-Reject:0 Worse-Reject:0
+ETask 8-8: Configuration:0 Energy:16.458238148135 Reward:-5.895488291869253 Raw:5.895488291869253 Time:32507 TotalReward:57.89047334847301
+Accepted:53 Acc-Reject:0 Worse-Reject:0
+Accepted:54 Acc-Reject:0 Worse-Reject:0
+Accepted:55 Acc-Reject:0 Worse-Reject:0
+Accepted:56 Acc-Reject:0 Worse-Reject:0
+Accepted:57 Acc-Reject:0 Worse-Reject:0
+Accepted:58 Acc-Reject:0 Worse-Reject:0
+Accepted:59 Acc-Reject:0 Worse-Reject:0
+ETask 9-9: Configuration:0 Energy:15.58054212204 Reward:-5.581089715357612 Raw:5.581089715357612 Time:32503 TotalReward:73.47101547051301
+Accepted:60 Acc-Reject:0 Worse-Reject:0
+Accepted:61 Acc-Reject:0 Worse-Reject:0
+Accepted:62 Acc-Reject:0 Worse-Reject:0
+Accepted:63 Acc-Reject:0 Worse-Reject:0
+Accepted:64 Acc-Reject:0 Worse-Reject:0
+Accepted:65 Acc-Reject:0 Worse-Reject:0
+ETask 10-10: Configuration:0 Energy:7.567124863104001 Reward:-2.7106118912611348 Raw:2.7106118912611348 Time:32511 TotalReward:81.03814033361701
+Accepted:66 Acc-Reject:0 Worse-Reject:0
+Accepted:67 Acc-Reject:0 Worse-Reject:0
+Accepted:68 Acc-Reject:0 Worse-Reject:0
+Accepted:69 Acc-Reject:0 Worse-Reject:0
+Accepted:70 Acc-Reject:0 Worse-Reject:0
+Accepted:71 Acc-Reject:0 Worse-Reject:0
+Accepted:72 Acc-Reject:0 Worse-Reject:0
+ETask 11-11: Configuration:0 Energy:0.021302537040000003 Reward:-0.0076307595367164196 Raw:0.0076307595367164196 Time:32504 TotalReward:81.05944287065701
+ERun: Time:357712
+==END-RUN 0==
+==ROUND-END==
+STOKE: Config: 0 - Knobs: {interval:30000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 reward:0.0000

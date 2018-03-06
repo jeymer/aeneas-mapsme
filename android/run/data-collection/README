@@ -1,0 +1,22 @@
+Log details of data collection for MapsWithMe.
+
+GPS Update Interval (10s, 1s, 5s)
+GPS Priority / Accuracy (Low, Balanced, High)
+Sensors Off
+GPS Batching (10x, 5x, 1x)
+
+
+========
+12-11-17
+========
+
+First Round of collection. Focusing on no-batching set.
+
+10s-High-1x (50 points x 2) - 30 minutes - TODO
+5s-High-1x (50 points x 2)  - 30 minutes - TODO
+1s-High-1x (50 points x 2)  - 30 minutes - TODO
+
+10s-Low-1x (50 points x 2) - 30 minutes - TODO
+5s-Low-1x (50 points x 2)  - 30 minutes - TODO
+1s-Low-1x (50 points x 2)  - 30 minutes - TODO
+

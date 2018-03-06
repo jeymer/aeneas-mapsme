@@ -1,0 +1,309 @@
+==RUN 0==
+STOKE: Start Bat: 0.820000
+ELocation 0: Diff:1 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1858
+STOKE: Level:0.82 Watts:1.1858
+STOKE: Level:0.82 Watts:1.1858
+STOKE: Level:0.82 Watts:1.1858
+STOKE: Level:0.82 Watts:1.1858
+STOKE: Level:0.82 Watts:1.1376
+ECycle-Start 0: Start-Drain:0.82
+STOKE: Level:0.82 Watts:1.1376
+ETask 7: Configuration:0 Energy:0.00 Power:0.00 Reward:1.14 Time:5010 -- SAMPLE
+STOKE: Level:0.82 Watts:1.1376
+ETask 8: Configuration:0 Energy:0.00 Power:0.00 Reward:1.14 Time:5005 -- SAMPLE
+STOKE: Level:0.82 Watts:1.1376
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:1.14 Time:5008 -- SAMPLE
+ECycle-Start 0: End-Drain:0.82
+ECycle 0: Energy:0.00 Power:0.00 Drain:0.00
+STOKE: Level:0.82 Watts:1.1376
+ELocation 1: Diff:49844 ms Accuracy:20.00
+ECycle-Start 1: Start-Drain:0.82
+ELocation 2: Diff:1 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1376
+ETask 11: Configuration:1 Energy:0.00 Power:0.00 Reward:1.14 Time:5010 -- SAMPLE
+STOKE: Level:0.82 Watts:1.1320
+ETask 12: Configuration:1 Energy:0.00 Power:0.00 Reward:1.13 Time:5009 -- SAMPLE
+STOKE: Level:0.82 Watts:1.1320
+ETask 13: Configuration:1 Energy:0.00 Power:0.00 Reward:1.13 Time:5007 -- SAMPLE
+ECycle-Start 1: End-Drain:0.82
+ECycle 1: Energy:0.00 Power:0.00 Drain:0.00
+STOKE: Level:0.82 Watts:1.1320
+ELocation 3: Diff:20100 ms Accuracy:20.00
+ECycle-Start 2: Start-Drain:0.82
+ELocation 4: Diff:0 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1320
+ETask 15: Configuration:2 Energy:0.00 Power:0.00 Reward:1.13 Time:5010 -- SAMPLE
+ELocation 5: Diff:10014 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1320
+ETask 16: Configuration:2 Energy:0.00 Power:0.00 Reward:1.13 Time:5006 -- SAMPLE
+STOKE: Level:0.82 Watts:1.1320
+ETask 17: Configuration:2 Energy:0.00 Power:0.00 Reward:1.13 Time:5008 -- SAMPLE
+ECycle-Start 2: End-Drain:0.82
+ECycle 2: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 6: Diff:10013 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1933
+ELocation 7: Diff:80 ms Accuracy:20.00
+ECycle-Start 3: Start-Drain:0.82
+ELocation 8: Diff:-13 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1933
+ETask 19: Configuration:3 Energy:0.00 Power:0.00 Reward:1.19 Time:5005 -- SAMPLE
+ELocation 9: Diff:9946 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1933
+ETask 20: Configuration:3 Energy:0.00 Power:0.00 Reward:1.19 Time:5009 -- SAMPLE
+ELocation 10: Diff:5019 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1933
+ETask 21: Configuration:3 Energy:0.00 Power:0.00 Reward:1.19 Time:5005 -- SAMPLE
+ECycle-Start 3: End-Drain:0.82
+ECycle 3: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 11: Diff:5017 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1933
+ELocation 12: Diff:128 ms Accuracy:20.00
+ECycle-Start 4: Start-Drain:0.82
+ELocation 13: Diff:-16 ms Accuracy:20.00
+ELocation 14: Diff:4907 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1933
+ETask 23: Configuration:4 Energy:0.00 Power:0.00 Reward:1.19 Time:5007 -- SAMPLE
+ELocation 15: Diff:5020 ms Accuracy:20.00
+STOKE: Level:0.82 Watts:1.1363
+ETask 24: Configuration:4 Energy:0.00 Power:0.00 Reward:1.14 Time:5004 -- SAMPLE
+ELocation 16: Diff:5017 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1347
+ETask 25: Configuration:4 Energy:0.00 Power:0.00 Reward:1.13 Time:5005 -- SAMPLE
+ECycle-Start 4: End-Drain:0.81
+ECycle 4: Energy:0.00 Power:0.00 Drain:0.01
+ELocation 17: Diff:5018 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1347
+ELocation 18: Diff:128 ms Accuracy:20.00
+ECycle-Start 5: Start-Drain:0.81
+ELocation 19: Diff:-7 ms Accuracy:20.00
+ELocation 20: Diff:4902 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1347
+ETask 27: Configuration:5 Energy:0.00 Power:0.00 Reward:1.13 Time:5006 -- SAMPLE
+ELocation 21: Diff:5020 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1347
+ETask 28: Configuration:5 Energy:0.00 Power:0.00 Reward:1.13 Time:5006 -- SAMPLE
+ELocation 22: Diff:5019 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1347
+ETask 29: Configuration:5 Energy:0.00 Power:0.00 Reward:1.13 Time:5008 -- SAMPLE
+ECycle-Start 5: End-Drain:0.81
+ECycle 5: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 23: Diff:5017 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1291
+ELocation 24: Diff:139 ms Accuracy:20.00
+ECycle-Start 6: Start-Drain:0.81
+ELocation 25: Diff:-11 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1291
+ETask 31: Configuration:6 Energy:0.00 Power:0.00 Reward:1.13 Time:5007 -- SAMPLE
+STOKE: Level:0.81 Watts:1.1291
+ETask 32: Configuration:6 Energy:0.00 Power:0.00 Reward:1.13 Time:5010 -- SAMPLE
+STOKE: Level:0.81 Watts:1.1291
+ETask 33: Configuration:6 Energy:0.00 Power:0.00 Reward:1.13 Time:5008 -- SAMPLE
+ECycle-Start 6: End-Drain:0.81
+ECycle 6: Energy:0.00 Power:0.00 Drain:0.00
+STOKE: Level:0.81 Watts:1.1291
+ELocation 26: Diff:20111 ms Accuracy:20.00
+ECycle-Start 7: Start-Drain:0.81
+STOKE: Level:0.81 Watts:1.1291
+ETask 35: Configuration:7 Energy:0.00 Power:0.00 Reward:1.13 Time:5008 -- SAMPLE
+STOKE: Level:0.81 Watts:1.1699
+ETask 36: Configuration:7 Energy:0.00 Power:0.00 Reward:1.17 Time:5008 -- SAMPLE
+STOKE: Level:0.81 Watts:1.1690
+ETask 37: Configuration:7 Energy:0.00 Power:0.00 Reward:1.17 Time:5007 -- SAMPLE
+ECycle-Start 7: End-Drain:0.81
+ECycle 7: Energy:0.00 Power:0.00 Drain:0.00
+STOKE: Level:0.81 Watts:1.1690
+ELocation 27: Diff:20092 ms Accuracy:20.00
+ECycle-Start 8: Start-Drain:0.81
+ELocation 28: Diff:1 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1690
+ETask 39: Configuration:8 Energy:0.00 Power:0.00 Reward:1.17 Time:5009 -- SAMPLE
+ELocation 29: Diff:10012 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1690
+ETask 40: Configuration:8 Energy:0.00 Power:0.00 Reward:1.17 Time:5009 -- SAMPLE
+STOKE: Level:0.81 Watts:1.1690
+ETask 41: Configuration:8 Energy:0.00 Power:0.00 Reward:1.17 Time:5007 -- SAMPLE
+ECycle-Start 8: End-Drain:0.81
+ECycle 8: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 30: Diff:10015 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.2307
+ELocation 31: Diff:77 ms Accuracy:20.00
+ECycle-Start 9: Start-Drain:0.81
+ELocation 32: Diff:-12 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.2307
+ETask 43: Configuration:9 Energy:0.00 Power:0.00 Reward:1.23 Time:5004 -- SAMPLE
+ELocation 33: Diff:9948 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.2307
+ETask 44: Configuration:9 Energy:0.00 Power:0.00 Reward:1.23 Time:5005 -- SAMPLE
+ELocation 34: Diff:5016 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.2307
+ETask 45: Configuration:9 Energy:0.00 Power:0.00 Reward:1.23 Time:5006 -- SAMPLE
+ECycle-Start 9: End-Drain:0.81
+ECycle 9: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 35: Diff:5016 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.2307
+ELocation 36: Diff:121 ms Accuracy:20.00
+ECycle-Start 10: Start-Drain:0.81
+ELocation 37: Diff:-17 ms Accuracy:20.00
+ELocation 38: Diff:4913 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.2307
+ETask 47: Configuration:10 Energy:0.00 Power:0.00 Reward:1.23 Time:5007 -- SAMPLE
+ELocation 39: Diff:5020 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1073
+ETask 48: Configuration:10 Energy:0.00 Power:0.00 Reward:1.11 Time:5003 -- SAMPLE
+ELocation 40: Diff:5024 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1073
+ETask 49: Configuration:10 Energy:0.00 Power:0.00 Reward:1.11 Time:5006 -- SAMPLE
+ECycle-Start 10: End-Drain:0.81
+ECycle 10: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 41: Diff:5025 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1073
+ELocation 42: Diff:115 ms Accuracy:20.00
+ECycle-Start 11: Start-Drain:0.81
+ELocation 43: Diff:-10 ms Accuracy:20.00
+ELocation 44: Diff:4917 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1073
+ETask 51: Configuration:11 Energy:0.00 Power:0.00 Reward:1.11 Time:5005 -- SAMPLE
+ELocation 45: Diff:5018 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1073
+ETask 52: Configuration:11 Energy:0.00 Power:0.00 Reward:1.11 Time:5006 -- SAMPLE
+ELocation 46: Diff:5021 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1073
+ETask 53: Configuration:11 Energy:0.00 Power:0.00 Reward:1.11 Time:5003 -- SAMPLE
+ECycle-Start 11: End-Drain:0.81
+ECycle 11: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 47: Diff:5021 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.1073
+ELocation 48: Diff:128 ms Accuracy:20.00
+ECycle-Start 12: Start-Drain:0.81
+ELocation 49: Diff:-16 ms Accuracy:20.00
+STOKE: Level:0.81 Watts:1.6529
+ETask 55: Configuration:12 Energy:0.00 Power:0.00 Reward:1.65 Time:5006 -- SAMPLE
+STOKE: Level:0.81 Watts:1.6529
+ETask 56: Configuration:12 Energy:0.00 Power:0.00 Reward:1.65 Time:5007 -- SAMPLE
+STOKE: Level:0.81 Watts:1.6529
+ETask 57: Configuration:12 Energy:0.00 Power:0.00 Reward:1.65 Time:5006 -- SAMPLE
+ECycle-Start 12: End-Drain:0.81
+ECycle 12: Energy:0.00 Power:0.00 Drain:0.00
+STOKE: Level:0.81 Watts:1.6529
+ELocation 50: Diff:20113 ms Accuracy:33.00
+ECycle-Start 13: Start-Drain:0.81
+ELocation 51: Diff:1970 ms Accuracy:62.00
+STOKE: Level:0.81 Watts:1.6529
+ETask 59: Configuration:13 Energy:0.00 Power:0.00 Reward:1.65 Time:5011 -- SAMPLE
+STOKE: Level:0.81 Watts:1.6529
+ETask 60: Configuration:13 Energy:0.00 Power:0.00 Reward:1.65 Time:5006 -- SAMPLE
+STOKE: Level:0.81 Watts:1.2134
+ETask 61: Configuration:13 Energy:0.00 Power:0.00 Reward:1.21 Time:5008 -- SAMPLE
+ECycle-Start 13: End-Drain:0.81
+ECycle 13: Energy:0.00 Power:0.00 Drain:0.00
+STOKE: Level:0.81 Watts:1.2134
+ELocation 52: Diff:18128 ms Accuracy:62.00
+ECycle-Start 14: Start-Drain:0.81
+ELocation 53: Diff:0 ms Accuracy:62.00
+STOKE: Level:0.81 Watts:1.2134
+ETask 63: Configuration:14 Energy:0.00 Power:0.00 Reward:1.21 Time:5008 -- SAMPLE
+STOKE: Level:0.81 Watts:1.2134
+ETask 64: Configuration:14 Energy:0.00 Power:0.00 Reward:1.21 Time:5003 -- SAMPLE
+ELocation 54: Diff:10096 ms Accuracy:160.39
+STOKE: Level:0.81 Watts:1.2134
+ETask 65: Configuration:14 Energy:0.00 Power:0.00 Reward:1.21 Time:5005 -- SAMPLE
+ECycle-Start 14: End-Drain:0.81
+ECycle 14: Energy:0.00 Power:0.00 Drain:0.00
+STOKE: Level:0.81 Watts:1.2134
+ELocation 55: Diff:9983 ms Accuracy:27.00
+ECycle-Start 15: Start-Drain:0.81
+ELocation 56: Diff:1 ms Accuracy:27.00
+STOKE: Level:0.81 Watts:2.5904
+ETask 67: Configuration:15 Energy:0.00 Power:0.00 Reward:2.59 Time:5007 -- SAMPLE
+ELocation 57: Diff:5792 ms Accuracy:8.00
+STOKE: Level:0.81 Watts:2.5904
+ETask 68: Configuration:15 Energy:0.00 Power:0.00 Reward:2.59 Time:5008 -- SAMPLE
+ELocation 58: Diff:5000 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:2.5904
+ETask 69: Configuration:15 Energy:0.00 Power:0.00 Reward:2.59 Time:5007 -- SAMPLE
+ECycle-Start 15: End-Drain:0.81
+ECycle 15: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 59: Diff:5000 ms Accuracy:4.00
+STOKE: Level:0.81 Watts:2.5904
+ELocation 60: Diff:4310 ms Accuracy:4.00
+ECycle-Start 16: Start-Drain:0.81
+ELocation 61: Diff:-9 ms Accuracy:4.00
+ELocation 62: Diff:2699 ms Accuracy:4.00
+STOKE: Level:0.81 Watts:2.5904
+ETask 71: Configuration:16 Energy:0.00 Power:0.00 Reward:2.59 Time:5006 -- SAMPLE
+ELocation 63: Diff:3000 ms Accuracy:4.00
+ELocation 64: Diff:3000 ms Accuracy:4.00
+STOKE: Level:0.81 Watts:2.5904
+ETask 72: Configuration:16 Energy:0.00 Power:0.00 Reward:2.59 Time:5004 -- SAMPLE
+ELocation 65: Diff:3000 ms Accuracy:4.00
+ELocation 66: Diff:3000 ms Accuracy:4.00
+STOKE: Level:0.81 Watts:1.2338
+ETask 73: Configuration:16 Energy:0.00 Power:0.00 Reward:1.23 Time:5003 -- SAMPLE
+ECycle-Start 16: End-Drain:0.81
+ECycle 16: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 67: Diff:3000 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:1.2338
+ELocation 68: Diff:2395 ms Accuracy:5.00
+ECycle-Start 17: Start-Drain:0.81
+ELocation 69: Diff:-9 ms Accuracy:5.00
+ELocation 70: Diff:1614 ms Accuracy:5.00
+ELocation 71: Diff:1000 ms Accuracy:5.00
+ELocation 72: Diff:2000 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:1.2338
+ETask 75: Configuration:17 Energy:0.00 Power:0.00 Reward:1.23 Time:5006 -- SAMPLE
+ELocation 73: Diff:1000 ms Accuracy:6.00
+ELocation 74: Diff:1000 ms Accuracy:6.00
+ELocation 75: Diff:1000 ms Accuracy:6.00
+ELocation 76: Diff:1000 ms Accuracy:6.00
+ELocation 77: Diff:1000 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:1.2338
+ETask 76: Configuration:17 Energy:0.00 Power:0.00 Reward:1.23 Time:5005 -- SAMPLE
+ELocation 78: Diff:1000 ms Accuracy:5.00
+ELocation 79: Diff:1000 ms Accuracy:5.00
+ELocation 80: Diff:1000 ms Accuracy:5.00
+ELocation 81: Diff:1000 ms Accuracy:5.00
+ELocation 82: Diff:1000 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:1.2338
+ETask 77: Configuration:17 Energy:0.00 Power:0.00 Reward:1.23 Time:5007 -- SAMPLE
+ECycle 17: Energy:0.00 Power:0.00 Drain:0.00
+ELocation 83: Diff:1000 ms Accuracy:5.00
+ELocation 84: Diff:1000 ms Accuracy:5.00
+ELocation 85: Diff:1000 ms Accuracy:5.00
+ELocation 86: Diff:2000 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:1.2338
+ELocation 87: Diff:507 ms Accuracy:5.00
+ELocation 88: Diff:-9 ms Accuracy:5.00
+ELocation 89: Diff:4641 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:2.3720
+ELocation 90: Diff:5018 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:2.3720
+ELocation 91: Diff:5018 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:2.3720
+ELocation 92: Diff:5024 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:2.3720
+ELocation 93: Diff:5025 ms Accuracy:5.00
+STOKE: Level:0.81 Watts:2.3720
+STOKE: End Bat: 0.810000
+STOKE: Usage Bat: 0.010000
+ERun: Reward:72.49 PostConfigReward:0.00 Time:389325
+==END-RUN 0==
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.32 scaled:0.89 (location_accuracy,175.00,58.33)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.39 scaled:0.89 (location_accuracy,60.00,20.00)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.40 scaled:0.89 (location_accuracy,60.00,20.00)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.40 scaled:0.89 (location_accuracy,40.00,13.33)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.40 scaled:0.89 (location_accuracy,120.00,40.00)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.41 scaled:0.89 (location_accuracy,40.00,13.33)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.45 scaled:0.89 (location_accuracy,120.00,40.00)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.46 scaled:0.88 (location_accuracy,120.00,40.00)
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.47 scaled:0.88 (location_accuracy,20.00,6.67)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.88 (location_accuracy,60.00,20.00)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.58 scaled:0.88 (location_accuracy,100.00,33.33)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.64 scaled:0.88 (location_accuracy,284.39,94.80)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.88 (location_accuracy,100.00,33.33)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.70 scaled:0.88 (location_accuracy,84.00,28.00)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.52 scaled:0.85 (location_accuracy,95.00,31.67)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.96 scaled:0.83 (location_accuracy,60.00,20.00)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.79 (location_accuracy,32.00,10.67)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:7.77 scaled:0.74 (location_accuracy,67.00,22.33)
+

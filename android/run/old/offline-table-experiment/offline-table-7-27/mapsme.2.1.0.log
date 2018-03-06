@@ -1,0 +1,367 @@
+==RUN-0==
+Signal: Info:WCDMA dBM:-95 level:3
+STOKE: LOC: Got location 42.648372 -74.611935 with 464.000000 accuracy
+STOKE: LOC: Got location 42.648372 -74.611935 with 681.775024 accuracy
+Signal: Info:WCDMA dBM:-79 level:4
+ETask 1: Configuration:0 Energy:5.60 Power:5.60 Reward:5.60 Time:5017
+STOKE: LOC: Got location 42.648028 -74.597528 with 23.000000 accuracy
+Signal: Info:WCDMA dBM:-79 level:4
+ETask 2: Configuration:0 Energy:11.40 Power:11.40 Reward:11.40 Time:5013
+STOKE: LOC: Got location 42.647103 -74.595717 with 21.000000 accuracy
+Signal: Info:WCDMA dBM:-79 level:4
+ETask 3: Configuration:0 Energy:12.10 Power:12.10 Reward:12.10 Time:5014
+STOKE: LOC: Got location 42.646325 -74.593777 with 16.000000 accuracy
+Signal: Info:WCDMA dBM:-79 level:4
+ETask 4: Configuration:0 Energy:10.40 Power:10.40 Reward:10.40 Time:5009
+STOKE: LOC: Got location 42.645658 -74.591966 with 20.000000 accuracy
+Signal: Info:WCDMA dBM:-73 level:4
+ETask 5: Configuration:0 Energy:4.10 Power:4.10 Reward:4.10 Time:5010
+STOKE: LOC: Got location 42.645099 -74.590427 with 15.000000 accuracy
+Signal: Info:WCDMA dBM:-71 level:4
+ETask 6: Configuration:0 Energy:1.20 Power:1.20 Reward:1.20 Time:5014
+STOKE: LOC: Got location 42.644504 -74.588627 with 19.000000 accuracy
+Signal: Info:WCDMA dBM:-71 level:4
+ETask 7: Configuration:0 Energy:1.70 Power:1.70 Reward:1.70 Time:5002
+STOKE: LOC: Got location 42.643895 -74.587067 with 16.000000 accuracy
+Signal: Info:WCDMA dBM:-71 level:4
+ETask 8: Configuration:0 Energy:2.00 Power:2.00 Reward:2.00 Time:5005
+Signal: Info:WCDMA dBM:-63 level:4
+ETask 9: Configuration:0 Energy:1.60 Power:1.60 Reward:1.60 Time:5010
+STOKE: LOC: Got location 42.643204 -74.585172 with 15.000000 accuracy
+Signal: Info:WCDMA dBM:-63 level:4
+ETask 10: Configuration:0 Energy:1.40 Power:1.40 Reward:1.40 Time:5021
+STOKE: LOC: Got location 42.642484 -74.583288 with 16.000000 accuracy
+Signal: Info:WCDMA dBM:-61 level:4
+ETask 11: Configuration:0 Energy:0.50 Power:0.50 Reward:0.50 Time:5022
+ERun: Reward:52.00 PostConfigReward:0.00 Time:56851
+==RUN-1==
+Signal: Info:WCDMA dBM:-55 level:4
+STOKE: LOC: Got location 42.641208 -74.579937 with 17.000000 accuracy
+STOKE: LOC: Got location 42.641208 -74.579937 with 154.968994 accuracy
+Signal: Info:WCDMA dBM:-61 level:4
+ETask 1: Configuration:0 Energy:4.50 Power:4.50 Reward:4.50 Time:5030
+STOKE: LOC: Got location 42.639350 -74.575116 with 36.000000 accuracy
+Signal: Info:WCDMA dBM:-61 level:4
+ETask 2: Configuration:0 Energy:11.60 Power:11.60 Reward:11.60 Time:5011
+STOKE: LOC: Got location 42.638826 -74.573474 with 16.000000 accuracy
+Signal: Info:WCDMA dBM:-71 level:4
+ETask 3: Configuration:0 Energy:13.50 Power:13.50 Reward:13.50 Time:5018
+STOKE: LOC: Got location 42.638197 -74.571886 with 11.000000 accuracy
+Signal: Info:WCDMA dBM:-75 level:4
+ETask 4: Configuration:0 Energy:4.90 Power:4.90 Reward:4.90 Time:5008
+STOKE: LOC: Got location 42.637584 -74.569794 with 18.000000 accuracy
+Signal: Info:WCDMA dBM:-71 level:4
+ETask 5: Configuration:0 Energy:7.40 Power:7.40 Reward:7.40 Time:5024
+STOKE: LOC: Got location 42.637239 -74.567820 with 21.000000 accuracy
+Signal: Info:WCDMA dBM:-61 level:4
+ETask 6: Configuration:0 Energy:2.10 Power:2.10 Reward:2.10 Time:5009
+STOKE: LOC: Got location 42.636937 -74.565971 with 22.000000 accuracy
+Signal: Info:WCDMA dBM:-59 level:4
+ETask 7: Configuration:0 Energy:1.50 Power:1.50 Reward:1.50 Time:5012
+STOKE: LOC: Got location 42.636796 -74.564136 with 20.000000 accuracy
+Signal: Info:WCDMA dBM:-59 level:4
+ETask 8: Configuration:0 Energy:1.20 Power:1.20 Reward:1.20 Time:5010
+STOKE: LOC: Got location 42.636907 -74.562339 with 18.000000 accuracy
+Signal: Info:WCDMA dBM:-73 level:4
+ETask 9: Configuration:0 Energy:1.00 Power:1.00 Reward:1.00 Time:5011
+STOKE: LOC: Got location 42.637002 -74.560328 with 33.000000 accuracy
+Signal: Info:WCDMA dBM:-85 level:4
+ETask 10: Configuration:0 Energy:1.10 Power:1.10 Reward:1.10 Time:5017
+STOKE: LOC: Got location 42.637354 -74.558602 with 36.000000 accuracy
+Signal: Info:LTE dBM:-97 level:3
+ETask 11: Configuration:0 Energy:1.20 Power:1.20 Reward:1.20 Time:5016
+ERun: Reward:50.00 PostConfigReward:0.00 Time:56904
+==RUN-2==
+Signal: Info:LTE dBM:-95 level:4
+STOKE: LOC: Got location 42.638010 -74.555628 with 24.000000 accuracy
+STOKE: LOC: Got location 42.638010 -74.555628 with 193.130005 accuracy
+Signal: Info:LTE dBM:-95 level:4
+ETask 1: Configuration:0 Energy:4.90 Power:4.90 Reward:4.90 Time:5032
+STOKE: LOC: Got location 42.638010 -74.555628 with 258.130005 accuracy
+Signal: Info:LTE dBM:-98 level:3
+ETask 2: Configuration:0 Energy:11.10 Power:11.10 Reward:11.10 Time:5013
+STOKE: LOC: Got location 42.640426 -74.548357 with 35.000000 accuracy
+Signal: Info:LTE dBM:-101 level:3
+ETask 3: Configuration:0 Energy:7.70 Power:7.70 Reward:7.70 Time:5011
+STOKE: LOC: Got location 42.641151 -74.546330 with 14.000000 accuracy
+Signal: Info:LTE dBM:-93 level:4
+ETask 4: Configuration:0 Energy:1.20 Power:1.20 Reward:1.20 Time:5013
+STOKE: LOC: Got location 42.641693 -74.544900 with 8.000000 accuracy
+Signal: Info:LTE dBM:-92 level:4
+ETask 5: Configuration:0 Energy:1.70 Power:1.70 Reward:1.70 Time:5013
+STOKE: LOC: Got location 42.642376 -74.543156 with 11.000000 accuracy
+Signal: Info:LTE dBM:-99 level:3
+ETask 6: Configuration:0 Energy:1.20 Power:1.20 Reward:1.20 Time:5014
+STOKE: LOC: Got location 42.642949 -74.541567 with 16.000000 accuracy
+Signal: Info:LTE dBM:-98 level:3
+ETask 7: Configuration:0 Energy:4.40 Power:4.40 Reward:4.40 Time:5019
+STOKE: LOC: Got location 42.643424 -74.539998 with 13.000000 accuracy
+Signal: Info:LTE dBM:-98 level:3
+ETask 8: Configuration:0 Energy:6.10 Power:6.10 Reward:6.10 Time:5018
+STOKE: LOC: Got location 42.644020 -74.538380 with 14.000000 accuracy
+Signal: Info:LTE dBM:-96 level:3
+ETask 9: Configuration:0 Energy:2.70 Power:2.70 Reward:2.70 Time:5012
+Signal: Info:LTE dBM:-98 level:3
+ETask 10: Configuration:0 Energy:3.40 Power:3.40 Reward:3.40 Time:5026
+STOKE: LOC: Got location 42.644605 -74.536567 with 18.000000 accuracy
+Signal: Info:LTE dBM:-98 level:3
+ETask 11: Configuration:0 Energy:1.30 Power:1.30 Reward:1.30 Time:5014
+STOKE: LOC: Got location 42.645256 -74.534562 with 20.000000 accuracy
+ERun: Reward:45.70 PostConfigReward:0.00 Time:56981
+==RUN-3==
+Signal: Info:LTE dBM:-96 level:3
+STOKE: LOC: Got location 42.645880 -74.532827 with 31.000000 accuracy
+STOKE: LOC: Got location 42.645880 -74.532827 with 174.610992 accuracy
+Signal: Info:LTE dBM:-98 level:3
+ETask 1: Configuration:0 Energy:3.90 Power:3.90 Reward:3.90 Time:5041
+STOKE: LOC: Got location 42.647941 -74.527535 with 50.000000 accuracy
+Signal: Info:LTE dBM:-97 level:3
+ETask 2: Configuration:0 Energy:9.70 Power:9.70 Reward:9.70 Time:5011
+STOKE: LOC: Got location 42.648438 -74.525808 with 17.000000 accuracy
+Signal: Info:LTE dBM:-101 level:3
+ETask 3: Configuration:0 Energy:13.80 Power:13.80 Reward:13.80 Time:5024
+STOKE: LOC: Got location 42.649126 -74.523936 with 11.000000 accuracy
+Signal: Info:LTE dBM:-99 level:3
+ETask 4: Configuration:0 Energy:0.50 Power:0.50 Reward:0.50 Time:5021
+STOKE: LOC: Got location 42.649802 -74.522213 with 12.000000 accuracy
+Signal: Info:LTE dBM:-99 level:3
+ETask 5: Configuration:0 Energy:0.70 Power:0.70 Reward:0.70 Time:5014
+STOKE: LOC: Got location 42.650433 -74.520286 with 14.000000 accuracy
+Signal: Info:LTE dBM:-97 level:3
+ETask 6: Configuration:0 Energy:1.00 Power:1.00 Reward:1.00 Time:5013
+Signal: Info:LTE dBM:-95 level:4
+ETask 7: Configuration:0 Energy:0.80 Power:0.80 Reward:0.80 Time:5023
+STOKE: LOC: Got location 42.651062 -74.518395 with 14.000000 accuracy
+Signal: Info:LTE dBM:-97 level:3
+ETask 8: Configuration:0 Energy:1.60 Power:1.60 Reward:1.60 Time:5024
+STOKE: LOC: Got location 42.651825 -74.516479 with 24.000000 accuracy
+Signal: Info:LTE dBM:-97 level:3
+ETask 9: Configuration:0 Energy:0.90 Power:0.90 Reward:0.90 Time:5031
+STOKE: LOC: Got location 42.652307 -74.514566 with 24.000000 accuracy
+Signal: Info:LTE dBM:-92 level:4
+ETask 10: Configuration:0 Energy:0.70 Power:0.70 Reward:0.70 Time:5025
+STOKE: LOC: Got location 42.653030 -74.512810 with 16.000000 accuracy
+Signal: Info:LTE dBM:-90 level:4
+ETask 11: Configuration:0 Energy:1.10 Power:1.10 Reward:1.10 Time:5012
+ERun: Reward:34.70 PostConfigReward:0.00 Time:56845
+==RUN-4==
+Signal: Info:LTE dBM:-110 level:2
+STOKE: LOC: Got location 42.654198 -74.510135 with 12.000000 accuracy
+STOKE: LOC: Got location 42.654198 -74.510135 with 157.158005 accuracy
+Signal: Info:LTE dBM:-113 level:2
+ETask 1: Configuration:0 Energy:4.40 Power:4.40 Reward:4.40 Time:5034
+STOKE: LOC: Got location 42.656727 -74.504917 with 28.000000 accuracy
+Signal: Info:LTE dBM:-116 level:1
+ETask 2: Configuration:0 Energy:9.60 Power:9.60 Reward:9.60 Time:5006
+STOKE: LOC: Got location 42.657489 -74.503586 with 11.000000 accuracy
+Signal: Info:LTE dBM:-118 level:1
+ETask 3: Configuration:0 Energy:5.50 Power:5.50 Reward:5.50 Time:5026
+STOKE: LOC: Got location 42.658392 -74.502043 with 11.000000 accuracy
+Signal: Info:LTE dBM:-120 level:1
+ETask 4: Configuration:0 Energy:0.80 Power:0.80 Reward:0.80 Time:5025
+STOKE: LOC: Got location 42.659202 -74.500658 with 9.000000 accuracy
+Signal: Info:LTE dBM:-114 level:2
+ETask 5: Configuration:0 Energy:1.30 Power:1.30 Reward:1.30 Time:5010
+STOKE: LOC: Got location 42.660233 -74.499191 with 13.000000 accuracy
+Signal: Info:LTE dBM:-110 level:2
+ETask 6: Configuration:0 Energy:1.30 Power:1.30 Reward:1.30 Time:5016
+STOKE: LOC: Got location 42.661128 -74.498048 with 23.000000 accuracy
+Signal: Info:LTE dBM:-106 level:2
+ETask 7: Configuration:0 Energy:1.00 Power:1.00 Reward:1.00 Time:5013
+STOKE: LOC: Got location 42.662049 -74.496812 with 25.000000 accuracy
+Signal: Info:LTE dBM:-100 level:3
+ETask 8: Configuration:0 Energy:1.20 Power:1.20 Reward:1.20 Time:5011
+STOKE: LOC: Got location 42.663233 -74.495471 with 26.000000 accuracy
+Signal: Info:LTE dBM:-96 level:3
+ETask 9: Configuration:0 Energy:1.00 Power:1.00 Reward:1.00 Time:5011
+Signal: Info:LTE dBM:-94 level:4
+ETask 10: Configuration:0 Energy:1.10 Power:1.10 Reward:1.10 Time:5028
+STOKE: LOC: Got location 42.664361 -74.493911 with 24.000000 accuracy
+Signal: Info:LTE dBM:-90 level:4
+ETask 11: Configuration:0 Energy:1.10 Power:1.10 Reward:1.10 Time:5026
+STOKE: LOC: Got location 42.665252 -74.492603 with 26.000000 accuracy
+ERun: Reward:28.30 PostConfigReward:0.00 Time:56996
+==RUN-5==
+Signal: Info:LTE dBM:-94 level:4
+STOKE: LOC: Got location 42.666549 -74.490828 with 32.000000 accuracy
+STOKE: LOC: Got location 42.666549 -74.490828 with 187.882004 accuracy
+Signal: Info:LTE dBM:-98 level:3
+ETask 1: Configuration:0 Energy:3.40 Power:3.40 Reward:3.40 Time:5041
+STOKE: LOC: Got location 42.666549 -74.490828 with 253.052002 accuracy
+Signal: Info:LTE dBM:-103 level:3
+ETask 2: Configuration:0 Energy:8.40 Power:8.40 Reward:8.40 Time:5015
+STOKE: LOC: Got location 42.670509 -74.484288 with 49.000000 accuracy
+Signal: Info:LTE dBM:-102 level:3
+ETask 3: Configuration:0 Energy:11.60 Power:11.60 Reward:11.60 Time:5026
+STOKE: LOC: Got location 42.671093 -74.483216 with 25.000000 accuracy
+Signal: Info:LTE dBM:-96 level:3
+ETask 4: Configuration:0 Energy:2.80 Power:2.80 Reward:2.80 Time:5024
+STOKE: LOC: Got location 42.671732 -74.481241 with 39.000000 accuracy
+Signal: Info:LTE dBM:-92 level:4
+ETask 5: Configuration:0 Energy:0.70 Power:0.70 Reward:0.70 Time:5027
+STOKE: LOC: Got location 42.672262 -74.478957 with 41.000000 accuracy
+Signal: Info:LTE dBM:-102 level:3
+ETask 6: Configuration:0 Energy:1.20 Power:1.20 Reward:1.20 Time:5013
+STOKE: LOC: Got location 42.672661 -74.477110 with 33.000000 accuracy
+Signal: Info:LTE dBM:-103 level:3
+ETask 7: Configuration:0 Energy:1.00 Power:1.00 Reward:1.00 Time:5015
+STOKE: LOC: Got location 42.673135 -74.475493 with 34.000000 accuracy
+Signal: Info:LTE dBM:-105 level:3
+ETask 8: Configuration:0 Energy:0.70 Power:0.70 Reward:0.70 Time:5016
+STOKE: LOC: Got location 42.673341 -74.473944 with 17.000000 accuracy
+Signal: Info:LTE dBM:-106 level:2
+ETask 9: Configuration:0 Energy:1.10 Power:1.10 Reward:1.10 Time:5012
+STOKE: LOC: Got location 42.673582 -74.471801 with 14.000000 accuracy
+Signal: Info:LTE dBM:-102 level:3
+ETask 10: Configuration:0 Energy:0.70 Power:0.70 Reward:0.70 Time:5014
+Signal: Info:LTE dBM:-99 level:3
+ETask 11: Configuration:0 Energy:2.20 Power:2.20 Reward:2.20 Time:5028
+STOKE: LOC: Got location 42.673732 -74.469679 with 14.000000 accuracy
+ERun: Reward:33.80 PostConfigReward:0.00 Time:56602
+==RUN-6==
+Signal: Info:LTE dBM:-124 level:1
+STOKE: LOC: Got location 42.673803 -74.467184 with 10.000000 accuracy
+STOKE: LOC: Got location 42.673771 -74.462917 with 83.000000 accuracy
+Signal: Info:LTE dBM:-117 level:1
+ETask 1: Configuration:0 Energy:7.30 Power:7.30 Reward:7.30 Time:5039
+STOKE: LOC: Got location 42.673467 -74.461105 with 33.000000 accuracy
+Signal: Info:LTE dBM:-126 level:1
+ETask 2: Configuration:0 Energy:10.40 Power:10.40 Reward:10.40 Time:5016
+STOKE: LOC: Got location 42.673263 -74.459284 with 23.000000 accuracy
+Signal: Info:LTE dBM:-94 level:4
+ETask 3: Configuration:0 Energy:11.90 Power:11.90 Reward:11.90 Time:5027
+STOKE: LOC: Got location 42.672944 -74.457151 with 16.000000 accuracy
+Signal: Info:LTE dBM:-86 level:4
+ETask 4: Configuration:0 Energy:2.40 Power:2.40 Reward:2.40 Time:5017
+STOKE: LOC: Got location 42.672792 -74.455075 with 13.000000 accuracy
+Signal: Info:LTE dBM:-89 level:4
+ETask 5: Configuration:0 Energy:2.90 Power:2.90 Reward:2.90 Time:5018
+STOKE: LOC: Got location 42.672726 -74.453258 with 18.000000 accuracy
+Signal: Info:LTE dBM:-113 level:2
+ETask 6: Configuration:0 Energy:3.60 Power:3.60 Reward:3.60 Time:5018
+STOKE: LOC: Got location 42.672706 -74.451529 with 16.000000 accuracy
+Signal: Info:LTE dBM:-110 level:2
+ETask 7: Configuration:0 Energy:0.50 Power:0.50 Reward:0.50 Time:5020
+STOKE: LOC: Got location 42.672913 -74.449787 with 10.000000 accuracy
+Signal: Info:LTE dBM:-113 level:2
+ETask 8: Configuration:0 Energy:0.80 Power:0.80 Reward:0.80 Time:5029
+STOKE: LOC: Got location 42.673190 -74.447676 with 11.000000 accuracy
+Signal: Info:LTE dBM:-89 level:4
+ETask 9: Configuration:0 Energy:1.00 Power:1.00 Reward:1.00 Time:5023
+STOKE: LOC: Got location 42.673517 -74.445890 with 9.000000 accuracy
+Signal: Info:LTE dBM:-85 level:4
+ETask 10: Configuration:0 Energy:0.80 Power:0.80 Reward:0.80 Time:5018
+Signal: Info:LTE dBM:-102 level:3
+ETask 11: Configuration:0 Energy:0.80 Power:0.80 Reward:0.80 Time:5030
+STOKE: LOC: Got location 42.673814 -74.443873 with 11.000000 accuracy
+ERun: Reward:42.40 PostConfigReward:0.00 Time:56830
+==RUN-7==
+Signal: Info:LTE dBM:-94 level:4
+STOKE: LOC: Got location 42.674259 -74.441468 with 20.000000 accuracy
+STOKE: LOC: Got location 42.674259 -74.441468 with 186.985001 accuracy
+Signal: Info:LTE dBM:-95 level:4
+ETask 1: Configuration:0 Energy:1.80 Power:1.80 Reward:1.80 Time:5062
+STOKE: LOC: Got location 42.675246 -74.435566 with 40.000000 accuracy
+Signal: Info:LTE dBM:-94 level:4
+ETask 2: Configuration:0 Energy:5.90 Power:5.90 Reward:5.90 Time:5016
+STOKE: LOC: Got location 42.675631 -74.433890 with 13.000000 accuracy
+Signal: Info:LTE dBM:-100 level:3
+ETask 3: Configuration:0 Energy:10.80 Power:10.80 Reward:10.80 Time:5014
+STOKE: LOC: Got location 42.676055 -74.431901 with 17.000000 accuracy
+Signal: Info:LTE dBM:-94 level:4
+ETask 4: Configuration:0 Energy:4.70 Power:4.70 Reward:4.70 Time:5031
+STOKE: LOC: Got location 42.676433 -74.430179 with 15.000000 accuracy
+Signal: Info:LTE dBM:-104 level:3
+ETask 5: Configuration:0 Energy:1.60 Power:1.60 Reward:1.60 Time:5025
+STOKE: LOC: Got location 42.676963 -74.428355 with 21.000000 accuracy
+Signal: Info:LTE dBM:-104 level:3
+ETask 6: Configuration:0 Energy:0.70 Power:0.70 Reward:0.70 Time:5011
+STOKE: LOC: Got location 42.677201 -74.426235 with 19.000000 accuracy
+Signal: Info:LTE dBM:-108 level:2
+ETask 7: Configuration:0 Energy:1.10 Power:1.10 Reward:1.10 Time:5016
+STOKE: LOC: Got location 42.677683 -74.424531 with 21.000000 accuracy
+Signal: Info:LTE dBM:-99 level:3
+ETask 8: Configuration:0 Energy:2.00 Power:2.00 Reward:2.00 Time:5016
+STOKE: LOC: Got location 42.678076 -74.422512 with 22.000000 accuracy
+Signal: Info:LTE dBM:-101 level:3
+ETask 9: Configuration:0 Energy:1.00 Power:1.00 Reward:1.00 Time:5020
+STOKE: LOC: Got location 42.678490 -74.421003 with 18.000000 accuracy
+Signal: Info:LTE dBM:-101 level:3
+ETask 10: Configuration:0 Energy:0.80 Power:0.80 Reward:0.80 Time:5017
+STOKE: LOC: Got location 42.678563 -74.419325 with 22.000000 accuracy
+Signal: Info:LTE dBM:-99 level:3
+ETask 11: Configuration:0 Energy:1.20 Power:1.20 Reward:1.20 Time:5127
+ERun: Reward:31.60 PostConfigReward:0.00 Time:55630
+==RUN-8==
+Signal: Info:LTE dBM:-94 level:4
+STOKE: LOC: Got location 42.678946 -74.416777 with 16.000000 accuracy
+STOKE: LOC: Got location 42.678946 -74.416777 with 185.533005 accuracy
+Signal: Info:LTE dBM:-104 level:3
+ETask 1: Configuration:0 Energy:2.50 Power:2.50 Reward:2.50 Time:5054
+STOKE: LOC: Got location 42.680115 -74.410038 with 49.000000 accuracy
+Signal: Info:LTE dBM:-2147483647 level:1
+ETask 2: Configuration:0 Energy:6.30 Power:6.30 Reward:6.30 Time:5013
+STOKE: LOC: Got location 42.680181 -74.408569 with 19.000000 accuracy
+Signal: Info:LTE dBM:-91 level:4
+ETask 3: Configuration:0 Energy:8.90 Power:8.90 Reward:8.90 Time:5021
+STOKE: LOC: Got location 42.680282 -74.406474 with 15.000000 accuracy
+Signal: Info:LTE dBM:-89 level:4
+ETask 4: Configuration:0 Energy:4.00 Power:4.00 Reward:4.00 Time:5015
+STOKE: LOC: Got location 42.680179 -74.404441 with 15.000000 accuracy
+Signal: Info:LTE dBM:-82 level:4
+ETask 5: Configuration:0 Energy:0.60 Power:0.60 Reward:0.60 Time:5013
+STOKE: LOC: Got location 42.680125 -74.402674 with 11.000000 accuracy
+Signal: Info:LTE dBM:-85 level:4
+ETask 6: Configuration:0 Energy:0.60 Power:0.60 Reward:0.60 Time:5013
+STOKE: LOC: Got location 42.680082 -74.400960 with 11.000000 accuracy
+Signal: Info:LTE dBM:-84 level:4
+ETask 7: Configuration:0 Energy:0.40 Power:0.40 Reward:0.40 Time:5015
+STOKE: LOC: Got location 42.680035 -74.399240 with 14.000000 accuracy
+Signal: Info:LTE dBM:-82 level:4
+ETask 8: Configuration:0 Energy:0.40 Power:0.40 Reward:0.40 Time:5013
+STOKE: LOC: Got location 42.679980 -74.397304 with 16.000000 accuracy
+Signal: Info:LTE dBM:-82 level:4
+ETask 9: Configuration:0 Energy:0.40 Power:0.40 Reward:0.40 Time:5016
+Signal: Info:LTE dBM:-83 level:4
+ETask 10: Configuration:0 Energy:0.40 Power:0.40 Reward:0.40 Time:5033
+STOKE: LOC: Got location 42.679880 -74.395133 with 21.000000 accuracy
+Signal: Info:LTE dBM:-90 level:4
+ETask 11: Configuration:0 Energy:0.80 Power:0.80 Reward:0.80 Time:5011
+ERun: Reward:25.30 PostConfigReward:0.00 Time:55454
+==RUN-9==
+Signal: Info:LTE dBM:-83 level:4
+STOKE: LOC: Got location 42.679909 -74.391248 with 16.000000 accuracy
+STOKE: LOC: Got location 42.679909 -74.391248 with 181.360001 accuracy
+Signal: Info:LTE dBM:-78 level:4
+ETask 1: Configuration:0 Energy:3.00 Power:3.00 Reward:3.00 Time:5056
+STOKE: LOC: Got location 42.679843 -74.384999 with 81.000000 accuracy
+Signal: Info:LTE dBM:-91 level:4
+ETask 2: Configuration:0 Energy:7.20 Power:7.20 Reward:7.20 Time:5016
+STOKE: LOC: Got location 42.679624 -74.383232 with 17.000000 accuracy
+Signal: Info:LTE dBM:-85 level:4
+ETask 3: Configuration:0 Energy:9.70 Power:9.70 Reward:9.70 Time:5006
+STOKE: LOC: Got location 42.680024 -74.381856 with 15.000000 accuracy
+Signal: Info:LTE dBM:-82 level:4
+ETask 4: Configuration:0 Energy:10.30 Power:10.30 Reward:10.30 Time:5024
+STOKE: LOC: Got location 42.680059 -74.379999 with 15.000000 accuracy
+Signal: Info:LTE dBM:-82 level:4
+ETask 5: Configuration:0 Energy:0.60 Power:0.60 Reward:0.60 Time:5021
+STOKE: LOC: Got location 42.680268 -74.377859 with 16.000000 accuracy
+Signal: Info:LTE dBM:-80 level:4
+ETask 6: Configuration:0 Energy:0.80 Power:0.80 Reward:0.80 Time:5023
+STOKE: LOC: Got location 42.680554 -74.376252 with 18.000000 accuracy
+Signal: Info:LTE dBM:-80 level:4
+ETask 7: Configuration:0 Energy:0.90 Power:0.90 Reward:0.90 Time:5024
+STOKE: LOC: Got location 42.680913 -74.374243 with 23.000000 accuracy
+Signal: Info:LTE dBM:-82 level:4
+ETask 8: Configuration:0 Energy:0.70 Power:0.70 Reward:0.70 Time:5011
+STOKE: LOC: Got location 42.681369 -74.372309 with 32.000000 accuracy
+Signal: Info:LTE dBM:-87 level:4
+ETask 9: Configuration:0 Energy:1.00 Power:1.00 Reward:1.00 Time:5015
+STOKE: LOC: Got location 42.681830 -74.370620 with 24.000000 accuracy
+Signal: Info:LTE dBM:-83 level:4
+ETask 10: Configuration:0 Energy:2.30 Power:2.30 Reward:2.30 Time:5013
+STOKE: LOC: Got location 42.682469 -74.368676 with 20.000000 accuracy
+Signal: Info:LTE dBM:-80 level:4
+ETask 11: Configuration:0 Energy:2.90 Power:2.90 Reward:2.90 Time:5013
+ERun: Reward:39.40 PostConfigReward:0.00 Time:55568

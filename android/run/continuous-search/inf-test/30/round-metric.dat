@@ -1,0 +1,5 @@
+policy	round	interaction	win
+r1	0	31	5.1648
+r1	1	62	4.3871
+r1	2	93	1.817
+r1	3	121	4.8089

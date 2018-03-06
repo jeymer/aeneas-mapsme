@@ -1,0 +1,124 @@
+==RUN-0==
+Signal: Info:LTE dBM:-111 level:2
+Signal: Info:LTE dBM:-111 level:2
+Signal: Info:LTE dBM:-113 level:2
+Signal: Info:LTE dBM:-107 level:2
+Signal: Info:LTE dBM:-107 level:2
+ETask 4: Configuration:0 Energy:0.40 Power:0.40 Reward:0.40 Time:5032
+Signal: Info:LTE dBM:-105 level:3
+ETask 5: Configuration:18 Energy:0.20 Power:0.20 Reward:0.20 Time:5031
+Signal: Info:LTE dBM:-106 level:2
+ETask 6: Configuration:36 Energy:0.50 Power:0.50 Reward:0.50 Time:5034
+Signal: Info:LTE dBM:-110 level:2
+ETask 7: Configuration:18 Energy:1.50 Power:1.50 Reward:1.50 Time:5013
+Signal: Info:LTE dBM:-111 level:2
+ETask 8: Configuration:19 Energy:7.70 Power:7.70 Reward:7.70 Time:5014
+Signal: Info:LTE dBM:-111 level:2
+ETask 9: Configuration:20 Energy:11.70 Power:11.70 Reward:11.70 Time:5016
+Signal: Info:LTE dBM:-111 level:2
+ETask 10: Configuration:21 Energy:12.90 Power:12.90 Reward:12.90 Time:5016
+Signal: Info:LTE dBM:-108 level:2
+ETask 11: Configuration:22 Energy:15.30 Power:15.30 Reward:15.30 Time:5003
+Signal: Info:LTE dBM:-111 level:2
+ETask 12: Configuration:23 Energy:14.40 Power:14.40 Reward:14.40 Time:5004
+Signal: Info:LTE dBM:-109 level:2
+ETask 13: Configuration:24 Energy:14.20 Power:14.20 Reward:14.20 Time:5016
+Signal: Info:LTE dBM:-113 level:2
+ETask 14: Configuration:25 Energy:5.50 Power:5.50 Reward:5.50 Time:5030
+Signal: Info:LTE dBM:-113 level:2
+ETask 15: Configuration:26 Energy:3.90 Power:3.90 Reward:3.90 Time:5017
+Signal: Info:LTE dBM:-116 level:1
+ETask 16: Configuration:27 Energy:3.70 Power:3.70 Reward:3.70 Time:5020
+Signal: Info:LTE dBM:-122 level:1
+ETask 17: Configuration:28 Energy:3.10 Power:3.10 Reward:3.10 Time:5021
+Signal: Info:LTE dBM:-108 level:2
+ETask 18: Configuration:29 Energy:4.90 Power:4.90 Reward:4.90 Time:5010
+Signal: Info:LTE dBM:-106 level:2
+ETask 19: Configuration:30 Energy:1.50 Power:1.50 Reward:1.50 Time:5021
+Signal: Info:LTE dBM:-111 level:2
+ETask 20: Configuration:31 Energy:2.90 Power:2.90 Reward:2.90 Time:5034
+Signal: Info:LTE dBM:-110 level:2
+ETask 21: Configuration:32 Energy:1.50 Power:1.50 Reward:1.50 Time:5012
+Signal: Info:LTE dBM:-108 level:2
+ETask 22: Configuration:33 Energy:1.30 Power:1.30 Reward:1.30 Time:5028
+Signal: Info:LTE dBM:-109 level:2
+ETask 23: Configuration:34 Energy:2.40 Power:2.40 Reward:2.40 Time:5030
+Signal: Info:LTE dBM:-108 level:2
+ETask 24: Configuration:35 Energy:1.00 Power:1.00 Reward:1.00 Time:5037
+Signal: Info:LTE dBM:-106 level:2
+ETask 25: Configuration:0 Energy:0.70 Power:0.70 Reward:0.70 Time:5013
+Signal: Info:LTE dBM:-105 level:3
+ETask 26: Configuration:1 Energy:0.70 Power:0.70 Reward:0.70 Time:5008
+Signal: Info:LTE dBM:-110 level:2
+ETask 27: Configuration:2 Energy:1.10 Power:1.10 Reward:1.10 Time:5016
+Signal: Info:LTE dBM:-99 level:3
+ETask 28: Configuration:3 Energy:1.20 Power:1.20 Reward:1.20 Time:5016
+Signal: Info:LTE dBM:-103 level:3
+ETask 29: Configuration:4 Energy:1.30 Power:1.30 Reward:1.30 Time:5016
+Signal: Info:LTE dBM:-109 level:2
+ETask 30: Configuration:5 Energy:6.10 Power:6.10 Reward:6.10 Time:5027
+Signal: Info:LTE dBM:-106 level:2
+ETask 31: Configuration:6 Energy:1.50 Power:1.50 Reward:1.50 Time:5018
+Signal: Info:LTE dBM:-106 level:2
+ETask 32: Configuration:7 Energy:5.00 Power:5.00 Reward:5.00 Time:5028
+Signal: Info:LTE dBM:-104 level:3
+ETask 33: Configuration:8 Energy:1.40 Power:1.40 Reward:1.40 Time:5034
+Signal: Info:LTE dBM:-102 level:3
+ETask 34: Configuration:9 Energy:0.00 Power:0.00 Reward:0.00 Time:5027
+Signal: Info:LTE dBM:-98 level:3
+ETask 35: Configuration:9 Energy:1.40 Power:1.40 Reward:1.40 Time:5031
+Signal: Info:LTE dBM:-94 level:4
+ETask 36: Configuration:10 Energy:6.80 Power:6.80 Reward:6.80 Time:5012
+Signal: Info:LTE dBM:-92 level:4
+ETask 37: Configuration:11 Energy:9.90 Power:9.90 Reward:9.90 Time:5032
+Signal: Info:LTE dBM:-99 level:3
+ETask 38: Configuration:12 Energy:1.80 Power:1.80 Reward:1.80 Time:5006
+Signal: Info:LTE dBM:-84 level:4
+ETask 39: Configuration:13 Energy:6.40 Power:6.40 Reward:6.40 Time:5017
+Signal: Info:LTE dBM:-91 level:4
+ETask 40: Configuration:14 Energy:3.50 Power:3.50 Reward:3.50 Time:5028
+Signal: Info:LTE dBM:-95 level:4
+ETask 41: Configuration:15 Energy:1.90 Power:1.90 Reward:1.90 Time:5031
+Signal: Info:LTE dBM:-101 level:3
+ETask 42: Configuration:16 Energy:0.00 Power:0.00 Reward:0.00 Time:5031
+Signal: Info:LTE dBM:-100 level:3
+ETask 43: Configuration:16 Energy:3.40 Power:3.40 Reward:3.40 Time:5017
+Signal: Info:LTE dBM:-89 level:4
+ETask 44: Configuration:17 Energy:7.90 Power:7.90 Reward:7.90 Time:5018
+Signal: Info:LTE dBM:-94 level:4
+ETask 45: Configuration:36 Energy:10.50 Power:10.50 Reward:10.50 Time:5016
+Signal: Info:LTE dBM:-80 level:4
+ETask 46: Configuration:37 Energy:11.80 Power:11.80 Reward:11.80 Time:5017
+Signal: Info:LTE dBM:-89 level:4
+ETask 47: Configuration:38 Energy:13.10 Power:13.10 Reward:13.10 Time:5019
+Signal: Info:LTE dBM:-94 level:4
+ETask 48: Configuration:39 Energy:14.00 Power:14.00 Reward:14.00 Time:5017
+Signal: Info:LTE dBM:-98 level:3
+ETask 49: Configuration:40 Energy:14.10 Power:14.10 Reward:14.10 Time:5022
+Signal: Info:LTE dBM:-88 level:4
+ETask 50: Configuration:41 Energy:14.80 Power:14.80 Reward:14.80 Time:5007
+Signal: Info:LTE dBM:-97 level:3
+ETask 51: Configuration:42 Energy:15.80 Power:15.80 Reward:15.80 Time:5016
+Signal: Info:LTE dBM:-103 level:3
+ETask 52: Configuration:43 Energy:13.80 Power:13.80 Reward:13.80 Time:5013
+Signal: Info:LTE dBM:-100 level:3
+ETask 53: Configuration:44 Energy:13.80 Power:13.80 Reward:13.80 Time:5017
+Signal: Info:LTE dBM:-101 level:3
+ETask 54: Configuration:45 Energy:13.70 Power:13.70 Reward:13.70 Time:5015
+Signal: Info:LTE dBM:-92 level:4
+ETask 55: Configuration:46 Energy:12.70 Power:12.70 Reward:12.70 Time:5016
+Signal: Info:LTE dBM:-108 level:2
+ETask 56: Configuration:47 Energy:12.10 Power:12.10 Reward:12.10 Time:5017
+Signal: Info:LTE dBM:-110 level:2
+ETask 57: Configuration:48 Energy:12.20 Power:12.20 Reward:12.20 Time:5013
+Signal: Info:LTE dBM:-94 level:4
+ETask 58: Configuration:49 Energy:7.00 Power:7.00 Reward:7.00 Time:5022
+Signal: Info:LTE dBM:-100 level:3
+ETask 59: Configuration:50 Energy:2.40 Power:2.40 Reward:2.40 Time:5018
+Signal: Info:LTE dBM:-101 level:3
+ETask 60: Configuration:51 Energy:3.40 Power:3.40 Reward:3.40 Time:5015
+Signal: Info:LTE dBM:-96 level:3
+ETask 61: Configuration:52 Energy:3.20 Power:3.20 Reward:3.20 Time:5022
+Signal: Info:LTE dBM:-97 level:3
+ETask 62: Configuration:53 Energy:7.20 Power:7.20 Reward:7.20 Time:5010
+ERun: Reward:368.10 PostConfigReward:367.00 Time:297226

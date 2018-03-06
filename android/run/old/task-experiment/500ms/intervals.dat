@@ -1,0 +1,6 @@
+Interval:1000 Mean:4.94 Variance:0.46 Deviation:0.67 RelativeDeviation:13.67%
+Interval:2000 Mean:8.63 Variance:1.12 Deviation:1.06 RelativeDeviation:12.25%
+Interval:3000 Mean:13.96 Variance:1.37 Deviation:1.17 RelativeDeviation:8.38%
+Interval:4000 Mean:18.61 Variance:1.74 Deviation:1.32 RelativeDeviation:7.08%
+Interval:5000 Mean:20.94 Variance:2.64 Deviation:1.62 RelativeDeviation:7.76%
+Interval:10000 Mean:43.52 Variance:10.99 Deviation:3.31 RelativeDeviation:7.62%

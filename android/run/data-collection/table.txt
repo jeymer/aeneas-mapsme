@@ -1,0 +1,12 @@
+Configuration:0   10s-low-5       Joules:3848.3   Reward:37.73  Scaled:0.81
+Configuration:1   1s-low-5        Joules:4804.23  Reward:47.1   Scaled:0.77
+Configuration:2   500ms-low-5     Joules:4910.02  Reward:48.14  Scaled:0.76
+Configuration:3   10s-high-5      Joules:4265.72  Reward:41.82  Scaled:0.79
+Configuration:4   1s-high-5       Joules:5201.56  Reward:51.0   Scaled:0.75
+Configuration:5   500ms-high-5    Joules:5366.53  Reward:52.61  Scaled:0.74
+Configuration:6   10s-low-1       Joules:4631.47  Reward:45.41  Scaled:0.78
+Configuration:7   1s-low-1        Joules:6033.47  Reward:59.15  Scaled:0.71
+Configuration:8   500ms-low-1     Joules:6040.96  Reward:59.23  Scaled:0.71
+Configuration:9   10s-high-1      Joules:4975.17  Reward:48.78  Scaled:0.76
+Configuration:10  1s-high-1       Joules:7246.94  Reward:71.05  Scaled:0.65
+Configuration:11  500ms-high-1    Joules:7296.44  Reward:71.53  Scaled:0.65

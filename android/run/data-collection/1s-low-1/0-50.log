@@ -1,0 +1,73 @@
+==RUN 0==
+Bandit Runs:1 Tasks-in-Run:50
+Self-Optimizer Rounds:0 Tasks-in-Round:0
+Continuous Knob Rounds:Inf Tasks-in-Round:0
+STOKE: Start Bat: 0.880000
+MAPSME_GPS_RATE: 1000
+MAPSME_GPS_PRIORITY: Low Power
+MAPSME_GPS_BATCH: 1x
+
+MAPSME_GPS_RATE: 1000
+MAPSME_GPS_PRIORITY: Low Power
+MAPSME_GPS_BATCH: 1x
+
+MAPSME_GPS_RATE: 1000
+MAPSME_GPS_PRIORITY: Low Power
+MAPSME_GPS_BATCH: 1x
+
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:71.55962376652501 Time:30005 TotalReward:71.55962376652501
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:67.57455258918002 Time:30004 TotalReward:139.13417635570502
+ETask 3: Configuration:0 Energy:0.0 Power:0.0 Reward:67.98852498600002 Time:30006 TotalReward:207.12270134170504
+ETask 4: Configuration:0 Energy:0.0 Power:0.0 Reward:84.457009872675 Time:30005 TotalReward:291.57971121438004
+ETask 5: Configuration:0 Energy:0.0 Power:0.0 Reward:69.40756594992 Time:30008 TotalReward:360.98727716430005
+ETask 6: Configuration:0 Energy:0.0 Power:0.0 Reward:69.40756594992 Time:30008 TotalReward:430.39484311422007
+ETask 7: Configuration:0 Energy:0.0 Power:0.0 Reward:65.01497540471999 Time:30008 TotalReward:495.40981851894
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:67.535091087354 Time:30006 TotalReward:562.944909606294
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:72.70148578968 Time:30006 TotalReward:635.646395395974
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:66.75451107256801 Time:30006 TotalReward:702.400906468542
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:68.273851046544 Time:30004 TotalReward:770.674757515086
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:68.552619740748 Time:30004 TotalReward:839.227377255834
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:68.278402029816 Time:30006 TotalReward:907.50577928565
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:74.40875505260999 Time:30005 TotalReward:981.91453433826
+ETask 15: Configuration:0 Energy:0.0 Power:0.0 Reward:69.28891432016401 Time:30009 TotalReward:1051.203448658424
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:66.80179533726 Time:30005 TotalReward:1118.005243995684
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:67.91327353871999 Time:30006 TotalReward:1185.918517534404
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:65.79758219138 Time:30004 TotalReward:1251.7160997257838
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:76.93003163534999 Time:30005 TotalReward:1328.6461313611337
+ETask 20: Configuration:0 Energy:0.0 Power:0.0 Reward:65.85755752773 Time:30006 TotalReward:1394.5036888888637
+ETask 21: Configuration:0 Energy:0.0 Power:0.0 Reward:74.63358560812499 Time:30005 TotalReward:1469.1372744969888
+ETask 22: Configuration:0 Energy:0.0 Power:0.0 Reward:67.35986693577 Time:30007 TotalReward:1536.4971414327588
+ETask 23: Configuration:0 Energy:0.0 Power:0.0 Reward:75.45852341779499 Time:30009 TotalReward:1611.9556648505538
+ETask 24: Configuration:0 Energy:0.0 Power:0.0 Reward:77.03033809723999 Time:30008 TotalReward:1688.9860029477938
+ETask 25: Configuration:0 Energy:0.0 Power:0.0 Reward:72.13177627056001 Time:30006 TotalReward:1761.117779218354
+ETask 26: Configuration:0 Energy:0.0 Power:0.0 Reward:67.7489328072 Time:30005 TotalReward:1828.8667120255539
+ETask 27: Configuration:0 Energy:0.0 Power:0.0 Reward:67.2749168187 Time:30007 TotalReward:1896.1416288442538
+ETask 28: Configuration:0 Energy:0.0 Power:0.0 Reward:68.03183358576 Time:30008 TotalReward:1964.1734624300138
+ETask 29: Configuration:0 Energy:0.0 Power:0.0 Reward:96.09592894272001 Time:30006 TotalReward:2060.269391372734
+ETask 30: Configuration:0 Energy:0.0 Power:0.0 Reward:67.11868159704001 Time:30003 TotalReward:2127.388072969774
+ETask 31: Configuration:0 Energy:0.0 Power:0.0 Reward:63.018815585700004 Time:30005 TotalReward:2190.406888555474
+ETask 32: Configuration:0 Energy:0.0 Power:0.0 Reward:65.8348124403 Time:30005 TotalReward:2256.241700995774
+ETask 33: Configuration:0 Energy:0.0 Power:0.0 Reward:61.8366768624 Time:30006 TotalReward:2318.078377858174
+ETask 34: Configuration:0 Energy:0.0 Power:0.0 Reward:96.683899273824 Time:30007 TotalReward:2414.762277131998
+ETask 35: Configuration:0 Energy:0.0 Power:0.0 Reward:69.43985954688 Time:30010 TotalReward:2484.202136678878
+ETask 36: Configuration:0 Energy:0.0 Power:0.0 Reward:71.62142827555999 Time:30005 TotalReward:2555.823564954438
+ETask 37: Configuration:0 Energy:0.0 Power:0.0 Reward:93.47753911923 Time:30003 TotalReward:2649.3011040736683
+ETask 38: Configuration:0 Energy:0.0 Power:0.0 Reward:79.23285477524999 Time:30005 TotalReward:2728.5339588489182
+ETask 39: Configuration:0 Energy:0.0 Power:0.0 Reward:90.62264901795999 Time:30005 TotalReward:2819.1566078668784
+ETask 40: Configuration:0 Energy:0.0 Power:0.0 Reward:71.189828271 Time:30003 TotalReward:2890.3464361378783
+ETask 41: Configuration:0 Energy:0.0 Power:0.0 Reward:76.248799867575 Time:30003 TotalReward:2966.5952360054534
+ETask 42: Configuration:0 Energy:0.0 Power:0.0 Reward:75.7418373153 Time:30004 TotalReward:3042.3370733207535
+ETask 43: Configuration:0 Energy:0.0 Power:0.0 Reward:75.419240832 Time:30006 TotalReward:3117.7563141527535
+ETask 44: Configuration:0 Energy:0.0 Power:0.0 Reward:78.383207691 Time:30005 TotalReward:3196.1395218437533
+ETask 45: Configuration:0 Energy:0.0 Power:0.0 Reward:68.04608762475 Time:30005 TotalReward:3264.185609468503
+ETask 46: Configuration:0 Energy:0.0 Power:0.0 Reward:74.38687396139998 Time:30008 TotalReward:3338.572483429903
+ETask 47: Configuration:0 Energy:0.0 Power:0.0 Reward:74.38191615854998 Time:30006 TotalReward:3412.9543995884533
+ETask 48: Configuration:0 Energy:0.0 Power:0.0 Reward:69.20823683959199 Time:30006 TotalReward:3482.162636428045
+ETask 49: Configuration:0 Energy:0.0 Power:0.0 Reward:70.21549308971998 Time:30008 TotalReward:3552.378129517765
+ETask 50: Configuration:0 Energy:0.0 Power:0.0 Reward:64.61284261259999 Time:30005 TotalReward:3616.990972130365
+ETask 51: Configuration:0 Energy:0.0 Power:0.0 Reward:62.792368622531995 Time:30006 TotalReward:3679.7833407528974
+ERun: Time:1530328
+==END-RUN 0==
+STOKE: Config: 0 - Knobs: {interval:30000 priority:100 sensor-configuration:1 batch:1 } Records:{location_accuracy:3716.00 } | -- on:0 reward:NaN
+ERROR: We got 'done' signal before finishing experiment!
+STOKE: Config: 0 - Knobs: {interval:30000 priority:100 sensor-configuration:1 batch:1 } Records:{location_accuracy:3716.00 } | -- on:0 reward:NaN

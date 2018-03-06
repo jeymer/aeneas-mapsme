@@ -1,0 +1,25 @@
+==RUN-0==
+ETask 4: Configuration:0 Energy:4.50 Power:4.50 Reward:4.50 Time:5001
+ETask 5: Configuration:18 Energy:1.60 Power:1.60 Reward:1.60 Time:4997
+ETask 6: Configuration:36 Energy:1.10 Power:1.10 Reward:1.10 Time:5002
+ETask 7: Configuration:36 Energy:0.70 Power:0.70 Reward:0.70 Time:4997
+ETask 8: Configuration:36 Energy:1.90 Power:1.90 Reward:1.90 Time:5002
+ETask 9: Configuration:37 Energy:1.40 Power:1.40 Reward:1.40 Time:4996
+ETask 10: Configuration:38 Energy:4.80 Power:4.80 Reward:4.80 Time:5003
+ETask 11: Configuration:39 Energy:3.70 Power:3.70 Reward:3.70 Time:5003
+ETask 12: Configuration:40 Energy:5.30 Power:5.30 Reward:5.30 Time:5001
+ETask 13: Configuration:41 Energy:8.10 Power:8.10 Reward:8.10 Time:4999
+ETask 14: Configuration:42 Energy:8.50 Power:8.50 Reward:8.50 Time:4999
+ETask 15: Configuration:43 Energy:8.90 Power:8.90 Reward:8.90 Time:4999
+ETask 16: Configuration:44 Energy:6.80 Power:6.80 Reward:6.80 Time:5000
+ETask 17: Configuration:45 Energy:5.10 Power:5.10 Reward:5.10 Time:5001
+ETask 18: Configuration:46 Energy:6.30 Power:6.30 Reward:6.30 Time:4999
+ETask 19: Configuration:47 Energy:7.10 Power:7.10 Reward:7.10 Time:5001
+ETask 20: Configuration:48 Energy:5.80 Power:5.80 Reward:5.80 Time:4996
+ETask 21: Configuration:49 Energy:7.80 Power:7.80 Reward:7.80 Time:4999
+ETask 22: Configuration:50 Energy:3.60 Power:3.60 Reward:3.60 Time:5001
+ETask 23: Configuration:51 Energy:1.00 Power:1.00 Reward:1.00 Time:5002
+ETask 24: Configuration:51 Energy:3.40 Power:3.40 Reward:3.40 Time:5000
+ETask 25: Configuration:52 Energy:5.60 Power:5.60 Reward:5.60 Time:5002
+ETask 26: Configuration:53 Energy:4.40 Power:4.40 Reward:4.40 Time:4999
+ERun: Reward:107.40 PostConfigReward:100.20 Time:118311
