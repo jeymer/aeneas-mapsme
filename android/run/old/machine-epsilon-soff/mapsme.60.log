@@ -1,0 +1,851 @@
+==RUN 0==
+STOKE: Start Bat: 1.000000
+ELocation 0: Diff:-8 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:2.8490
+STOKE: Level:1.00 Watts:1.3503
+STOKE: Level:1.00 Watts:1.3503
+STOKE: Level:1.00 Watts:1.3503
+STOKE: Level:1.00 Watts:1.3503
+STOKE: Level:1.00 Watts:1.3503
+STOKE: Level:1.00 Watts:1.3503
+ETask 7: Configuration:11 Energy:0.00 Power:0.00 Reward:1.35 Time:5083
+ELocation 1: Diff:34894 ms Accuracy:20.00
+ELocation 2: Diff:1 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.3503
+ETask 8: Configuration:5 Energy:0.00 Power:0.00 Reward:1.35 Time:5009
+ELocation 3: Diff:5064 ms Accuracy:20.00
+ELocation 4: Diff:-49 ms Accuracy:20.00
+ELocation 5: Diff:37 ms Accuracy:20.00
+ELocation 6: Diff:4979 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:2.5318
+ETask 9: Configuration:0 Energy:0.00 Power:0.00 Reward:2.53 Time:5005
+ELocation 7: Diff:73 ms Accuracy:20.00
+ELocation 8: Diff:-7 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:2.5318
+ETask 10: Configuration:17 Energy:0.00 Power:0.00 Reward:2.53 Time:5006
+ELocation 9: Diff:5059 ms Accuracy:20.00
+ELocation 10: Diff:-9 ms Accuracy:20.00
+ELocation 11: Diff:4182 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.5318
+ETask 11: Configuration:2 Energy:0.00 Power:0.00 Reward:2.53 Time:5030
+ELocation 12: Diff:903 ms Accuracy:29.00
+ELocation 13: Diff:-9 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.5318
+ETask 12: Configuration:11 Energy:0.00 Power:0.00 Reward:2.53 Time:5010
+ELocation 14: Diff:5072 ms Accuracy:29.00
+ELocation 15: Diff:0 ms Accuracy:29.00
+ELocation 16: Diff:5030 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.5318
+ETask 13: Configuration:6 Energy:0.00 Power:0.00 Reward:2.53 Time:5057
+ELocation 17: Diff:66 ms Accuracy:29.00
+ELocation 18: Diff:-6 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.5318
+ETask 14: Configuration:1 Energy:0.00 Power:0.00 Reward:2.53 Time:5032
+ELocation 19: Diff:5082 ms Accuracy:29.00
+ELocation 20: Diff:-8 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3815
+ETask 15: Configuration:8 Energy:0.00 Power:0.00 Reward:2.38 Time:5008
+ELocation 21: Diff:5069 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3815
+ETask 16: Configuration:10 Energy:0.00 Power:0.00 Reward:2.38 Time:5058
+ELocation 22: Diff:5098 ms Accuracy:29.00
+ELocation 23: Diff:1 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3815
+ETask 17: Configuration:12 Energy:0.00 Power:0.00 Reward:2.38 Time:5011
+ELocation 24: Diff:5064 ms Accuracy:29.00
+ELocation 25: Diff:-50 ms Accuracy:29.00
+ELocation 26: Diff:43 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3815
+ETask 18: Configuration:4 Energy:0.00 Power:0.00 Reward:2.38 Time:5035
+ELocation 27: Diff:5083 ms Accuracy:29.00
+ELocation 28: Diff:-7 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3815
+ETask 19: Configuration:9 Energy:0.00 Power:0.00 Reward:2.38 Time:5009
+ERun: Reward:29.80 PostConfigReward:29.80 Time:65913
+==END-RUN 0==
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.47 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.74 scaled:0.98 (location_accuracy,40.00,10.00)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.57 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.63 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:5 reward:7.21 scaled:0.97 (location_accuracy,78.00,15.60)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.83 scaled:0.97 (location_accuracy,29.00,7.25)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.84 scaled:0.97 (location_accuracy,87.00,21.75)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.89 scaled:0.97 (location_accuracy,58.00,14.50)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.92 scaled:0.97 (location_accuracy,78.00,19.50)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.92 scaled:0.97 (location_accuracy,87.00,21.75)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.93 scaled:0.97 (location_accuracy,58.00,14.50)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.95 scaled:0.97 (location_accuracy,120.00,30.00)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.51 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:6.07 scaled:0.97 (location_accuracy,29.00,7.25)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:6.22 scaled:0.97 (location_accuracy,40.00,10.00)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:7.33 scaled:0.96 (location_accuracy,58.00,14.50)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:7.77 scaled:0.95 (location_accuracy,0.00,0.00)
+
+==RUN 1==
+ELocation 29: Diff:5113 ms Accuracy:29.00
+ELocation 30: Diff:-7 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3815
+STOKE: Level:1.00 Watts:1.2336
+STOKE: Level:1.00 Watts:1.2336
+STOKE: Level:1.00 Watts:1.2336
+STOKE: Level:1.00 Watts:1.2336
+STOKE: Level:1.00 Watts:1.2336
+STOKE: Level:1.00 Watts:1.2336
+ETask 7: Configuration:11 Energy:0.00 Power:0.00 Reward:1.23 Time:5069
+ELocation 31: Diff:35199 ms Accuracy:29.00
+ELocation 32: Diff:2 ms Accuracy:29.00
+ELocation 33: Diff:5017 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3406
+ETask 8: Configuration:2 Energy:0.00 Power:0.00 Reward:2.34 Time:5042
+ELocation 34: Diff:69 ms Accuracy:29.00
+ELocation 35: Diff:-7 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3406
+ETask 9: Configuration:14 Energy:0.00 Power:0.00 Reward:2.34 Time:5009
+ELocation 36: Diff:5058 ms Accuracy:29.00
+ELocation 37: Diff:-9 ms Accuracy:29.00
+STOKE: Level:1.00 Watts:2.3406
+ETask 10: Configuration:5 Energy:0.00 Power:0.00 Reward:2.34 Time:5036
+ELocation 38: Diff:5080 ms Accuracy:23.00
+ELocation 39: Diff:0 ms Accuracy:23.00
+STOKE: Level:1.00 Watts:2.3406
+ETask 11: Configuration:15 Energy:0.00 Power:0.00 Reward:2.34 Time:5009
+ELocation 40: Diff:5066 ms Accuracy:40.89
+ELocation 41: Diff:1942 ms Accuracy:40.89
+STOKE: Level:1.00 Watts:2.3406
+ETask 12: Configuration:6 Energy:0.00 Power:0.00 Reward:2.34 Time:5051
+ELocation 42: Diff:3152 ms Accuracy:9.00
+ELocation 43: Diff:-9 ms Accuracy:9.00
+STOKE: Level:1.00 Watts:2.3406
+ETask 13: Configuration:13 Energy:0.00 Power:0.00 Reward:2.34 Time:5008
+ELocation 44: Diff:5069 ms Accuracy:15.62
+ELocation 45: Diff:-10 ms Accuracy:15.62
+STOKE: Level:1.00 Watts:2.9149
+ETask 14: Configuration:1 Energy:0.00 Power:0.00 Reward:2.91 Time:5043
+ELocation 46: Diff:5116 ms Accuracy:13.00
+ELocation 47: Diff:-14 ms Accuracy:13.00
+STOKE: Level:1.00 Watts:2.9149
+ETask 15: Configuration:0 Energy:0.00 Power:0.00 Reward:2.91 Time:5043
+ELocation 48: Diff:5116 ms Accuracy:13.00
+ELocation 49: Diff:-12 ms Accuracy:13.00
+STOKE: Level:1.00 Watts:2.9149
+ETask 16: Configuration:15 Energy:0.00 Power:0.00 Reward:2.91 Time:5015
+ELocation 50: Diff:5072 ms Accuracy:13.00
+ELocation 51: Diff:1 ms Accuracy:13.00
+STOKE: Level:1.00 Watts:2.9149
+ETask 17: Configuration:11 Energy:0.00 Power:0.00 Reward:2.91 Time:5040
+ELocation 52: Diff:5086 ms Accuracy:14.00
+ELocation 53: Diff:680 ms Accuracy:32.88
+STOKE: Level:1.00 Watts:2.9149
+ETask 18: Configuration:10 Energy:0.00 Power:0.00 Reward:2.91 Time:5039
+ELocation 54: Diff:4397 ms Accuracy:32.88
+ELocation 55: Diff:1 ms Accuracy:32.88
+ELocation 56: Diff:5015 ms Accuracy:32.88
+STOKE: Level:1.00 Watts:2.9149
+ETask 19: Configuration:4 Energy:0.00 Power:0.00 Reward:2.91 Time:5049
+ERun: Reward:32.77 PostConfigReward:62.57 Time:131950
+==END-RUN 1==
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.47 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.57 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.73 scaled:0.97 (location_accuracy,87.00,21.75)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.73 scaled:0.97 (location_accuracy,52.00,13.00)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.73 scaled:0.97 (location_accuracy,49.89,12.47)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:5.97 scaled:0.97 (location_accuracy,58.00,14.50)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:5 reward:7.48 scaled:0.97 (location_accuracy,56.00,11.20)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.31 scaled:0.97 (location_accuracy,28.62,7.15)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.33 scaled:0.97 (location_accuracy,84.00,21.00)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:6.36 scaled:0.97 (location_accuracy,65.75,16.44)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.37 scaled:0.97 (location_accuracy,65.75,16.44)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.95 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:6.85 scaled:0.97 (location_accuracy,24.62,6.15)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:5 reward:13.03 scaled:0.95 (location_accuracy,89.89,17.98)
+
+==RUN 2==
+ELocation 57: Diff:109 ms Accuracy:32.88
+ELocation 58: Diff:-6 ms Accuracy:32.88
+STOKE: Level:1.00 Watts:2.9215
+STOKE: Level:1.00 Watts:2.9215
+STOKE: Level:1.00 Watts:2.9215
+STOKE: Level:1.00 Watts:2.9215
+STOKE: Level:1.00 Watts:2.9215
+STOKE: Level:1.00 Watts:2.9215
+STOKE: Level:1.00 Watts:1.6378
+ETask 7: Configuration:11 Energy:0.00 Power:0.00 Reward:1.64 Time:5045
+ELocation 59: Diff:35156 ms Accuracy:32.88
+ELocation 60: Diff:0 ms Accuracy:32.88
+STOKE: Level:1.00 Watts:1.6378
+ETask 8: Configuration:17 Energy:0.00 Power:0.00 Reward:1.64 Time:5015
+ELocation 61: Diff:5055 ms Accuracy:32.88
+ELocation 62: Diff:-38 ms Accuracy:32.88
+ELocation 63: Diff:31 ms Accuracy:32.88
+ELocation 64: Diff:2086 ms Accuracy:20.00
+ELocation 65: Diff:1602 ms Accuracy:12.00
+ELocation 66: Diff:1000 ms Accuracy:10.00
+STOKE: Level:1.00 Watts:1.6378
+ETask 9: Configuration:2 Energy:0.00 Power:0.00 Reward:1.64 Time:5031
+ELocation 67: Diff:395 ms Accuracy:10.00
+ELocation 68: Diff:-10 ms Accuracy:10.00
+STOKE: Level:1.00 Watts:1.6378
+ETask 10: Configuration:9 Energy:0.00 Power:0.00 Reward:1.64 Time:5008
+ELocation 69: Diff:5059 ms Accuracy:15.43
+STOKE: Level:1.00 Watts:1.6378
+ETask 11: Configuration:3 Energy:0.00 Power:0.00 Reward:1.64 Time:5009
+ELocation 70: Diff:5064 ms Accuracy:15.43
+ELocation 71: Diff:-16 ms Accuracy:15.43
+ELocation 72: Diff:5010 ms Accuracy:15.43
+STOKE: Level:1.00 Watts:1.6378
+ETask 12: Configuration:5 Energy:0.00 Power:0.00 Reward:1.64 Time:5027
+ELocation 73: Diff:63 ms Accuracy:15.43
+ELocation 74: Diff:-6 ms Accuracy:15.43
+ELocation 75: Diff:4963 ms Accuracy:15.43
+STOKE: Level:1.00 Watts:1.7028
+ETask 13: Configuration:13 Energy:0.00 Power:0.00 Reward:1.70 Time:5008
+ELocation 76: Diff:94 ms Accuracy:15.43
+ELocation 77: Diff:-13 ms Accuracy:15.43
+STOKE: Level:1.00 Watts:1.7028
+ETask 14: Configuration:6 Energy:0.00 Power:0.00 Reward:1.70 Time:5043
+ELocation 78: Diff:5099 ms Accuracy:31.00
+ELocation 79: Diff:-8 ms Accuracy:31.00
+STOKE: Level:1.00 Watts:1.7028
+ETask 15: Configuration:1 Energy:0.00 Power:0.00 Reward:1.70 Time:5037
+ELocation 80: Diff:5093 ms Accuracy:31.00
+ELocation 81: Diff:-10 ms Accuracy:31.00
+STOKE: Level:1.00 Watts:1.7028
+ETask 16: Configuration:0 Energy:0.00 Power:0.00 Reward:1.70 Time:5051
+ELocation 82: Diff:5111 ms Accuracy:31.00
+ELocation 83: Diff:-7 ms Accuracy:31.00
+STOKE: Level:1.00 Watts:1.7028
+ETask 17: Configuration:10 Energy:0.00 Power:0.00 Reward:1.70 Time:5038
+ELocation 84: Diff:5095 ms Accuracy:31.00
+ELocation 85: Diff:1 ms Accuracy:31.00
+ELocation 86: Diff:5036 ms Accuracy:31.00
+STOKE: Level:1.00 Watts:1.7028
+ETask 18: Configuration:4 Energy:0.00 Power:0.00 Reward:1.70 Time:5049
+ELocation 87: Diff:57 ms Accuracy:31.00
+ELocation 88: Diff:-8 ms Accuracy:31.00
+ELocation 89: Diff:4964 ms Accuracy:31.00
+STOKE: Level:1.00 Watts:1.1413
+ETask 19: Configuration:13 Energy:0.00 Power:0.00 Reward:1.14 Time:5003
+ERun: Reward:21.18 PostConfigReward:83.75 Time:197844
+==END-RUN 2==
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.47 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.63 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.97 scaled:0.98 (location_accuracy,32.88,8.22)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.03 scaled:0.97 (location_accuracy,117.75,29.44)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.03 scaled:0.97 (location_accuracy,46.30,11.58)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.09 scaled:0.97 (location_accuracy,46.43,11.61)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.10 scaled:0.97 (location_accuracy,62.00,15.50)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.12 scaled:0.97 (location_accuracy,127.75,31.94)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.15 scaled:0.97 (location_accuracy,62.00,15.50)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.16 scaled:0.97 (location_accuracy,93.00,23.25)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.21 scaled:0.97 (location_accuracy,15.43,3.86)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.33 scaled:0.97 (location_accuracy,25.43,6.36)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:5.33 scaled:0.97 (location_accuracy,65.75,16.44)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:5 reward:7.35 scaled:0.97 (location_accuracy,108.30,21.66)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.95 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:7.77 scaled:0.95 (location_accuracy,0.00,0.00)
+
+==RUN 3==
+ELocation 90: Diff:105 ms Accuracy:31.00
+ELocation 91: Diff:-6 ms Accuracy:31.00
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1264
+STOKE: Level:1.00 Watts:1.1264
+ETask 7: Configuration:11 Energy:0.00 Power:0.00 Reward:1.13 Time:5074
+ELocation 92: Diff:35186 ms Accuracy:20.00
+ELocation 93: Diff:1 ms Accuracy:20.00
+ELocation 94: Diff:5031 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.1264
+ETask 8: Configuration:11 Energy:0.00 Power:0.00 Reward:1.13 Time:5050
+ELocation 95: Diff:5018 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.1264
+ETask 9: Configuration:4 Energy:0.00 Power:0.00 Reward:1.13 Time:5007
+ELocation 96: Diff:70 ms Accuracy:20.00
+ELocation 97: Diff:-12 ms Accuracy:20.00
+ELocation 98: Diff:4958 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.1264
+ETask 10: Configuration:5 Energy:0.00 Power:0.00 Reward:1.13 Time:5009
+ELocation 99: Diff:121 ms Accuracy:20.00
+ELocation 100: Diff:-15 ms Accuracy:20.00
+ELocation 101: Diff:4914 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.1264
+ETask 11: Configuration:5 Energy:0.00 Power:0.00 Reward:1.13 Time:5007
+ELocation 102: Diff:5020 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.1691
+ETask 12: Configuration:11 Energy:0.00 Power:0.00 Reward:1.17 Time:5040
+ELocation 103: Diff:178 ms Accuracy:20.00
+ELocation 104: Diff:-9 ms Accuracy:20.00
+ELocation 105: Diff:4852 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.1691
+ETask 13: Configuration:11 Energy:0.00 Power:0.00 Reward:1.17 Time:5036
+ELocation 106: Diff:5021 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.1691
+ETask 14: Configuration:13 Energy:0.00 Power:0.00 Reward:1.17 Time:5004
+ELocation 107: Diff:233 ms Accuracy:20.00
+ELocation 108: Diff:-12 ms Accuracy:20.00
+STOKE: Level:1.00 Watts:1.1691
+ETask 15: Configuration:5 Energy:0.00 Power:0.00 Reward:1.17 Time:5037
+ELocation 109: Diff:5087 ms Accuracy:34.00
+ELocation 110: Diff:1 ms Accuracy:34.00
+STOKE: Level:1.00 Watts:1.1691
+ETask 16: Configuration:6 Energy:0.00 Power:0.00 Reward:1.17 Time:5011
+ELocation 111: Diff:5065 ms Accuracy:34.00
+ELocation 112: Diff:-53 ms Accuracy:34.00
+ELocation 113: Diff:45 ms Accuracy:34.00
+STOKE: Level:1.00 Watts:1.1691
+ETask 17: Configuration:2 Energy:0.00 Power:0.00 Reward:1.17 Time:5042
+ELocation 114: Diff:5076 ms Accuracy:34.00
+ELocation 115: Diff:-5 ms Accuracy:34.00
+STOKE: Level:1.00 Watts:1.1108
+ETask 18: Configuration:11 Energy:0.00 Power:0.00 Reward:1.11 Time:5035
+ELocation 116: Diff:5085 ms Accuracy:34.00
+ELocation 117: Diff:1 ms Accuracy:34.00
+ELocation 118: Diff:5017 ms Accuracy:34.00
+STOKE: Level:1.00 Watts:1.1108
+ETask 19: Configuration:11 Energy:0.00 Power:0.00 Reward:1.11 Time:5043
+ERun: Reward:14.87 PostConfigReward:98.62 Time:263676
+==END-RUN 3==
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:9 reward:10.14 scaled:0.98 (location_accuracy,276.00,30.67)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.40 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:6 reward:6.81 scaled:0.98 (location_accuracy,154.00,25.67)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.56 scaled:0.98 (location_accuracy,102.00,25.50)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.56 scaled:0.98 (location_accuracy,68.00,17.00)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.42 scaled:0.98 (location_accuracy,62.00,20.67)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.59 scaled:0.98 (location_accuracy,40.00,10.00)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.45 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.47 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.57 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.63 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:5.68 scaled:0.97 (location_accuracy,40.00,10.00)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.95 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:7.77 scaled:0.95 (location_accuracy,0.00,0.00)
+
+==RUN 4==
+ELocation 119: Diff:102 ms Accuracy:34.00
+ELocation 120: Diff:-9 ms Accuracy:34.00
+STOKE: Level:1.00 Watts:1.1108
+STOKE: Level:1.00 Watts:1.1108
+STOKE: Level:1.00 Watts:1.1108
+STOKE: Level:1.00 Watts:1.1108
+STOKE: Level:1.00 Watts:1.3256
+STOKE: Level:1.00 Watts:1.3256
+STOKE: Level:1.00 Watts:1.3256
+ETask 7: Configuration:11 Energy:0.00 Power:0.00 Reward:1.33 Time:5070
+ELocation 121: Diff:35188 ms Accuracy:20.10
+ELocation 122: Diff:1 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.3256
+ETask 8: Configuration:7 Energy:0.00 Power:0.00 Reward:1.33 Time:5010
+ELocation 123: Diff:5059 ms Accuracy:20.10
+ELocation 124: Diff:-43 ms Accuracy:20.10
+ELocation 125: Diff:38 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.3256
+ETask 9: Configuration:2 Energy:0.00 Power:0.00 Reward:1.33 Time:5031
+ELocation 126: Diff:5082 ms Accuracy:20.10
+ELocation 127: Diff:-13 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.3256
+ETask 10: Configuration:4 Energy:0.00 Power:0.00 Reward:1.33 Time:5007
+ELocation 128: Diff:5062 ms Accuracy:20.10
+ELocation 129: Diff:1 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1626
+ETask 11: Configuration:7 Energy:0.00 Power:0.00 Reward:1.16 Time:5018
+ELocation 130: Diff:5071 ms Accuracy:20.10
+ELocation 131: Diff:-50 ms Accuracy:20.10
+ELocation 132: Diff:43 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1626
+ETask 12: Configuration:3 Energy:0.00 Power:0.00 Reward:1.16 Time:5004
+ELocation 133: Diff:5045 ms Accuracy:20.10
+ELocation 134: Diff:-8 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1626
+ETask 13: Configuration:3 Energy:0.00 Power:0.00 Reward:1.16 Time:5011
+STOKE: Level:1.00 Watts:1.1626
+ETask 14: Configuration:7 Energy:0.00 Power:0.00 Reward:1.16 Time:5009
+ELocation 135: Diff:10096 ms Accuracy:20.10
+ELocation 136: Diff:-8 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1626
+ETask 15: Configuration:5 Energy:0.00 Power:0.00 Reward:1.16 Time:5044
+ELocation 137: Diff:5097 ms Accuracy:20.10
+ELocation 138: Diff:0 ms Accuracy:20.10
+ELocation 139: Diff:5013 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1626
+ETask 16: Configuration:6 Energy:0.00 Power:0.00 Reward:1.16 Time:5032
+ELocation 140: Diff:60 ms Accuracy:20.10
+ELocation 141: Diff:-6 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1413
+ETask 17: Configuration:1 Energy:0.00 Power:0.00 Reward:1.14 Time:5005
+ELocation 142: Diff:5051 ms Accuracy:20.10
+ELocation 143: Diff:-8 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1413
+ETask 18: Configuration:1 Energy:0.00 Power:0.00 Reward:1.14 Time:5044
+STOKE: Level:1.00 Watts:1.1413
+ETask 19: Configuration:1 Energy:0.00 Power:0.00 Reward:1.14 Time:5049
+ERun: Reward:15.70 PostConfigReward:114.32 Time:329484
+==END-RUN 4==
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:6 reward:6.82 scaled:0.98 (location_accuracy,60.30,10.05)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.55 scaled:0.98 (location_accuracy,40.20,10.05)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.55 scaled:0.98 (location_accuracy,60.30,15.08)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.42 scaled:0.98 (location_accuracy,68.00,22.67)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.45 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.66 scaled:0.98 (location_accuracy,20.10,5.03)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.72 scaled:0.98 (location_accuracy,60.30,15.08)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:5 reward:5.90 scaled:0.98 (location_accuracy,80.40,16.08)
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:6 reward:7.12 scaled:0.98 (location_accuracy,100.50,16.75)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.79 scaled:0.98 (location_accuracy,40.20,10.05)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.63 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.51 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.95 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:7.77 scaled:0.95 (location_accuracy,0.00,0.00)
+
+==RUN 5==
+ELocation 144: Diff:10218 ms Accuracy:20.10
+ELocation 145: Diff:-7 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+STOKE: Level:1.00 Watts:1.1413
+ETask 7: Configuration:11 Energy:0.00 Power:0.00 Reward:1.14 Time:5065
+ELocation 146: Diff:35177 ms Accuracy:20.10
+ELocation 147: Diff:0 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1413
+ETask 8: Configuration:11 Energy:0.00 Power:0.00 Reward:1.14 Time:5012
+ELocation 148: Diff:5019 ms Accuracy:20.10
+STOKE: Level:1.00 Watts:1.1413
+ETask 9: Configuration:17 Energy:0.00 Power:0.00 Reward:1.14 Time:5012
+ELocation 149: Diff:5064 ms Accuracy:20.10
+ELocation 150: Diff:-48 ms Accuracy:20.10
+ELocation 151: Diff:40 ms Accuracy:20.10
+ELocation 152: Diff:2075 ms Accuracy:102.00
+ELocation 153: Diff:1599 ms Accuracy:37.00
+ELocation 154: Diff:1000 ms Accuracy:26.00
+STOKE: Level:1.00 Watts:1.1413
+ETask 10: Configuration:11 Energy:0.00 Power:0.00 Reward:1.14 Time:5045
+ELocation 155: Diff:428 ms Accuracy:26.00
+ELocation 156: Diff:-12 ms Accuracy:26.00
+STOKE: Level:1.00 Watts:3.2174
+ETask 11: Configuration:11 Energy:0.00 Power:0.00 Reward:3.22 Time:5038
+ELocation 157: Diff:7007 ms Accuracy:31.92
+STOKE: Level:1.00 Watts:3.2174
+ETask 12: Configuration:1 Energy:0.00 Power:0.00 Reward:3.22 Time:5016
+ELocation 158: Diff:3114 ms Accuracy:31.92
+ELocation 159: Diff:-10 ms Accuracy:31.92
+STOKE: Level:1.00 Watts:3.2174
+ETask 13: Configuration:2 Energy:0.00 Power:0.00 Reward:3.22 Time:5046
+ELocation 160: Diff:5104 ms Accuracy:31.92
+ELocation 161: Diff:-8 ms Accuracy:31.92
+STOKE: Level:1.00 Watts:3.2174
+ETask 14: Configuration:10 Energy:0.00 Power:0.00 Reward:3.22 Time:5011
+ELocation 162: Diff:5063 ms Accuracy:31.92
+ELocation 163: Diff:0 ms Accuracy:31.92
+STOKE: Level:1.00 Watts:3.2174
+ETask 15: Configuration:3 Energy:0.00 Power:0.00 Reward:3.22 Time:5008
+ELocation 164: Diff:5059 ms Accuracy:31.92
+ELocation 165: Diff:-43 ms Accuracy:31.92
+ELocation 166: Diff:36 ms Accuracy:31.92
+STOKE: Level:1.00 Watts:3.2174
+ETask 16: Configuration:5 Energy:0.00 Power:0.00 Reward:3.22 Time:5037
+ELocation 167: Diff:5082 ms Accuracy:31.92
+ELocation 168: Diff:-7 ms Accuracy:31.92
+ELocation 169: Diff:4922 ms Accuracy:31.92
+STOKE: Level:1.00 Watts:2.4177
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:2.42 Time:5004
+ELocation 170: Diff:143 ms Accuracy:31.92
+ELocation 171: Diff:-10 ms Accuracy:31.92
+STOKE: Level:1.00 Watts:2.4177
+ETask 18: Configuration:6 Energy:0.00 Power:0.00 Reward:2.42 Time:5037
+ELocation 172: Diff:5094 ms Accuracy:31.92
+ELocation 173: Diff:-6 ms Accuracy:31.92
+STOKE: Level:1.00 Watts:2.4177
+ETask 19: Configuration:4 Energy:0.00 Power:0.00 Reward:2.42 Time:5036
+ERun: Reward:31.12 PostConfigReward:145.44 Time:395346
+==END-RUN 5==
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.47 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:4.83 scaled:0.98 (location_accuracy,40.20,10.05)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.63 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:7 reward:9.97 scaled:0.97 (location_accuracy,297.40,42.49)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.81 scaled:0.97 (location_accuracy,63.83,15.96)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.84 scaled:0.97 (location_accuracy,135.95,33.99)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.88 scaled:0.97 (location_accuracy,31.92,7.98)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.51 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.95 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.61 scaled:0.97 (location_accuracy,63.83,15.96)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.61 scaled:0.97 (location_accuracy,95.75,23.94)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.62 scaled:0.97 (location_accuracy,63.83,15.96)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:6.67 scaled:0.97 (location_accuracy,63.83,15.96)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.79 scaled:0.97 (location_accuracy,63.83,15.96)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:7.77 scaled:0.95 (location_accuracy,0.00,0.00)
+
+==RUN 6==
+ELocation 174: Diff:5144 ms Accuracy:31.92
+ELocation 175: Diff:-10 ms Accuracy:31.92
+STOKE: Level:0.99 Watts:2.3938
+STOKE: Level:0.99 Watts:2.3938
+STOKE: Level:0.99 Watts:2.3938
+STOKE: Level:0.99 Watts:1.5034
+STOKE: Level:0.99 Watts:1.5034
+STOKE: Level:0.99 Watts:1.5034
+STOKE: Level:0.99 Watts:1.5034
+ETask 7: Configuration:11 Energy:0.00 Power:0.00 Reward:1.50 Time:5072
+ELocation 176: Diff:35208 ms Accuracy:31.92
+ELocation 177: Diff:1 ms Accuracy:31.92
+STOKE: Level:0.99 Watts:1.5034
+ETask 8: Configuration:15 Energy:0.00 Power:0.00 Reward:1.50 Time:5018
+ELocation 178: Diff:5059 ms Accuracy:31.92
+ELocation 179: Diff:-41 ms Accuracy:31.92
+ELocation 180: Diff:34 ms Accuracy:31.92
+STOKE: Level:0.99 Watts:1.5034
+ETask 9: Configuration:2 Energy:0.00 Power:0.00 Reward:1.50 Time:5038
+ELocation 181: Diff:5104 ms Accuracy:14.00
+ELocation 182: Diff:-11 ms Accuracy:14.00
+STOKE: Level:0.99 Watts:2.6500
+ETask 10: Configuration:12 Energy:0.00 Power:0.00 Reward:2.65 Time:5009
+ELocation 183: Diff:5078 ms Accuracy:20.27
+ELocation 184: Diff:-8 ms Accuracy:20.27
+STOKE: Level:0.99 Watts:2.6500
+ETask 11: Configuration:5 Energy:0.00 Power:0.00 Reward:2.65 Time:5011
+ELocation 185: Diff:5061 ms Accuracy:15.00
+ELocation 186: Diff:1 ms Accuracy:15.00
+ELocation 187: Diff:5012 ms Accuracy:15.00
+STOKE: Level:0.99 Watts:2.6500
+ETask 12: Configuration:6 Energy:0.00 Power:0.00 Reward:2.65 Time:5040
+ELocation 188: Diff:74 ms Accuracy:15.00
+ELocation 189: Diff:-11 ms Accuracy:15.00
+STOKE: Level:0.98 Watts:2.6437
+ETask 13: Configuration:1 Energy:0.00 Power:0.00 Reward:2.64 Time:5043
+ELocation 190: Diff:5102 ms Accuracy:15.00
+ELocation 191: Diff:-10 ms Accuracy:15.00
+STOKE: Level:0.98 Watts:2.6437
+ETask 14: Configuration:0 Energy:0.00 Power:0.00 Reward:2.64 Time:5040
+ELocation 192: Diff:5096 ms Accuracy:15.00
+ELocation 193: Diff:-6 ms Accuracy:15.00
+STOKE: Level:0.98 Watts:2.6437
+ETask 15: Configuration:10 Energy:0.00 Power:0.00 Reward:2.64 Time:5033
+ELocation 194: Diff:5095 ms Accuracy:15.00
+ELocation 195: Diff:1 ms Accuracy:15.00
+STOKE: Level:0.98 Watts:2.3516
+ETask 16: Configuration:5 Energy:0.00 Power:0.00 Reward:2.35 Time:5014
+ELocation 196: Diff:5062 ms Accuracy:15.00
+ELocation 197: Diff:-46 ms Accuracy:15.00
+ELocation 198: Diff:39 ms Accuracy:15.00
+ELocation 199: Diff:4975 ms Accuracy:15.00
+STOKE: Level:0.98 Watts:2.3516
+ETask 17: Configuration:14 Energy:0.00 Power:0.00 Reward:2.35 Time:5004
+ELocation 200: Diff:75 ms Accuracy:15.00
+ELocation 201: Diff:-8 ms Accuracy:15.00
+STOKE: Level:0.98 Watts:2.3516
+ETask 18: Configuration:4 Energy:0.00 Power:0.00 Reward:2.35 Time:5042
+ELocation 202: Diff:5083 ms Accuracy:143.00
+ELocation 203: Diff:0 ms Accuracy:143.00
+ELocation 204: Diff:5013 ms Accuracy:143.00
+STOKE: Level:0.98 Watts:2.3516
+ETask 19: Configuration:7 Energy:0.00 Power:0.00 Reward:2.35 Time:5035
+ERun: Reward:29.80 PostConfigReward:175.24 Time:461319
+==END-RUN 6==
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.57 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.83 scaled:0.98 (location_accuracy,31.92,7.98)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.89 scaled:0.98 (location_accuracy,77.83,19.46)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.81 scaled:0.97 (location_accuracy,158.00,39.50)
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.82 scaled:0.97 (location_accuracy,286.00,71.50)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:5.98 scaled:0.97 (location_accuracy,60.00,15.00)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.51 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:6.04 scaled:0.97 (location_accuracy,45.00,11.25)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.04 scaled:0.97 (location_accuracy,30.00,7.50)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:6.06 scaled:0.97 (location_accuracy,93.83,23.46)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:6.09 scaled:0.97 (location_accuracy,30.00,7.50)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:5 reward:8.39 scaled:0.97 (location_accuracy,65.27,13.05)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:7.60 scaled:0.96 (location_accuracy,34.27,8.57)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:9.27 scaled:0.95 (location_accuracy,63.83,15.96)
+
+==RUN 7==
+ELocation 205: Diff:101 ms Accuracy:143.00
+ELocation 206: Diff:-20 ms Accuracy:143.00
+STOKE: Level:0.98 Watts:2.3516
+STOKE: Level:0.98 Watts:2.3516
+STOKE: Level:0.98 Watts:1.1356
+STOKE: Level:0.98 Watts:1.1356
+STOKE: Level:0.98 Watts:1.1356
+STOKE: Level:0.98 Watts:1.1356
+STOKE: Level:0.98 Watts:1.1356
+ETask 7: Configuration:7 Energy:0.00 Power:0.00 Reward:1.14 Time:5047
+ELocation 207: Diff:35176 ms Accuracy:20.10
+STOKE: Level:0.98 Watts:1.1356
+ETask 8: Configuration:11 Energy:0.00 Power:0.00 Reward:1.14 Time:5043
+ELocation 208: Diff:5090 ms Accuracy:20.10
+ELocation 209: Diff:1 ms Accuracy:20.10
+STOKE: Level:0.98 Watts:2.3331
+ETask 9: Configuration:5 Energy:0.00 Power:0.00 Reward:2.33 Time:5014
+ELocation 210: Diff:5068 ms Accuracy:20.10
+ELocation 211: Diff:-50 ms Accuracy:20.10
+ELocation 212: Diff:42 ms Accuracy:20.10
+ELocation 213: Diff:4972 ms Accuracy:20.10
+STOKE: Level:0.98 Watts:2.3331
+ETask 10: Configuration:13 Energy:0.00 Power:0.00 Reward:2.33 Time:5004
+ELocation 214: Diff:94 ms Accuracy:20.10
+ELocation 215: Diff:-16 ms Accuracy:20.10
+STOKE: Level:0.98 Watts:2.3331
+ETask 11: Configuration:10 Energy:0.00 Power:0.00 Reward:2.33 Time:5009
+ELocation 216: Diff:5072 ms Accuracy:40.00
+STOKE: Level:0.98 Watts:2.3331
+ETask 12: Configuration:11 Energy:0.00 Power:0.00 Reward:2.33 Time:5037
+ELocation 217: Diff:5076 ms Accuracy:40.00
+ELocation 218: Diff:0 ms Accuracy:40.00
+ELocation 219: Diff:5017 ms Accuracy:40.00
+STOKE: Level:0.98 Watts:2.3331
+ETask 13: Configuration:2 Energy:0.00 Power:0.00 Reward:2.33 Time:5039
+ELocation 220: Diff:73 ms Accuracy:40.00
+ELocation 221: Diff:-10 ms Accuracy:40.00
+STOKE: Level:0.98 Watts:2.3331
+ETask 14: Configuration:6 Energy:0.00 Power:0.00 Reward:2.33 Time:5035
+ELocation 222: Diff:5090 ms Accuracy:40.00
+ELocation 223: Diff:-8 ms Accuracy:40.00
+STOKE: Level:0.98 Watts:1.6870
+ETask 15: Configuration:1 Energy:0.00 Power:0.00 Reward:1.69 Time:5043
+ELocation 224: Diff:5094 ms Accuracy:40.00
+ELocation 225: Diff:-9 ms Accuracy:40.00
+STOKE: Level:0.98 Watts:1.6870
+ETask 16: Configuration:11 Energy:0.00 Power:0.00 Reward:1.69 Time:5008
+ELocation 226: Diff:5061 ms Accuracy:40.00
+ELocation 227: Diff:-7 ms Accuracy:40.00
+STOKE: Level:0.98 Watts:1.6870
+ETask 17: Configuration:0 Energy:0.00 Power:0.00 Reward:1.69 Time:5053
+ELocation 228: Diff:5122 ms Accuracy:20.40
+ELocation 229: Diff:-14 ms Accuracy:20.40
+STOKE: Level:0.98 Watts:1.6870
+ETask 18: Configuration:13 Energy:0.00 Power:0.00 Reward:1.69 Time:5011
+ELocation 230: Diff:5073 ms Accuracy:20.40
+ELocation 231: Diff:-9 ms Accuracy:20.40
+STOKE: Level:0.98 Watts:1.6870
+ETask 19: Configuration:5 Energy:0.00 Power:0.00 Reward:1.69 Time:5008
+ERun: Reward:24.71 PostConfigReward:199.95 Time:527253
+==END-RUN 7==
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.61 scaled:0.98 (location_accuracy,20.10,5.03)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.46 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.57 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.63 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.09 scaled:0.97 (location_accuracy,80.00,20.00)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.11 scaled:0.97 (location_accuracy,346.40,86.60)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:6 reward:8.49 scaled:0.97 (location_accuracy,140.10,23.35)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:5.72 scaled:0.97 (location_accuracy,120.00,30.00)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.72 scaled:0.97 (location_accuracy,80.00,20.00)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:5.78 scaled:0.97 (location_accuracy,60.10,15.03)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:5 reward:7.41 scaled:0.97 (location_accuracy,60.60,12.12)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.95 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:5 reward:8.53 scaled:0.97 (location_accuracy,121.20,24.24)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:7.77 scaled:0.95 (location_accuracy,0.00,0.00)
+
+==RUN 8==
+ELocation 232: Diff:5104 ms Accuracy:44.00
+ELocation 233: Diff:-5 ms Accuracy:44.00
+STOKE: Level:0.98 Watts:1.6870
+STOKE: Level:0.98 Watts:1.2231
+STOKE: Level:0.98 Watts:1.2231
+STOKE: Level:0.98 Watts:1.2231
+STOKE: Level:0.98 Watts:1.2231
+STOKE: Level:0.98 Watts:1.2231
+STOKE: Level:0.98 Watts:1.2231
+ETask 7: Configuration:12 Energy:0.00 Power:0.00 Reward:1.22 Time:5046
+ELocation 234: Diff:35162 ms Accuracy:20.00
+ELocation 235: Diff:-8 ms Accuracy:20.00
+STOKE: Level:0.98 Watts:1.2321
+ETask 8: Configuration:11 Energy:0.00 Power:0.00 Reward:1.23 Time:5045
+ELocation 236: Diff:5098 ms Accuracy:24.00
+ELocation 237: Diff:1 ms Accuracy:24.00
+STOKE: Level:0.98 Watts:1.2321
+ETask 9: Configuration:12 Energy:0.00 Power:0.00 Reward:1.23 Time:5008
+ELocation 238: Diff:5059 ms Accuracy:24.00
+ELocation 239: Diff:-48 ms Accuracy:24.00
+ELocation 240: Diff:40 ms Accuracy:24.00
+STOKE: Level:0.98 Watts:1.2321
+ETask 10: Configuration:6 Energy:0.00 Power:0.00 Reward:1.23 Time:5016
+ELocation 241: Diff:5068 ms Accuracy:37.00
+ELocation 242: Diff:-11 ms Accuracy:37.00
+STOKE: Level:0.98 Watts:1.2321
+ETask 11: Configuration:2 Energy:0.00 Power:0.00 Reward:1.23 Time:5040
+ELocation 243: Diff:5092 ms Accuracy:37.00
+STOKE: Level:0.98 Watts:1.2321
+ETask 12: Configuration:0 Energy:0.00 Power:0.00 Reward:1.23 Time:5007
+ELocation 244: Diff:5056 ms Accuracy:37.00
+ELocation 245: Diff:-9 ms Accuracy:37.00
+STOKE: Level:0.98 Watts:1.2321
+ETask 13: Configuration:5 Energy:0.00 Power:0.00 Reward:1.23 Time:5049
+ELocation 246: Diff:5099 ms Accuracy:37.00
+ELocation 247: Diff:1 ms Accuracy:37.00
+ELocation 248: Diff:5017 ms Accuracy:37.00
+STOKE: Level:0.98 Watts:1.1260
+ETask 14: Configuration:1 Energy:0.00 Power:0.00 Reward:1.13 Time:5035
+ELocation 249: Diff:56 ms Accuracy:37.00
+ELocation 250: Diff:-7 ms Accuracy:37.00
+STOKE: Level:0.98 Watts:1.1260
+ETask 15: Configuration:9 Energy:0.00 Power:0.00 Reward:1.13 Time:5004
+ELocation 251: Diff:5045 ms Accuracy:37.00
+ELocation 252: Diff:-9 ms Accuracy:37.00
+STOKE: Level:0.98 Watts:1.1260
+ETask 16: Configuration:1 Energy:0.00 Power:0.00 Reward:1.13 Time:5044
+ELocation 253: Diff:5113 ms Accuracy:37.00
+ELocation 254: Diff:-14 ms Accuracy:37.00
+STOKE: Level:0.98 Watts:1.1260
+ETask 17: Configuration:1 Energy:0.00 Power:0.00 Reward:1.13 Time:5038
+STOKE: Level:0.98 Watts:1.1260
+ETask 18: Configuration:1 Energy:0.00 Power:0.00 Reward:1.13 Time:5010
+STOKE: Level:0.98 Watts:1.1260
+ETask 19: Configuration:14 Energy:0.00 Power:0.00 Reward:1.13 Time:5008
+ERun: Reward:15.37 PostConfigReward:215.32 Time:593086
+==END-RUN 8==
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:7 reward:7.90 scaled:0.98 (location_accuracy,222.00,31.71)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.56 scaled:0.98 (location_accuracy,44.00,11.00)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.45 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.46 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.62 scaled:0.98 (location_accuracy,74.00,18.50)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.62 scaled:0.98 (location_accuracy,74.00,18.50)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.62 scaled:0.98 (location_accuracy,85.00,21.25)
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.47 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.65 scaled:0.98 (location_accuracy,125.00,31.25)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:4.76 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.57 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.82 scaled:0.98 (location_accuracy,74.00,18.50)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:5 reward:7.41 scaled:0.97 (location_accuracy,68.00,13.60)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.51 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,0.00,0.00)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:7.77 scaled:0.95 (location_accuracy,0.00,0.00)
+
+==RUN 9==
+ELocation 255: Diff:15166 ms Accuracy:37.00
+ELocation 256: Diff:-6 ms Accuracy:37.00
+STOKE: Level:0.98 Watts:1.2161
+STOKE: Level:0.98 Watts:1.2161
+STOKE: Level:0.98 Watts:1.2161
+STOKE: Level:0.98 Watts:1.2161
+STOKE: Level:0.98 Watts:1.2161
+STOKE: Level:0.98 Watts:1.2161
+STOKE: Level:0.98 Watts:1.1637
+ETask 7: Configuration:11 Energy:0.00 Power:0.00 Reward:1.16 Time:5061
+ELocation 257: Diff:35179 ms Accuracy:20.90
+ELocation 258: Diff:1 ms Accuracy:20.90
+ELocation 259: Diff:5017 ms Accuracy:20.90
+STOKE: Level:0.98 Watts:1.1637
+ETask 8: Configuration:11 Energy:0.00 Power:0.00 Reward:1.16 Time:5038
+ELocation 260: Diff:5023 ms Accuracy:20.90
+STOKE: Level:0.98 Watts:1.1637
+ETask 9: Configuration:2 Energy:0.00 Power:0.00 Reward:1.16 Time:5037
+ELocation 261: Diff:81 ms Accuracy:20.90
+ELocation 262: Diff:-7 ms Accuracy:20.90
+STOKE: Level:0.98 Watts:1.1637
+ETask 10: Configuration:5 Energy:0.00 Power:0.00 Reward:1.16 Time:5038
+ELocation 263: Diff:5093 ms Accuracy:20.90
+ELocation 264: Diff:-8 ms Accuracy:20.90
+STOKE: Level:0.98 Watts:1.1637
+ETask 11: Configuration:6 Energy:0.00 Power:0.00 Reward:1.16 Time:5051
+ELocation 265: Diff:5106 ms Accuracy:20.90
+ELocation 266: Diff:-7 ms Accuracy:20.90
+STOKE: Level:0.98 Watts:1.1637
+ETask 12: Configuration:17 Energy:0.00 Power:0.00 Reward:1.16 Time:5008
+ELocation 267: Diff:5059 ms Accuracy:20.90
+ELocation 268: Diff:-8 ms Accuracy:20.90
+ELocation 269: Diff:4210 ms Accuracy:26.00
+STOKE: Level:0.98 Watts:1.3925
+ETask 13: Configuration:15 Energy:0.00 Power:0.00 Reward:1.39 Time:5007
+ELocation 270: Diff:862 ms Accuracy:26.00
+ELocation 271: Diff:-10 ms Accuracy:26.00
+STOKE: Level:0.98 Watts:1.3925
+ETask 14: Configuration:10 Energy:0.00 Power:0.00 Reward:1.39 Time:5009
+ELocation 272: Diff:5071 ms Accuracy:8.00
+ELocation 273: Diff:-9 ms Accuracy:8.00
+ELocation 274: Diff:4249 ms Accuracy:8.00
+STOKE: Level:0.98 Watts:1.3925
+ETask 15: Configuration:3 Energy:0.00 Power:0.00 Reward:1.39 Time:5007
+ELocation 275: Diff:820 ms Accuracy:8.00
+ELocation 276: Diff:-7 ms Accuracy:8.00
+STOKE: Level:0.98 Watts:1.3925
+ETask 16: Configuration:11 Energy:0.00 Power:0.00 Reward:1.39 Time:5041
+ELocation 277: Diff:5087 ms Accuracy:8.00
+ELocation 278: Diff:4131 ms Accuracy:8.00
+STOKE: Level:0.98 Watts:1.3925
+ETask 17: Configuration:1 Energy:0.00 Power:0.00 Reward:1.39 Time:5008
+ELocation 279: Diff:924 ms Accuracy:8.00
+ELocation 280: Diff:-10 ms Accuracy:8.00
+STOKE: Level:0.98 Watts:1.3925
+ETask 18: Configuration:11 Energy:0.00 Power:0.00 Reward:1.39 Time:5008
+ELocation 281: Diff:5059 ms Accuracy:8.00
+STOKE: Level:0.98 Watts:1.3509
+ETask 19: Configuration:17 Energy:0.00 Power:0.00 Reward:1.35 Time:5013
+ELocation 282: Diff:5061 ms Accuracy:8.00
+ELocation 283: Diff:1 ms Accuracy:8.00
+ELocation 284: Diff:2161 ms Accuracy:162.00
+ELocation 285: Diff:1610 ms Accuracy:39.00
+ELocation 286: Diff:1000 ms Accuracy:18.00
+STOKE: Level:0.98 Watts:1.3509
+ELocation 287: Diff:275 ms Accuracy:18.00
+ELocation 288: Diff:-11 ms Accuracy:18.00
+STOKE: Level:0.98 Watts:1.3509
+ELocation 289: Diff:5097 ms Accuracy:24.67
+ELocation 290: Diff:-13 ms Accuracy:24.67
+STOKE: Level:0.98 Watts:1.3509
+STOKE: Level:0.98 Watts:1.3509
+ELocation 291: Diff:10104 ms Accuracy:24.67
+ELocation 292: Diff:1 ms Accuracy:24.67
+ELocation 293: Diff:5015 ms Accuracy:24.67
+STOKE: Level:0.98 Watts:1.3509
+ELocation 294: Diff:65 ms Accuracy:24.67
+ELocation 295: Diff:-7 ms Accuracy:24.67
+STOKE: Level:0.98 Watts:1.1362
+STOKE: Level:0.98 Watts:1.1362
+ELocation 296: Diff:14975 ms Accuracy:24.67
+STOKE: Level:0.98 Watts:1.1362
+STOKE: Level:0.98 Watts:1.1362
+ELocation 297: Diff:5179 ms Accuracy:24.67
+ELocation 298: Diff:-13 ms Accuracy:24.67
+STOKE: End Bat: 0.970000
+STOKE: Usage Bat: 0.030000
+ERun: Reward:16.69 PostConfigReward:232.00 Time:707894
+==END-RUN 9==
+STOKE: Config:2 | interval:2:10000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.55 scaled:0.98 (location_accuracy,232.48,58.12)
+STOKE: Config:5 | interval:5:1000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.55 scaled:0.98 (location_accuracy,66.47,16.62)
+STOKE: Config:6 | interval:0:60000 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.55 scaled:0.98 (location_accuracy,41.80,10.45)
+STOKE: Config:0 | interval:0:60000 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.42 scaled:0.98 (location_accuracy,98.67,32.89)
+STOKE: Config:4 | interval:4:2500 priority:0:104 sensor-configuration:0:2 | -- timeOn:3 reward:3.46 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:7 | interval:1:30000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.47 scaled:0.98 (location_accuracy,245.00,81.67)
+STOKE: Config:8 | interval:2:10000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.51 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:1 | interval:1:30000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.79 scaled:0.98 (location_accuracy,16.00,4.00)
+STOKE: Config:11 | interval:5:1000 priority:1:102 sensor-configuration:0:2 | -- timeOn:7 reward:8.44 scaled:0.98 (location_accuracy,94.70,13.53)
+STOKE: Config:14 | interval:2:10000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:3.63 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:10 | interval:4:2500 priority:1:102 sensor-configuration:0:2 | -- timeOn:4 reward:4.84 scaled:0.98 (location_accuracy,34.00,8.50)
+STOKE: Config:9 | interval:3:5000 priority:1:102 sensor-configuration:0:2 | -- timeOn:3 reward:3.69 scaled:0.98 (location_accuracy,0.00,0.00)
+STOKE: Config:3 | interval:3:5000 priority:0:104 sensor-configuration:0:2 | -- timeOn:4 reward:4.96 scaled:0.98 (location_accuracy,24.00,6.00)
+STOKE: Config:17 | interval:5:1000 priority:2:100 sensor-configuration:0:2 | -- timeOn:5 reward:6.20 scaled:0.98 (location_accuracy,49.80,9.96)
+STOKE: Config:13 | interval:1:30000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.51 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:12 | interval:0:60000 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:4.95 scaled:0.97 (location_accuracy,0.00,0.00)
+STOKE: Config:16 | interval:4:2500 priority:2:100 sensor-configuration:0:2 | -- timeOn:3 reward:6.41 scaled:0.96 (location_accuracy,24.67,8.22)
+STOKE: Config:15 | interval:3:5000 priority:2:100 sensor-configuration:0:2 | -- timeOn:4 reward:9.16 scaled:0.95 (location_accuracy,72.90,18.22)
+

@@ -1,0 +1,781 @@
+STOKE: Range:9000 Partition:2250 Middle:5500
+STOKE: Generated seeds: [10000, 7750, 5500, 3250, 1000]
+==RUN 0==
+==ROUND-START==
+Bandit Runs:1 Tasks-in-Run:10
+Self-Optimizer Rounds:0 Tasks-in-Round:0
+Continuous Knob Rounds:Inf Tasks-in-Round:0
+STOKE: Start Bat: 0.910000
+ETask 1-1: Configuration:0 Energy:78.86415933627002 Reward:1.7501518795450721 Raw:28.249848120454928 Time:32505 TotalReward:78.86415933627002
+ETask 2-2: Configuration:0 Energy:79.60311056318501 Reward:1.4854529325904409 Raw:28.51454706740956 Time:32504 TotalReward:158.46726989945503
+ETask 3-3: Configuration:1 Energy:44.363197085856 Reward:14.108705521484415 Raw:15.891294478515585 Time:32557 TotalReward:202.83046698531103
+ETask 4-4: Configuration:1 Energy:39.52452021837001 Reward:15.841962906852535 Raw:14.158037093147465 Time:32512 TotalReward:242.35498720368105
+ETask 5-5: Configuration:2 Energy:39.222100570653 Reward:15.95029233290042 Raw:14.04970766709958 Time:32552 TotalReward:281.577087774334
+ETask 6-6: Configuration:2 Energy:35.463153876149995 Reward:17.2967807010806 Raw:12.7032192989194 Time:32507 TotalReward:317.040241650484
+ETask 7-7: Configuration:3 Energy:88.37563932143101 Reward:-1.6569454285723069 Raw:31.656945428572307 Time:32525 TotalReward:405.41588097191504
+ETask 8-8: Configuration:3 Energy:75.42532575477901 Reward:2.9819728639597614 Raw:27.01802713604024 Time:32508 TotalReward:480.84120672669405
+ETask 9-9: Configuration:4 Energy:76.23859405096002 Reward:2.6906528772680574 Raw:27.309347122731943 Time:32547 TotalReward:557.0798007776541
+ETask 10-10: Configuration:4 Energy:91.76357097891199 Reward:-2.870532887968473 Raw:32.87053288796847 Time:32503 TotalReward:648.8433717565661
+ETask 11-11: Configuration:1 Energy:50.36960371256001 Reward:11.957156879082984 Raw:18.042843120917016 Time:32544 TotalReward:699.212975469126
+ETask 12-12: Configuration:3 Energy:53.692491293805 Reward:10.766868790278807 Raw:19.233131209721193 Time:32545 TotalReward:752.905466762931
+ETask 13-13: Configuration:1 Energy:61.029491301696 Reward:8.138689682974565 Raw:21.861310317025435 Time:32563 TotalReward:813.934958064627
+ETask 14-14: Configuration:2 Energy:55.829754718938005 Reward:10.0012818917237 Raw:19.9987181082763 Time:32544 TotalReward:869.7647127835651
+ETask 15-15: Configuration:4 Energy:77.839876421648 Reward:2.1170591922454918 Raw:27.88294080775451 Time:32522 TotalReward:947.6045892052131
+STOKE: 0 convergence rate 0.13
+STOKE: 1 convergence rate 0.27
+STOKE: 2 convergence rate 0.20
+STOKE: 3 convergence rate 0.20
+STOKE: 4 convergence rate 0.20
+STOKE: minQ:0.65 minInd:4
+STOKE: minId:4
+ETask 16-16: Configuration:4 Energy:85.09014541981999 Reward:-0.480052090681788 Raw:30.480052090681788 Time:32504 TotalReward:1032.694734625033
+STOKE: 0 convergence rate 0.12
+STOKE: 1 convergence rate 0.25
+STOKE: 2 convergence rate 0.19
+STOKE: 3 convergence rate 0.19
+STOKE: 4 convergence rate 0.25
+STOKE: minQ:0.36 minInd:4
+STOKE: minId:4
+ETask 17-17: Configuration:4 Energy:80.25216127056899 Reward:1.2529571568111066 Raw:28.747042843188893 Time:32503 TotalReward:1112.9468958956022
+STOKE: 0 convergence rate 0.12
+STOKE: 1 convergence rate 0.24
+STOKE: 2 convergence rate 0.18
+STOKE: 3 convergence rate 0.18
+STOKE: 4 convergence rate 0.29
+STOKE: minQ:0.54 minInd:4
+STOKE: minId:4
+ETask 18-18: Configuration:3 Energy:76.69268053389001 Reward:2.5279950326364187 Raw:27.47200496736358 Time:32551 TotalReward:1189.6395764294923
+STOKE: 0 convergence rate 0.11
+STOKE: 1 convergence rate 0.22
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.22
+STOKE: 4 convergence rate 0.28
+STOKE: minQ:0.54 minInd:4
+STOKE: minId:4
+ETask 19-19: Configuration:4 Energy:81.34267140449998 Reward:0.8623266610746363 Raw:29.137673338925364 Time:32524 TotalReward:1270.9822478339922
+STOKE: 0 convergence rate 0.11
+STOKE: 1 convergence rate 0.21
+STOKE: 2 convergence rate 0.16
+STOKE: 3 convergence rate 0.21
+STOKE: 4 convergence rate 0.32
+STOKE: minQ:0.60 minInd:4
+STOKE: minId:4
+ETask 20-20: Configuration:4 Energy:75.57346110336 Reward:2.928909455512837 Raw:27.071090544487163 Time:32503 TotalReward:1346.5557089373522
+STOKE: 0 convergence rate 0.10
+STOKE: 1 convergence rate 0.20
+STOKE: 2 convergence rate 0.15
+STOKE: 3 convergence rate 0.20
+STOKE: 4 convergence rate 0.35
+STOKE: minQ:0.93 minInd:4
+STOKE: minId:4
+ETask 21-21: Configuration:0 Energy:34.311391118132 Reward:17.709352435296 Raw:12.290647564703999 Time:32542 TotalReward:1380.8671000554841
+STOKE: 0 convergence rate 0.14
+STOKE: 1 convergence rate 0.19
+STOKE: 2 convergence rate 0.14
+STOKE: 3 convergence rate 0.19
+STOKE: 4 convergence rate 0.33
+STOKE: minQ:0.93 minInd:4
+STOKE: minId:4
+ETask 22-22: Configuration:4 Energy:79.07289604428 Reward:1.6753805214519382 Raw:28.324619478548062 Time:32540 TotalReward:1459.9399960997641
+STOKE: 0 convergence rate 0.14
+STOKE: 1 convergence rate 0.18
+STOKE: 2 convergence rate 0.14
+STOKE: 3 convergence rate 0.18
+STOKE: 4 convergence rate 0.36
+STOKE: minQ:1.02 minInd:4
+STOKE: minId:4
+ETask 23-23: Configuration:4 Energy:84.28165479419401 Reward:-0.19044350836800916 Raw:30.19044350836801 Time:32504 TotalReward:1544.2216508939582
+STOKE: 0 convergence rate 0.13
+STOKE: 1 convergence rate 0.17
+STOKE: 2 convergence rate 0.13
+STOKE: 3 convergence rate 0.17
+STOKE: 4 convergence rate 0.39
+STOKE: minQ:0.89 minInd:4
+STOKE: minId:4
+ETask 24-24: Configuration:4 Energy:80.74160477687998 Reward:1.0776341097743298 Raw:28.92236589022567 Time:32505 TotalReward:1624.9632556708382
+STOKE: 0 convergence rate 0.12
+STOKE: 1 convergence rate 0.17
+STOKE: 2 convergence rate 0.12
+STOKE: 3 convergence rate 0.17
+STOKE: 4 convergence rate 0.42
+STOKE: minQ:0.91 minInd:4
+STOKE: minId:4
+ETask 25-25: Configuration:3 Energy:38.672106336362994 Reward:16.1473051929446 Raw:13.852694807055398 Time:32546 TotalReward:1663.6353620072011
+STOKE: 0 convergence rate 0.12
+STOKE: 1 convergence rate 0.16
+STOKE: 2 convergence rate 0.12
+STOKE: 3 convergence rate 0.20
+STOKE: 4 convergence rate 0.40
+STOKE: minQ:0.91 minInd:4
+STOKE: minId:4
+ETask 26-26: Configuration:4 Energy:132.404136727149 Reward:-17.42834748435188 Raw:47.42834748435188 Time:32529 TotalReward:1796.0394987343502
+STOKE: 0 convergence rate 0.12
+STOKE: 1 convergence rate 0.15
+STOKE: 2 convergence rate 0.12
+STOKE: 3 convergence rate 0.19
+STOKE: 4 convergence rate 0.42
+STOKE: minQ:0.76 minInd:4
+STOKE: minId:4
+ETask 27-27: Configuration:4 Energy:145.10672890373098 Reward:-21.97852975656035 Raw:51.97852975656035 Time:32504 TotalReward:1941.1462276380812
+STOKE: 0 convergence rate 0.11
+STOKE: 1 convergence rate 0.15
+STOKE: 2 convergence rate 0.11
+STOKE: 3 convergence rate 0.19
+STOKE: 4 convergence rate 0.44
+STOKE: minQ:2.53 minInd:4
+STOKE: minId:4
+ETask 28-28: Configuration:4 Energy:80.06172442877701 Reward:1.3211733389455453 Raw:28.678826661054455 Time:32502 TotalReward:2021.2079520668583
+STOKE: 0 convergence rate 0.11
+STOKE: 1 convergence rate 0.14
+STOKE: 2 convergence rate 0.11
+STOKE: 3 convergence rate 0.18
+STOKE: 4 convergence rate 0.46
+STOKE: minQ:2.23 minInd:4
+STOKE: minId:4
+ETask 29-29: Configuration:4 Energy:80.84258440712999 Reward:1.0414623019235876 Raw:28.958537698076412 Time:32502 TotalReward:2102.0505364739884
+STOKE: 0 convergence rate 0.10
+STOKE: 1 convergence rate 0.14
+STOKE: 2 convergence rate 0.10
+STOKE: 3 convergence rate 0.17
+STOKE: 4 convergence rate 0.48
+STOKE: minQ:2.00 minInd:4
+STOKE: minId:4
+ETask 30-30: Configuration:4 Energy:82.00489125419999 Reward:0.6251135805850794 Raw:29.37488641941492 Time:32505 TotalReward:2184.0554277281885
+STOKE: 0 convergence rate 0.10
+STOKE: 1 convergence rate 0.13
+STOKE: 2 convergence rate 0.10
+STOKE: 3 convergence rate 0.17
+STOKE: 4 convergence rate 0.50
+STOKE: minQ:1.82 minInd:4
+STOKE: minId:4
+STOKE: shouldConverge:false tickUp:true
+STOKE: Tightening intervals (empty round)
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:3 reward:6.9817
+STOKE: Config: 1 - Knobs: {interval:7750 priority:100 sensor-configuration:1 batch:1 }  | -- on:4 reward:12.5116
+STOKE: Config: 2 - Knobs: {interval:5500 priority:100 sensor-configuration:1 batch:1 }  | -- on:3 reward:14.4161
+STOKE: Config: 3 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:5 reward:6.1534
+STOKE: Config: 4 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:15 reward:-1.8237
+==ROUND-END==
+STOKE: Range:4500 Partition:1125 Middle:1000
+STOKE: Generated seeds before boundary adjust: [3250, 2125, 1000]
+STOKE: Generated seeds: [3250, 2125, 1750, 1375, 1000]
+STOKE: Config: 0 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:5 reward:6.1534
+STOKE: Config: 1 - Knobs: {interval:2125 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 reward:0.0000
+STOKE: Config: 2 - Knobs: {interval:1750 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 reward:0.0000
+STOKE: Config: 3 - Knobs: {interval:1375 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 reward:0.0000
+STOKE: Config: 4 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:15 reward:-1.8237
+==ROUND-START==
+ETask 31-1: Configuration:0 Energy:77.51916327850499 Reward:2.2319415121773147 Raw:27.768058487822685 Time:32528 TotalReward:77.51916327850499
+ETask 32-2: Configuration:0 Energy:77.38877641068002 Reward:2.2786472558758106 Raw:27.72135274412419 Time:32503 TotalReward:154.907939689185
+ETask 33-3: Configuration:1 Energy:96.70934993579999 Reward:-4.642155200883579 Raw:34.64215520088358 Time:32551 TotalReward:251.617289624985
+ETask 34-4: Configuration:1 Energy:53.21601367992001 Reward:10.937547338536117 Raw:19.062452661463883 Time:32502 TotalReward:304.83330330490503
+ETask 35-5: Configuration:2 Energy:97.25565211908001 Reward:-4.837845535192834 Raw:34.837845535192834 Time:32544 TotalReward:402.08895542398506
+ETask 36-6: Configuration:2 Energy:94.86864219840001 Reward:-3.98279720539702 Raw:33.98279720539702 Time:32503 TotalReward:496.95759762238504
+ETask 37-7: Configuration:3 Energy:82.3379439456 Reward:0.5058111239641754 Raw:29.494188876035825 Time:32531 TotalReward:579.2955415679851
+ETask 38-8: Configuration:3 Energy:81.59726285564001 Reward:0.7711297233528356 Raw:29.228870276647164 Time:32504 TotalReward:660.8928044236251
+ETask 39-9: Configuration:4 Energy:79.492678507032 Reward:1.5250106840482367 Raw:28.474989315951763 Time:32549 TotalReward:740.3854829306571
+ETask 40-10: Configuration:4 Energy:80.944759092796 Reward:1.0048624145208294 Raw:28.99513758547917 Time:32505 TotalReward:821.3302420234531
+ETask 41-11: Configuration:3 Energy:95.324701751644 Reward:-4.146161821484419 Raw:34.14616182148442 Time:32550 TotalReward:916.6549437750971
+ETask 42-12: Configuration:1 Energy:82.04578029718 Reward:0.6104667592191078 Raw:29.389533240780892 Time:32533 TotalReward:998.7007240722771
+ETask 43-13: Configuration:2 Energy:81.94285602986399 Reward:0.6473351534815528 Raw:29.352664846518447 Time:32536 TotalReward:1080.6435801021412
+ETask 44-14: Configuration:0 Energy:78.962511254462 Reward:1.7149213416852511 Raw:28.28507865831475 Time:32551 TotalReward:1159.6060913566032
+ETask 45-15: Configuration:4 Energy:87.48200702150999 Reward:-1.3368383360632734 Raw:31.336838336063273 Time:32530 TotalReward:1247.0880983781133
+STOKE: 0 convergence rate 0.20
+STOKE: 1 convergence rate 0.20
+STOKE: 2 convergence rate 0.20
+STOKE: 3 convergence rate 0.20
+STOKE: 4 convergence rate 0.20
+STOKE: minQ:0.96 minInd:3
+STOKE: minId:3
+ETask 46-16: Configuration:0 Energy:40.07092646938799 Reward:15.646235294547585 Raw:14.353764705452415 Time:32555 TotalReward:1287.1590248475013
+STOKE: 0 convergence rate 0.25
+STOKE: 1 convergence rate 0.19
+STOKE: 2 convergence rate 0.19
+STOKE: 3 convergence rate 0.19
+STOKE: 4 convergence rate 0.19
+STOKE: minQ:0.96 minInd:3
+STOKE: minId:3
+ETask 47-17: Configuration:3 Energy:87.58398228963 Reward:-1.3733667903152238 Raw:31.373366790315224 Time:32532 TotalReward:1374.7430071371314
+STOKE: 0 convergence rate 0.24
+STOKE: 1 convergence rate 0.18
+STOKE: 2 convergence rate 0.18
+STOKE: 3 convergence rate 0.24
+STOKE: 4 convergence rate 0.18
+STOKE: minQ:1.06 minInd:3
+STOKE: minId:3
+ETask 48-18: Configuration:3 Energy:90.80653330081999 Reward:-2.5277134211892474 Raw:32.52771342118925 Time:32505 TotalReward:1465.5495404379515
+STOKE: 0 convergence rate 0.22
+STOKE: 1 convergence rate 0.17
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.28
+STOKE: 4 convergence rate 0.17
+STOKE: minQ:1.35 minInd:3
+STOKE: minId:3
+ETask 49-19: Configuration:3 Energy:98.33075761174001 Reward:-5.222957950474033 Raw:35.22295795047403 Time:32505 TotalReward:1563.8802980496914
+STOKE: 0 convergence rate 0.21
+STOKE: 1 convergence rate 0.16
+STOKE: 2 convergence rate 0.16
+STOKE: 3 convergence rate 0.32
+STOKE: 4 convergence rate 0.16
+STOKE: minQ:1.45 minInd:4
+STOKE: minId:4
+ETask 50-20: Configuration:1 Energy:98.103696985308 Reward:-5.141622800707346 Raw:35.141622800707346 Time:32534 TotalReward:1661.9839950349995
+STOKE: 0 convergence rate 0.20
+STOKE: 1 convergence rate 0.20
+STOKE: 2 convergence rate 0.15
+STOKE: 3 convergence rate 0.30
+STOKE: 4 convergence rate 0.15
+STOKE: minQ:0.44 minInd:1
+STOKE: minId:1
+ETask 51-21: Configuration:1 Energy:101.348735230188 Reward:-6.304024560067347 Raw:36.30402456006735 Time:32506 TotalReward:1763.3327302651874
+STOKE: 0 convergence rate 0.19
+STOKE: 1 convergence rate 0.24
+STOKE: 2 convergence rate 0.14
+STOKE: 3 convergence rate 0.29
+STOKE: 4 convergence rate 0.14
+STOKE: minQ:0.91 minInd:1
+STOKE: minId:1
+ETask 52-22: Configuration:2 Energy:107.56094376974998 Reward:-8.529293290656717 Raw:38.52929329065672 Time:32530 TotalReward:1870.8936740349372
+STOKE: 0 convergence rate 0.18
+STOKE: 1 convergence rate 0.23
+STOKE: 2 convergence rate 0.18
+STOKE: 3 convergence rate 0.27
+STOKE: 4 convergence rate 0.14
+STOKE: minQ:0.91 minInd:1
+STOKE: minId:1
+ETask 53-23: Configuration:2 Energy:132.505137494496 Reward:-17.464526863700065 Raw:47.464526863700065 Time:32503 TotalReward:2003.3988115294333
+STOKE: 0 convergence rate 0.17
+STOKE: 1 convergence rate 0.22
+STOKE: 2 convergence rate 0.22
+STOKE: 3 convergence rate 0.26
+STOKE: 4 convergence rate 0.13
+STOKE: minQ:0.91 minInd:1
+STOKE: minId:1
+ETask 54-24: Configuration:4 Energy:105.27145310524199 Reward:-7.709177231728475 Raw:37.709177231728475 Time:32536 TotalReward:2108.6702646346753
+STOKE: 0 convergence rate 0.17
+STOKE: 1 convergence rate 0.21
+STOKE: 2 convergence rate 0.21
+STOKE: 3 convergence rate 0.25
+STOKE: 4 convergence rate 0.17
+STOKE: minQ:0.91 minInd:1
+STOKE: minId:1
+ETask 55-25: Configuration:3 Energy:104.20512595922999 Reward:-7.327209298828656 Raw:37.327209298828656 Time:32537 TotalReward:2212.875390593905
+STOKE: 0 convergence rate 0.16
+STOKE: 1 convergence rate 0.20
+STOKE: 2 convergence rate 0.20
+STOKE: 3 convergence rate 0.28
+STOKE: 4 convergence rate 0.16
+STOKE: minQ:0.91 minInd:1
+STOKE: minId:1
+ETask 56-26: Configuration:4 Energy:98.19950300512001 Reward:-5.17594137496836 Raw:35.17594137496836 Time:32536 TotalReward:2311.074893599025
+STOKE: 0 convergence rate 0.15
+STOKE: 1 convergence rate 0.19
+STOKE: 2 convergence rate 0.19
+STOKE: 3 convergence rate 0.27
+STOKE: 4 convergence rate 0.19
+STOKE: minQ:0.91 minInd:1
+STOKE: minId:1
+ETask 57-27: Configuration:3 Energy:92.18892869279298 Reward:-3.022899830254211 Raw:33.02289983025421 Time:32534 TotalReward:2403.263822291818
+STOKE: 0 convergence rate 0.15
+STOKE: 1 convergence rate 0.19
+STOKE: 2 convergence rate 0.19
+STOKE: 3 convergence rate 0.30
+STOKE: 4 convergence rate 0.19
+STOKE: minQ:0.91 minInd:1
+STOKE: minId:1
+ETask 58-28: Configuration:3 Energy:77.98745955968 Reward:2.064193590562386 Raw:27.935806409437614 Time:32504 TotalReward:2481.251281851498
+STOKE: 0 convergence rate 0.14
+STOKE: 1 convergence rate 0.18
+STOKE: 2 convergence rate 0.18
+STOKE: 3 convergence rate 0.32
+STOKE: 4 convergence rate 0.18
+STOKE: minQ:0.91 minInd:1
+STOKE: minId:1
+ETask 59-29: Configuration:1 Energy:77.53859238832 Reward:2.2249818310495577 Raw:27.775018168950442 Time:32538 TotalReward:2558.789874239818
+STOKE: 0 convergence rate 0.14
+STOKE: 1 convergence rate 0.21
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.31
+STOKE: 4 convergence rate 0.17
+STOKE: minQ:0.39 minInd:1
+STOKE: minId:1
+ETask 60-30: Configuration:1 Energy:34.32483956286 Reward:17.7045350819606 Raw:12.295464918039402 Time:32507 TotalReward:2593.1147138026777
+STOKE: 0 convergence rate 0.13
+STOKE: 1 convergence rate 0.23
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.30
+STOKE: 4 convergence rate 0.17
+STOKE: minQ:1.95 minInd:4
+STOKE: minId:4
+STOKE: shouldConverge:false tickUp:true
+STOKE: Last/Min -- -1.8237 -- 1.9524
+STOKE: Tightening intervals (last pick 1000 = pick 1000)
+STOKE: Config: 0 - Knobs: {interval:3250 priority:100 sensor-configuration:1 batch:1 }  | -- on:9 reward:5.8488
+STOKE: Config: 1 - Knobs: {interval:2125 priority:100 sensor-configuration:1 batch:1 }  | -- on:7 reward:2.1985
+STOKE: Config: 2 - Knobs: {interval:1750 priority:100 sensor-configuration:1 batch:1 }  | -- on:5 reward:-6.8334
+STOKE: Config: 3 - Knobs: {interval:1375 priority:100 sensor-configuration:1 batch:1 }  | -- on:9 reward:-2.2532
+STOKE: Config: 4 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:20 reward:-1.9524
+==ROUND-END==
+STOKE: Range:1125 Partition:281 Middle:1000
+STOKE: Generated seeds before boundary adjust: [1562, 1281, 1000]
+STOKE: Generated seeds: [1562, 1281, 1186, 1093, 1000]
+STOKE: Config: 0 - Knobs: {interval:1562 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 reward:0.0000
+STOKE: Config: 1 - Knobs: {interval:1281 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 reward:0.0000
+STOKE: Config: 2 - Knobs: {interval:1186 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 reward:0.0000
+STOKE: Config: 3 - Knobs: {interval:1093 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 reward:0.0000
+STOKE: Config: 4 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:20 reward:-1.9524
+==ROUND-START==
+ETask 61-1: Configuration:0 Energy:81.791294201496 Reward:0.7016259576730697 Raw:29.29837404232693 Time:32537 TotalReward:81.791294201496
+ETask 62-2: Configuration:0 Energy:78.85289312719199 Reward:1.7541875365282422 Raw:28.245812463471758 Time:32506 TotalReward:160.644187328688
+ETask 63-3: Configuration:1 Energy:79.295635831914 Reward:1.5955931348367791 Raw:28.40440686516322 Time:32531 TotalReward:239.93982316060197
+ETask 64-4: Configuration:1 Energy:81.918540164682 Reward:0.6560453141437641 Raw:29.343954685856236 Time:32503 TotalReward:321.85836332528396
+ETask 65-5: Configuration:2 Energy:86.52351233609998 Reward:-0.9934969562149156 Raw:30.993496956214916 Time:32534 TotalReward:408.38187566138396
+ETask 66-6: Configuration:2 Energy:80.291432534456 Reward:1.2388898384038143 Raw:28.761110161596186 Time:32503 TotalReward:488.67330819584
+ETask 67-7: Configuration:3 Energy:78.26879608600801 Reward:1.9634163274001146 Raw:28.036583672599885 Time:32537 TotalReward:566.942104281848
+ETask 68-8: Configuration:3 Energy:79.718489233856 Reward:1.4441232595142708 Raw:28.55587674048573 Time:32502 TotalReward:646.6605935157039
+ETask 69-9: Configuration:4 Energy:90.438963444984 Reward:-2.3960466071584534 Raw:32.39604660715845 Time:32537 TotalReward:737.0995569606879
+ETask 70-10: Configuration:4 Energy:89.082659259132 Reward:-1.9102063017786222 Raw:31.910206301778622 Time:32505 TotalReward:826.1822162198199
+ETask 71-11: Configuration:1 Energy:78.246688651164 Reward:1.9713354085382662 Raw:28.028664591461734 Time:32535 TotalReward:904.428904870984
+ETask 72-12: Configuration:1 Energy:79.56273078324999 Reward:1.4999173313731333 Raw:28.500082668626867 Time:32503 TotalReward:983.991635654234
+ETask 73-13: Configuration:1 Energy:91.78735034982799 Reward:-2.8790508715801693 Raw:32.87905087158017 Time:32503 TotalReward:1075.778986004062
+ETask 74-14: Configuration:3 Energy:92.75173747557199 Reward:-3.2245029763242883 Raw:33.22450297632429 Time:32542 TotalReward:1168.5307234796342
+ETask 75-15: Configuration:3 Energy:78.70325652321601 Reward:1.8077887081017252 Raw:28.192211291898275 Time:32503 TotalReward:1247.23398000285
+STOKE: 0 convergence rate 0.13
+STOKE: 1 convergence rate 0.33
+STOKE: 2 convergence rate 0.13
+STOKE: 3 convergence rate 0.27
+STOKE: 4 convergence rate 0.13
+STOKE: minQ:0.12 minInd:2
+STOKE: minId:2
+ETask 76-16: Configuration:2 Energy:79.2864076266 Reward:1.598898760620898 Raw:28.401101239379102 Time:32542 TotalReward:1326.5203876294502
+STOKE: 0 convergence rate 0.12
+STOKE: 1 convergence rate 0.31
+STOKE: 2 convergence rate 0.19
+STOKE: 3 convergence rate 0.25
+STOKE: 4 convergence rate 0.12
+STOKE: minQ:0.50 minInd:3
+STOKE: minId:3
+ETask 77-17: Configuration:3 Energy:78.450415780016 Reward:1.898358526561431 Raw:28.10164147343857 Time:32540 TotalReward:1404.9708034094663
+STOKE: 0 convergence rate 0.12
+STOKE: 1 convergence rate 0.29
+STOKE: 2 convergence rate 0.18
+STOKE: 3 convergence rate 0.29
+STOKE: 4 convergence rate 0.12
+STOKE: minQ:0.57 minInd:1
+STOKE: minId:1
+ETask 78-18: Configuration:1 Energy:82.21731027752 Reward:0.5490231841719435 Raw:29.450976815828056 Time:32535 TotalReward:1487.1881136869863
+STOKE: 0 convergence rate 0.11
+STOKE: 1 convergence rate 0.33
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.28
+STOKE: 4 convergence rate 0.11
+STOKE: minQ:0.57 minInd:1
+STOKE: minId:1
+ETask 79-19: Configuration:1 Energy:78.17691296830799 Reward:1.9963296829941513 Raw:28.00367031700585 Time:32504 TotalReward:1565.3650266552943
+STOKE: 0 convergence rate 0.11
+STOKE: 1 convergence rate 0.37
+STOKE: 2 convergence rate 0.16
+STOKE: 3 convergence rate 0.26
+STOKE: 4 convergence rate 0.11
+STOKE: minQ:0.61 minInd:2
+STOKE: minId:2
+ETask 80-20: Configuration:2 Energy:77.70542655680998 Reward:2.165220337859111 Raw:27.83477966214089 Time:32536 TotalReward:1643.0704532121042
+STOKE: 0 convergence rate 0.10
+STOKE: 1 convergence rate 0.35
+STOKE: 2 convergence rate 0.20
+STOKE: 3 convergence rate 0.25
+STOKE: 4 convergence rate 0.10
+STOKE: minQ:0.77 minInd:1
+STOKE: minId:1
+ETask 81-21: Configuration:1 Energy:89.251687019826 Reward:-1.9707535593406575 Raw:31.970753559340658 Time:32551 TotalReward:1732.3221402319302
+STOKE: 0 convergence rate 0.10
+STOKE: 1 convergence rate 0.38
+STOKE: 2 convergence rate 0.19
+STOKE: 3 convergence rate 0.24
+STOKE: 4 convergence rate 0.10
+STOKE: minQ:0.43 minInd:1
+STOKE: minId:1
+ETask 82-22: Configuration:1 Energy:80.40901787899199 Reward:1.1967697149879442 Raw:28.803230285012056 Time:32505 TotalReward:1812.7311581109223
+STOKE: 0 convergence rate 0.09
+STOKE: 1 convergence rate 0.41
+STOKE: 2 convergence rate 0.18
+STOKE: 3 convergence rate 0.23
+STOKE: 4 convergence rate 0.09
+STOKE: minQ:0.51 minInd:1
+STOKE: minId:1
+ETask 83-23: Configuration:1 Energy:82.531053050472 Reward:0.4366377132637602 Raw:29.56336228673624 Time:32504 TotalReward:1895.2622111613941
+STOKE: 0 convergence rate 0.09
+STOKE: 1 convergence rate 0.43
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.22
+STOKE: 4 convergence rate 0.09
+STOKE: minQ:0.51 minInd:1
+STOKE: minId:1
+ETask 84-24: Configuration:1 Energy:77.847847054848 Reward:2.1142040400544495 Raw:27.88579595994555 Time:32504 TotalReward:1973.1100582162421
+STOKE: 0 convergence rate 0.08
+STOKE: 1 convergence rate 0.46
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.21
+STOKE: 4 convergence rate 0.08
+STOKE: minQ:0.65 minInd:1
+STOKE: minId:1
+ETask 85-25: Configuration:1 Energy:76.40714667458 Reward:2.6302758180608947 Raw:27.369724181939105 Time:32503 TotalReward:2049.517204890822
+STOKE: 0 convergence rate 0.08
+STOKE: 1 convergence rate 0.48
+STOKE: 2 convergence rate 0.16
+STOKE: 3 convergence rate 0.20
+STOKE: 4 convergence rate 0.08
+STOKE: minQ:0.78 minInd:3
+STOKE: minId:3
+ETask 86-26: Configuration:3 Energy:86.37428628022 Reward:-0.9400428466459658 Raw:30.940042846645966 Time:32548 TotalReward:2135.891491171042
+STOKE: 0 convergence rate 0.08
+STOKE: 1 convergence rate 0.46
+STOKE: 2 convergence rate 0.15
+STOKE: 3 convergence rate 0.23
+STOKE: 4 convergence rate 0.08
+STOKE: minQ:0.49 minInd:3
+STOKE: minId:3
+ETask 87-27: Configuration:3 Energy:87.21903999393001 Reward:-1.242641191855526 Raw:31.242641191855526 Time:32503 TotalReward:2223.110531164972
+STOKE: 0 convergence rate 0.07
+STOKE: 1 convergence rate 0.44
+STOKE: 2 convergence rate 0.15
+STOKE: 3 convergence rate 0.26
+STOKE: 4 convergence rate 0.07
+STOKE: minQ:0.24 minInd:3
+STOKE: minId:3
+ETask 88-28: Configuration:3 Energy:82.37058438534 Reward:0.49411902614686554 Raw:29.505880973853134 Time:32504 TotalReward:2305.481115550312
+STOKE: 0 convergence rate 0.07
+STOKE: 1 convergence rate 0.43
+STOKE: 2 convergence rate 0.14
+STOKE: 3 convergence rate 0.29
+STOKE: 4 convergence rate 0.07
+STOKE: minQ:0.28 minInd:3
+STOKE: minId:3
+ETask 89-29: Configuration:3 Energy:78.65518629185 Reward:1.8250078954567108 Raw:28.17499210454329 Time:32504 TotalReward:2384.136301842162
+STOKE: 0 convergence rate 0.07
+STOKE: 1 convergence rate 0.41
+STOKE: 2 convergence rate 0.14
+STOKE: 3 convergence rate 0.31
+STOKE: 4 convergence rate 0.07
+STOKE: minQ:0.45 minInd:3
+STOKE: minId:3
+ETask 90-30: Configuration:2 Energy:89.07246854651001 Reward:-1.9065558972573236 Raw:31.906555897257324 Time:32539 TotalReward:2473.2087703886723
+STOKE: 0 convergence rate 0.07
+STOKE: 1 convergence rate 0.40
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.30
+STOKE: 4 convergence rate 0.07
+STOKE: minQ:0.42 minInd:2
+STOKE: minId:2
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.42
+ETask 91-31: Configuration:2 Energy:105.38465474013002 Reward:-7.749727071091343 Raw:37.74972707109134 Time:32504 TotalReward:2578.593425128802
+STOKE: 0 convergence rate 0.06
+STOKE: 1 convergence rate 0.39
+STOKE: 2 convergence rate 0.19
+STOKE: 3 convergence rate 0.29
+STOKE: 4 convergence rate 0.06
+STOKE: minQ:0.45 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.45
+ETask 92-32: Configuration:3 Energy:90.11104971008 Reward:-2.278584970774922 Raw:32.27858497077492 Time:32547 TotalReward:2668.704474838882
+STOKE: 0 convergence rate 0.06
+STOKE: 1 convergence rate 0.38
+STOKE: 2 convergence rate 0.19
+STOKE: 3 convergence rate 0.31
+STOKE: 4 convergence rate 0.06
+STOKE: minQ:0.17 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.17
+ETask 93-33: Configuration:3 Energy:86.69891459796 Reward:-1.0563276171797007 Raw:31.0563276171797 Time:32504 TotalReward:2755.403389436842
+STOKE: 0 convergence rate 0.06
+STOKE: 1 convergence rate 0.36
+STOKE: 2 convergence rate 0.18
+STOKE: 3 convergence rate 0.33
+STOKE: 4 convergence rate 0.06
+STOKE: minQ:0.06 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.06
+ETask 94-34: Configuration:3 Energy:74.819495632752 Reward:3.1989866390142083 Raw:26.80101336098579 Time:32505 TotalReward:2830.222885069594
+STOKE: 0 convergence rate 0.06
+STOKE: 1 convergence rate 0.35
+STOKE: 2 convergence rate 0.18
+STOKE: 3 convergence rate 0.35
+STOKE: 4 convergence rate 0.06
+STOKE: minQ:0.32 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.32
+ETask 95-35: Configuration:3 Energy:76.03074700182002 Reward:2.76510555158686 Raw:27.23489444841314 Time:32503 TotalReward:2906.2536320714144
+STOKE: 0 convergence rate 0.06
+STOKE: 1 convergence rate 0.34
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.37
+STOKE: 4 convergence rate 0.06
+STOKE: minQ:0.51 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.51
+ETask 96-36: Configuration:3 Energy:81.22562365238998 Reward:0.9042542140692582 Raw:29.095745785930742 Time:32505 TotalReward:2987.4792557238043
+STOKE: 0 convergence rate 0.06
+STOKE: 1 convergence rate 0.33
+STOKE: 2 convergence rate 0.17
+STOKE: 3 convergence rate 0.39
+STOKE: 4 convergence rate 0.06
+STOKE: minQ:0.54 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.54
+ETask 97-37: Configuration:3 Energy:74.252026123884 Reward:3.402259298907232 Raw:26.597740701092768 Time:32504 TotalReward:3061.7312818476885
+STOKE: 0 convergence rate 0.05
+STOKE: 1 convergence rate 0.32
+STOKE: 2 convergence rate 0.16
+STOKE: 3 convergence rate 0.41
+STOKE: 4 convergence rate 0.05
+STOKE: minQ:0.73 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.73
+ETask 98-38: Configuration:3 Energy:87.9224974563 Reward:-1.4946259544955183 Raw:31.49462595449552 Time:32503 TotalReward:3149.6537793039884
+STOKE: 0 convergence rate 0.05
+STOKE: 1 convergence rate 0.32
+STOKE: 2 convergence rate 0.16
+STOKE: 3 convergence rate 0.42
+STOKE: 4 convergence rate 0.05
+STOKE: minQ:0.59 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.59
+ETask 99-39: Configuration:3 Energy:73.506456782502 Reward:3.669328913730631 Raw:26.33067108626937 Time:32501 TotalReward:3223.1602360864904
+STOKE: 0 convergence rate 0.05
+STOKE: 1 convergence rate 0.31
+STOKE: 2 convergence rate 0.15
+STOKE: 3 convergence rate 0.44
+STOKE: 4 convergence rate 0.05
+STOKE: minQ:0.77 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.77
+ETask 100-40: Configuration:3 Energy:74.09062924278399 Reward:3.460073107062449 Raw:26.53992689293755 Time:32503 TotalReward:3297.2508653292743
+STOKE: 0 convergence rate 0.05
+STOKE: 1 convergence rate 0.30
+STOKE: 2 convergence rate 0.15
+STOKE: 3 convergence rate 0.45
+STOKE: 4 convergence rate 0.05
+STOKE: minQ:0.82 minInd:1
+STOKE: minId:1
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.82
+ETask 101-41: Configuration:1 Energy:80.56277255774 Reward:1.1416934121528328 Raw:28.858306587847167 Time:32533 TotalReward:3377.8136378870145
+STOKE: 0 convergence rate 0.05
+STOKE: 1 convergence rate 0.32
+STOKE: 2 convergence rate 0.15
+STOKE: 3 convergence rate 0.44
+STOKE: 4 convergence rate 0.05
+STOKE: minQ:0.84 minInd:1
+STOKE: minId:1
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.84
+ETask 102-42: Configuration:1 Energy:80.01528978291199 Reward:1.3378066449270527 Raw:28.662193355072947 Time:32508 TotalReward:3457.8289276699265
+STOKE: 0 convergence rate 0.05
+STOKE: 1 convergence rate 0.33
+STOKE: 2 convergence rate 0.14
+STOKE: 3 convergence rate 0.43
+STOKE: 4 convergence rate 0.05
+STOKE: minQ:0.88 minInd:1
+STOKE: minId:1
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.88
+ETask 103-43: Configuration:1 Energy:77.866238150912 Reward:2.1076161847479398 Raw:27.89238381525206 Time:32503 TotalReward:3535.6951658208386
+STOKE: 0 convergence rate 0.05
+STOKE: 1 convergence rate 0.35
+STOKE: 2 convergence rate 0.14
+STOKE: 3 convergence rate 0.42
+STOKE: 4 convergence rate 0.05
+STOKE: minQ:0.92 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.92
+ETask 104-44: Configuration:3 Energy:82.404174230784 Reward:0.48208684270423774 Raw:29.517913157295762 Time:32538 TotalReward:3618.0993400516227
+STOKE: 0 convergence rate 0.05
+STOKE: 1 convergence rate 0.34
+STOKE: 2 convergence rate 0.14
+STOKE: 3 convergence rate 0.43
+STOKE: 4 convergence rate 0.05
+STOKE: minQ:0.90 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.90
+ETask 105-45: Configuration:3 Energy:106.96999352319999 Reward:-8.31760962025075 Raw:38.31760962025075 Time:32503 TotalReward:3725.069333574823
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.33
+STOKE: 2 convergence rate 0.13
+STOKE: 3 convergence rate 0.44
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.44 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.44
+ETask 106-46: Configuration:3 Energy:82.59447980159997 Reward:0.41391768300896814 Raw:29.586082316991032 Time:32503 TotalReward:3807.6638133764227
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.33
+STOKE: 2 convergence rate 0.13
+STOKE: 3 convergence rate 0.46
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.44 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.44
+ETask 107-47: Configuration:3 Energy:81.24316898544001 Reward:0.8979693186483537 Raw:29.102030681351646 Time:32547 TotalReward:3888.906982361863
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.32
+STOKE: 2 convergence rate 0.13
+STOKE: 3 convergence rate 0.47
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.46 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.46
+ETask 108-48: Configuration:3 Energy:77.23148373864 Reward:2.334990899591638 Raw:27.665009100408362 Time:32503 TotalReward:3966.1384661005027
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.31
+STOKE: 2 convergence rate 0.12
+STOKE: 3 convergence rate 0.48
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.54 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.54
+ETask 109-49: Configuration:3 Energy:102.38917320482399 Reward:-6.6767187599369535 Raw:36.67671875993695 Time:32503 TotalReward:4068.527639305327
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.31
+STOKE: 2 convergence rate 0.12
+STOKE: 3 convergence rate 0.49
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.24 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.24
+ETask 110-50: Configuration:3 Energy:111.82335507723599 Reward:-10.056127191845725 Raw:40.056127191845725 Time:32505 TotalReward:4180.350994382563
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.30
+STOKE: 2 convergence rate 0.12
+STOKE: 3 convergence rate 0.50
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.17 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.17
+ETask 111-51: Configuration:3 Energy:96.63345238503 Reward:-4.614968018518212 Raw:34.61496801851821 Time:32503 TotalReward:4276.984446767593
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.29
+STOKE: 2 convergence rate 0.12
+STOKE: 3 convergence rate 0.51
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.34 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.34
+ETask 112-52: Configuration:3 Energy:82.092136046184 Reward:0.5938617147997682 Raw:29.40613828520023 Time:32503 TotalReward:4359.076582813777
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.29
+STOKE: 2 convergence rate 0.12
+STOKE: 3 convergence rate 0.52
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.31 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.31
+ETask 113-53: Configuration:3 Energy:81.40588334018999 Reward:0.8396835796334372 Raw:29.160316420366563 Time:32505 TotalReward:4440.482466153967
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.28
+STOKE: 2 convergence rate 0.11
+STOKE: 3 convergence rate 0.53
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.27 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.27
+ETask 114-54: Configuration:3 Energy:95.48842277707197 Reward:-4.20480815895116 Raw:34.20480815895116 Time:32502 TotalReward:4535.970888931039
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.28
+STOKE: 2 convergence rate 0.11
+STOKE: 3 convergence rate 0.54
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.40 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.40
+ETask 115-55: Configuration:3 Energy:80.317764809568 Reward:1.2294573816472827 Raw:28.770542618352717 Time:32502 TotalReward:4616.288653740607
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.27
+STOKE: 2 convergence rate 0.11
+STOKE: 3 convergence rate 0.55
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.35 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.35
+ETask 116-56: Configuration:3 Energy:91.02694428209699 Reward:-2.6066666085123558 Raw:32.606666608512356 Time:32503 TotalReward:4707.315598022704
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.27
+STOKE: 2 convergence rate 0.11
+STOKE: 3 convergence rate 0.55
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.42 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.42
+ETask 117-57: Configuration:3 Energy:81.42696989063101 Reward:0.8321301884306855 Raw:29.167869811569314 Time:32502 TotalReward:4788.742567913335
+STOKE: 0 convergence rate 0.04
+STOKE: 1 convergence rate 0.26
+STOKE: 2 convergence rate 0.11
+STOKE: 3 convergence rate 0.56
+STOKE: 4 convergence rate 0.04
+STOKE: minQ:0.38 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.38
+ETask 118-58: Configuration:3 Energy:91.22505747315302 Reward:-2.677632527696602 Raw:32.6776325276966 Time:32504 TotalReward:4879.967625386488
+STOKE: 0 convergence rate 0.03
+STOKE: 1 convergence rate 0.26
+STOKE: 2 convergence rate 0.10
+STOKE: 3 convergence rate 0.57
+STOKE: 4 convergence rate 0.03
+STOKE: minQ:0.45 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.45
+ETask 119-59: Configuration:3 Energy:86.704148570298 Reward:-1.0582024729425683 Raw:31.05820247294257 Time:32502 TotalReward:4966.671773956787
+STOKE: 0 convergence rate 0.03
+STOKE: 1 convergence rate 0.25
+STOKE: 2 convergence rate 0.10
+STOKE: 3 convergence rate 0.58
+STOKE: 4 convergence rate 0.03
+STOKE: minQ:0.47 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.47
+ETask 120-60: Configuration:3 Energy:79.34305794152499 Reward:1.5786061104985123 Raw:28.421393889501488 Time:32504 TotalReward:5046.014831898312
+STOKE: 0 convergence rate 0.03
+STOKE: 1 convergence rate 0.25
+STOKE: 2 convergence rate 0.10
+STOKE: 3 convergence rate 0.58
+STOKE: 4 convergence rate 0.03
+STOKE: minQ:0.41 minInd:3
+STOKE: minId:3
+STOKE: shouldConverge:false tickUp:true
+STOKE: At threshold 0.41
+ETask 121-61: Configuration:3 Energy:90.68100196797599 Reward:-2.4827469736033407 Raw:32.48274697360334 Time:32505 TotalReward:5136.695833866288
+Hit safety!
+ERun: Time:3937725
+==END-RUN 0==
+STOKE: Config: 0 - Knobs: {interval:1562 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 reward:1.2279
+STOKE: Config: 1 - Knobs: {interval:1281 priority:100 sensor-configuration:1 batch:1 }  | -- on:15 reward:0.9589
+STOKE: Config: 2 - Knobs: {interval:1186 priority:100 sensor-configuration:1 batch:1 }  | -- on:6 reward:-0.9411
+STOKE: Config: 3 - Knobs: {interval:1093 priority:100 sensor-configuration:1 batch:1 }  | -- on:36 reward:-0.4694
+STOKE: Config: 4 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:22 reward:-1.9706
+==ROUND-END==

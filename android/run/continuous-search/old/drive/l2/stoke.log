@@ -1,0 +1,1156 @@
+==RUN 0==
+Bandit Runs:1 Tasks-in-Run:20
+Self-Optimizer Rounds:0 Tasks-in-Round:0
+Continuous Knob Rounds:Inf Tasks-in-Round:0
+STOKE: Start Bat: 1.000000
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+ELocation 0: Accuracy:28.00
+ELocation 1: Accuracy:28.00
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+ELocation 2: Accuracy:28.00
+ELocation 3: Accuracy:28.00
+ELocation 4: Accuracy:28.00
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+ELocation 5: Accuracy:16.00
+ELocation 6: Accuracy:16.00
+ELocation 7: Accuracy:16.00
+MAPSME_GPS_RATE: 10000
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+ELocation 8: Accuracy:28.00
+ELocation 9: Accuracy:28.00
+ELocation 10: Accuracy:14.00
+ELocation 11: Accuracy:7.00
+ELocation 12: Accuracy:92.90
+ELocation 13: Accuracy:16.00
+ELocation 14: Accuracy:12.00
+ELocation 15: Accuracy:10.00
+ELocation 16: Accuracy:7.00
+ELocation 17: Accuracy:9.00
+ELocation 18: Accuracy:9.00
+ELocation 19: Accuracy:8.00
+ELocation 20: Accuracy:8.00
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:56.7211193612 Time:32522 TotalReward:56.7211193612
+ELocation 21: Accuracy:8.00
+ELocation 22: Accuracy:8.00
+ELocation 23: Accuracy:5.00
+ELocation 24: Accuracy:4.00
+ELocation 25: Accuracy:5.00
+ELocation 26: Accuracy:4.00
+ELocation 27: Accuracy:3.90
+ETask 2: Configuration:1 Energy:0.0 Power:0.0 Reward:107.02519470027 Time:32613 TotalReward:163.74631406147
+ELocation 28: Accuracy:3.90
+ELocation 29: Accuracy:4.00
+ELocation 30: Accuracy:3.90
+ELocation 31: Accuracy:3.90
+ELocation 32: Accuracy:3.90
+ELocation 33: Accuracy:3.90
+ELocation 34: Accuracy:3.90
+ELocation 35: Accuracy:3.90
+ELocation 36: Accuracy:3.90
+ELocation 37: Accuracy:3.90
+ELocation 38: Accuracy:3.90
+ELocation 39: Accuracy:3.90
+ELocation 40: Accuracy:3.90
+ELocation 41: Accuracy:3.90
+ELocation 42: Accuracy:3.90
+ELocation 43: Accuracy:3.90
+ELocation 44: Accuracy:3.90
+ELocation 45: Accuracy:3.90
+ELocation 46: Accuracy:3.90
+ELocation 47: Accuracy:3.90
+ELocation 48: Accuracy:3.90
+ELocation 49: Accuracy:3.90
+ELocation 50: Accuracy:3.90
+ELocation 51: Accuracy:3.90
+ELocation 52: Accuracy:3.90
+ETask 3: Configuration:2 Energy:0.0 Power:0.0 Reward:92.69284569785599 Time:32567 TotalReward:256.439159759326
+ELocation 53: Accuracy:3.90
+ELocation 54: Accuracy:3.90
+ELocation 55: Accuracy:3.90
+ELocation 56: Accuracy:3.90
+ELocation 57: Accuracy:3.90
+ELocation 58: Accuracy:3.90
+ELocation 59: Accuracy:3.90
+ELocation 60: Accuracy:3.90
+ELocation 61: Accuracy:3.90
+ELocation 62: Accuracy:3.90
+ELocation 63: Accuracy:3.90
+ELocation 64: Accuracy:3.90
+ELocation 65: Accuracy:3.90
+ELocation 66: Accuracy:3.90
+ELocation 67: Accuracy:3.90
+ELocation 68: Accuracy:3.90
+ELocation 69: Accuracy:3.90
+ELocation 70: Accuracy:3.90
+ELocation 71: Accuracy:3.90
+ELocation 72: Accuracy:3.90
+ELocation 73: Accuracy:3.90
+ELocation 74: Accuracy:3.90
+ETask 4: Configuration:2 Energy:0.0 Power:0.0 Reward:88.741517298555 Time:32505 TotalReward:345.180677057881
+ELocation 75: Accuracy:3.90
+ELocation 76: Accuracy:3.90
+ELocation 77: Accuracy:3.90
+ELocation 78: Accuracy:3.90
+ELocation 79: Accuracy:3.90
+ELocation 80: Accuracy:3.90
+ELocation 81: Accuracy:3.90
+ELocation 82: Accuracy:3.90
+ELocation 83: Accuracy:3.90
+ELocation 84: Accuracy:3.90
+ELocation 85: Accuracy:3.90
+ELocation 86: Accuracy:3.90
+ELocation 87: Accuracy:3.90
+ELocation 88: Accuracy:3.90
+ELocation 89: Accuracy:3.90
+ELocation 90: Accuracy:3.90
+ELocation 91: Accuracy:3.90
+ELocation 92: Accuracy:3.90
+ELocation 93: Accuracy:3.90
+ELocation 94: Accuracy:3.90
+ELocation 95: Accuracy:3.90
+ELocation 96: Accuracy:3.90
+ELocation 97: Accuracy:3.90
+ELocation 98: Accuracy:3.90
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:76.29828289677002 Time:32505 TotalReward:421.47895995465103
+ELocation 99: Accuracy:3.90
+ELocation 100: Accuracy:3.90
+ELocation 101: Accuracy:3.90
+ELocation 102: Accuracy:4.00
+ELocation 103: Accuracy:4.00
+ELocation 104: Accuracy:4.00
+ETask 6: Configuration:1 Energy:0.0 Power:0.0 Reward:39.28823473428 Time:32534 TotalReward:460.76719468893106
+ELocation 105: Accuracy:4.00
+ELocation 106: Accuracy:4.00
+ELocation 107: Accuracy:3.90
+ELocation 108: Accuracy:3.90
+ELocation 109: Accuracy:3.90
+ELocation 110: Accuracy:3.90
+ELocation 111: Accuracy:3.90
+ELocation 112: Accuracy:3.90
+ELocation 113: Accuracy:3.90
+ELocation 114: Accuracy:3.90
+ELocation 115: Accuracy:3.90
+ELocation 116: Accuracy:3.90
+ELocation 117: Accuracy:3.90
+ELocation 118: Accuracy:3.90
+ELocation 119: Accuracy:3.90
+ELocation 120: Accuracy:3.90
+ELocation 121: Accuracy:3.90
+ELocation 122: Accuracy:3.90
+ELocation 123: Accuracy:3.90
+ELocation 124: Accuracy:3.90
+ELocation 125: Accuracy:3.90
+ELocation 126: Accuracy:3.90
+ELocation 127: Accuracy:3.90
+ELocation 128: Accuracy:3.90
+ELocation 129: Accuracy:3.90
+ETask 7: Configuration:2 Energy:0.0 Power:0.0 Reward:148.65894788017204 Time:32524 TotalReward:609.4261425691031
+ELocation 130: Accuracy:3.90
+ELocation 131: Accuracy:3.90
+ELocation 132: Accuracy:5.00
+ELocation 133: Accuracy:6.00
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:32.78954552961 Time:32542 TotalReward:642.2156880987131
+ELocation 134: Accuracy:6.00
+ELocation 135: Accuracy:9.00
+ELocation 136: Accuracy:4.00
+ELocation 137: Accuracy:5.00
+ELocation 138: Accuracy:4.00
+ELocation 139: Accuracy:5.00
+ETask 9: Configuration:1 Energy:0.0 Power:0.0 Reward:37.076844192009005 Time:32533 TotalReward:679.2925322907222
+ELocation 140: Accuracy:5.00
+ELocation 141: Accuracy:5.00
+ELocation 142: Accuracy:5.00
+ELocation 143: Accuracy:4.00
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:35.321097717399006 Time:32533 TotalReward:714.6136300081212
+ELocation 144: Accuracy:6.00
+ELocation 145: Accuracy:7.00
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:42.891751667128 Time:32519 TotalReward:757.5053816752492
+ELocation 146: Accuracy:8.00
+ELocation 147: Accuracy:6.00
+ELocation 148: Accuracy:3.90
+ELocation 149: Accuracy:4.00
+ELocation 150: Accuracy:6.00
+ELocation 151: Accuracy:4.00
+ETask 12: Configuration:1 Energy:0.0 Power:0.0 Reward:36.765019258967996 Time:32538 TotalReward:794.2704009342172
+ELocation 152: Accuracy:4.00
+ELocation 153: Accuracy:4.00
+ELocation 154: Accuracy:7.00
+ELocation 155: Accuracy:7.00
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:34.03406625346 Time:32530 TotalReward:828.3044671876771
+ELocation 156: Accuracy:7.00
+ELocation 157: Accuracy:7.00
+ELocation 158: Accuracy:8.00
+ELocation 159: Accuracy:7.00
+ELocation 160: Accuracy:6.00
+ELocation 161: Accuracy:8.00
+ETask 14: Configuration:1 Energy:0.0 Power:0.0 Reward:37.14816686963199 Time:32546 TotalReward:865.4526340573091
+ELocation 162: Accuracy:6.00
+ELocation 163: Accuracy:6.00
+ELocation 164: Accuracy:7.00
+ETask 15: Configuration:0 Energy:0.0 Power:0.0 Reward:34.443032099111996 Time:32563 TotalReward:899.895666156421
+ELocation 165: Accuracy:7.00
+ELocation 166: Accuracy:7.00
+ELocation 167: Accuracy:8.00
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:79.823386485024 Time:32511 TotalReward:979.719052641445
+ELocation 168: Accuracy:77.60
+ELocation 169: Accuracy:5.00
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:35.03712819006399 Time:32516 TotalReward:1014.756180831509
+ELocation 170: Accuracy:5.00
+ELocation 171: Accuracy:11.00
+ELocation 172: Accuracy:7.00
+ELocation 173: Accuracy:5.00
+ELocation 174: Accuracy:4.00
+ELocation 175: Accuracy:3.90
+ELocation 176: Accuracy:3.90
+ELocation 177: Accuracy:3.90
+ELocation 178: Accuracy:3.90
+ELocation 179: Accuracy:3.90
+ELocation 180: Accuracy:3.90
+ELocation 181: Accuracy:3.90
+ELocation 182: Accuracy:3.90
+ELocation 183: Accuracy:3.90
+ELocation 184: Accuracy:3.90
+ELocation 185: Accuracy:3.90
+ELocation 186: Accuracy:3.90
+ELocation 187: Accuracy:3.90
+ELocation 188: Accuracy:3.90
+ELocation 189: Accuracy:3.90
+ELocation 190: Accuracy:3.90
+ELocation 191: Accuracy:3.90
+ELocation 192: Accuracy:3.90
+ELocation 193: Accuracy:3.90
+ELocation 194: Accuracy:3.90
+ELocation 195: Accuracy:3.90
+ETask 18: Configuration:2 Energy:0.0 Power:0.0 Reward:88.04389673151799 Time:32533 TotalReward:1102.8000775630271
+ELocation 196: Accuracy:3.90
+ELocation 197: Accuracy:3.90
+ELocation 198: Accuracy:5.00
+ELocation 199: Accuracy:4.00
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:77.22826304284 Time:32555 TotalReward:1180.028340605867
+ELocation 200: Accuracy:3.90
+ELocation 201: Accuracy:4.00
+ETask 20: Configuration:0 Energy:0.0 Power:0.0 Reward:36.01983248682 Time:32522 TotalReward:1216.048173092687
+ELocation 202: Accuracy:3.90
+ELocation 203: Accuracy:3.90
+ELocation 204: Accuracy:3.90
+ELocation 205: Accuracy:3.90
+ELocation 206: Accuracy:3.90
+ELocation 207: Accuracy:4.00
+ETask 21: Configuration:1 Energy:0.0 Power:0.0 Reward:38.083710166684 Time:32546 TotalReward:1254.131883259371
+ELocation 208: Accuracy:4.00
+ELocation 209: Accuracy:4.00
+ELocation 210: Accuracy:6.00
+ELocation 211: Accuracy:82.50
+ETask 22: Configuration:0 Energy:0.0 Power:0.0 Reward:38.528965828782006 Time:32539 TotalReward:1292.660849088153
+ELocation 212: Accuracy:127.98
+ELocation 213: Accuracy:7.00
+ELocation 214: Accuracy:7.00
+ETask 23: Configuration:0 Energy:0.0 Power:0.0 Reward:37.045085964544 Time:32512 TotalReward:1329.705935052697
+ELocation 215: Accuracy:6.00
+ELocation 216: Accuracy:214.36
+ETask 24: Configuration:0 Energy:0.0 Power:0.0 Reward:38.678965029116995 Time:32517 TotalReward:1368.384900081814
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:13 joules:44.50 reward:0.72
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:1 batch:1 }  | -- on:6 joules:49.23 reward:0.69
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:5 joules:98.89 reward:0.38
+STOKE: Config: 0 - Knobs: {interval:10000 priority:100 sensor-configuration:1 batch:1 }  | -- on:13 joules:44.50 reward:0.72
+STOKE: Config: 1 - Knobs: {interval:5000 priority:100 sensor-configuration:1 batch:1 }  | -- on:6 joules:49.23 reward:0.69
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:5 joules:98.89 reward:0.38
+STOKE: Config: 0 - Knobs: {interval:5000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+ELocation 217: Accuracy:5.00
+ELocation 218: Accuracy:8.00
+ELocation 219: Accuracy:4.00
+ELocation 220: Accuracy:3.90
+ELocation 221: Accuracy:4.00
+ELocation 222: Accuracy:3.90
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:65.742784031533 Time:32533 TotalReward:65.742784031533
+ELocation 223: Accuracy:3.90
+ELocation 224: Accuracy:3.90
+ELocation 225: Accuracy:3.00
+ELocation 226: Accuracy:3.90
+ELocation 227: Accuracy:3.90
+ELocation 228: Accuracy:3.90
+ELocation 229: Accuracy:3.90
+ELocation 230: Accuracy:3.90
+ETask 2: Configuration:1 Energy:0.0 Power:0.0 Reward:75.55838299795799 Time:32542 TotalReward:141.301167029491
+ELocation 231: Accuracy:3.90
+ELocation 232: Accuracy:3.90
+ELocation 233: Accuracy:3.90
+ELocation 234: Accuracy:3.90
+ELocation 235: Accuracy:3.90
+ELocation 236: Accuracy:3.90
+ELocation 237: Accuracy:3.90
+ELocation 238: Accuracy:3.90
+ELocation 239: Accuracy:3.90
+ELocation 240: Accuracy:3.90
+ELocation 241: Accuracy:3.90
+ELocation 242: Accuracy:3.90
+ELocation 243: Accuracy:3.90
+ELocation 244: Accuracy:3.90
+ELocation 245: Accuracy:3.90
+ELocation 246: Accuracy:3.90
+ELocation 247: Accuracy:3.90
+ELocation 248: Accuracy:3.90
+ELocation 249: Accuracy:3.90
+ELocation 250: Accuracy:3.90
+ELocation 251: Accuracy:3.90
+ELocation 252: Accuracy:3.90
+ELocation 253: Accuracy:3.90
+ELocation 254: Accuracy:3.90
+ETask 3: Configuration:2 Energy:0.0 Power:0.0 Reward:80.166435374004 Time:32547 TotalReward:221.467602403495
+ELocation 255: Accuracy:3.90
+ELocation 256: Accuracy:3.90
+ELocation 257: Accuracy:3.90
+ELocation 258: Accuracy:3.90
+ELocation 259: Accuracy:3.90
+ELocation 260: Accuracy:3.90
+ETask 4: Configuration:0 Energy:0.0 Power:0.0 Reward:49.770175752065995 Time:32549 TotalReward:271.237778155561
+ELocation 261: Accuracy:3.90
+ELocation 262: Accuracy:3.90
+ELocation 263: Accuracy:3.90
+ELocation 264: Accuracy:3.90
+ETask 5: Configuration:0 Energy:0.0 Power:0.0 Reward:81.418368153031 Time:32513 TotalReward:352.656146308592
+ELocation 265: Accuracy:3.90
+ELocation 266: Accuracy:3.90
+ELocation 267: Accuracy:3.90
+ELocation 268: Accuracy:3.90
+ELocation 269: Accuracy:3.90
+ETask 6: Configuration:0 Energy:0.0 Power:0.0 Reward:87.63260020922401 Time:32511 TotalReward:440.288746517816
+ELocation 270: Accuracy:3.90
+ELocation 271: Accuracy:3.90
+ELocation 272: Accuracy:5.00
+ELocation 273: Accuracy:5.00
+ETask 7: Configuration:0 Energy:0.0 Power:0.0 Reward:50.631927005184 Time:32512 TotalReward:490.920673523
+ELocation 274: Accuracy:5.00
+ELocation 275: Accuracy:4.00
+ELocation 276: Accuracy:3.90
+ELocation 277: Accuracy:3.90
+ELocation 278: Accuracy:3.90
+ELocation 279: Accuracy:3.90
+ELocation 280: Accuracy:3.90
+ELocation 281: Accuracy:3.90
+ELocation 282: Accuracy:3.90
+ELocation 283: Accuracy:3.90
+ELocation 284: Accuracy:3.90
+ELocation 285: Accuracy:3.90
+ELocation 286: Accuracy:3.90
+ELocation 287: Accuracy:3.90
+ELocation 288: Accuracy:3.90
+ELocation 289: Accuracy:3.90
+ELocation 290: Accuracy:3.90
+ELocation 291: Accuracy:3.90
+ELocation 292: Accuracy:3.90
+ELocation 293: Accuracy:3.90
+ELocation 294: Accuracy:3.90
+ELocation 295: Accuracy:3.90
+ETask 8: Configuration:2 Energy:0.0 Power:0.0 Reward:67.994664673244 Time:32537 TotalReward:558.915338196244
+ELocation 296: Accuracy:3.90
+ELocation 297: Accuracy:3.90
+ELocation 298: Accuracy:4.00
+ELocation 299: Accuracy:4.00
+ELocation 300: Accuracy:5.00
+ELocation 301: Accuracy:5.00
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:65.895820012201 Time:32561 TotalReward:624.811158208445
+ELocation 302: Accuracy:4.00
+ELocation 303: Accuracy:3.90
+ELocation 304: Accuracy:3.90
+ELocation 305: Accuracy:3.90
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:63.937883414883 Time:32511 TotalReward:688.749041623328
+ELocation 306: Accuracy:3.90
+ELocation 307: Accuracy:4.00
+ELocation 308: Accuracy:3.90
+ELocation 309: Accuracy:3.90
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:35.320400162519995 Time:32510 TotalReward:724.069441785848
+ELocation 310: Accuracy:3.90
+ELocation 311: Accuracy:3.90
+ELocation 312: Accuracy:3.90
+ELocation 313: Accuracy:3.90
+ELocation 314: Accuracy:3.90
+ELocation 315: Accuracy:3.90
+ELocation 316: Accuracy:3.90
+ELocation 317: Accuracy:3.90
+ELocation 318: Accuracy:3.90
+ELocation 319: Accuracy:3.90
+ELocation 320: Accuracy:3.90
+ELocation 321: Accuracy:3.90
+ELocation 322: Accuracy:3.90
+ELocation 323: Accuracy:3.90
+ELocation 324: Accuracy:3.90
+ELocation 325: Accuracy:3.90
+ELocation 326: Accuracy:3.90
+ELocation 327: Accuracy:3.90
+ELocation 328: Accuracy:3.90
+ELocation 329: Accuracy:3.90
+ELocation 330: Accuracy:3.90
+ELocation 331: Accuracy:3.90
+ELocation 332: Accuracy:3.90
+ELocation 333: Accuracy:3.90
+ELocation 334: Accuracy:3.90
+ETask 12: Configuration:2 Energy:0.0 Power:0.0 Reward:66.249860788822 Time:32542 TotalReward:790.31930257467
+ELocation 335: Accuracy:3.90
+ELocation 336: Accuracy:3.90
+ELocation 337: Accuracy:3.90
+ELocation 338: Accuracy:3.90
+ELocation 339: Accuracy:3.90
+ELocation 340: Accuracy:3.90
+ELocation 341: Accuracy:3.90
+ELocation 342: Accuracy:3.90
+ELocation 343: Accuracy:3.90
+ETask 13: Configuration:1 Energy:0.0 Power:0.0 Reward:75.85602004822 Time:32570 TotalReward:866.17532262289
+ELocation 344: Accuracy:3.90
+ELocation 345: Accuracy:3.90
+ELocation 346: Accuracy:3.90
+ELocation 347: Accuracy:3.90
+ELocation 348: Accuracy:3.90
+ELocation 349: Accuracy:3.90
+ELocation 350: Accuracy:3.90
+ELocation 351: Accuracy:3.90
+ELocation 352: Accuracy:3.90
+ELocation 353: Accuracy:3.90
+ELocation 354: Accuracy:3.90
+ELocation 355: Accuracy:3.90
+ELocation 356: Accuracy:3.90
+ELocation 357: Accuracy:3.90
+ELocation 358: Accuracy:3.90
+ELocation 359: Accuracy:3.90
+ELocation 360: Accuracy:3.90
+ELocation 361: Accuracy:3.90
+ELocation 362: Accuracy:3.90
+ELocation 363: Accuracy:3.90
+ELocation 364: Accuracy:3.90
+ELocation 365: Accuracy:3.90
+ELocation 366: Accuracy:3.90
+ETask 14: Configuration:2 Energy:0.0 Power:0.0 Reward:66.62969939742999 Time:32546 TotalReward:932.8050220203199
+ELocation 367: Accuracy:3.90
+ELocation 368: Accuracy:3.90
+ELocation 369: Accuracy:3.90
+ELocation 370: Accuracy:3.90
+ELocation 371: Accuracy:3.90
+ELocation 372: Accuracy:3.90
+ELocation 373: Accuracy:3.90
+ELocation 374: Accuracy:3.90
+ELocation 375: Accuracy:3.90
+ETask 15: Configuration:1 Energy:0.0 Power:0.0 Reward:69.636663451094 Time:32542 TotalReward:1002.441685471414
+ELocation 376: Accuracy:3.90
+ELocation 377: Accuracy:3.90
+ELocation 378: Accuracy:3.90
+ELocation 379: Accuracy:3.90
+ELocation 380: Accuracy:3.90
+ELocation 381: Accuracy:3.90
+ELocation 382: Accuracy:3.90
+ELocation 383: Accuracy:3.90
+ELocation 384: Accuracy:3.90
+ELocation 385: Accuracy:3.90
+ELocation 386: Accuracy:3.90
+ELocation 387: Accuracy:3.90
+ELocation 388: Accuracy:3.90
+ELocation 389: Accuracy:3.90
+ELocation 390: Accuracy:3.90
+ELocation 391: Accuracy:3.90
+ELocation 392: Accuracy:3.90
+ELocation 393: Accuracy:3.90
+ELocation 394: Accuracy:3.90
+ELocation 395: Accuracy:3.90
+ELocation 396: Accuracy:3.90
+ELocation 397: Accuracy:3.90
+ELocation 398: Accuracy:3.90
+ELocation 399: Accuracy:3.90
+ETask 16: Configuration:2 Energy:0.0 Power:0.0 Reward:67.96592262693099 Time:32543 TotalReward:1070.407608098345
+ELocation 400: Accuracy:3.90
+ELocation 401: Accuracy:3.90
+ELocation 402: Accuracy:3.90
+ELocation 403: Accuracy:3.90
+ELocation 404: Accuracy:3.90
+ELocation 405: Accuracy:3.90
+ELocation 406: Accuracy:3.90
+ELocation 407: Accuracy:3.90
+ELocation 408: Accuracy:3.90
+ELocation 409: Accuracy:3.90
+ELocation 410: Accuracy:3.90
+ELocation 411: Accuracy:3.90
+ELocation 412: Accuracy:3.90
+ELocation 413: Accuracy:3.90
+ELocation 414: Accuracy:3.90
+ELocation 415: Accuracy:3.90
+ELocation 416: Accuracy:3.90
+ELocation 417: Accuracy:3.90
+ELocation 418: Accuracy:3.90
+ELocation 419: Accuracy:3.90
+ELocation 420: Accuracy:3.90
+ELocation 421: Accuracy:3.90
+ELocation 422: Accuracy:3.90
+ETask 17: Configuration:2 Energy:0.0 Power:0.0 Reward:65.431431517032 Time:32509 TotalReward:1135.839039615377
+ELocation 423: Accuracy:3.90
+ELocation 424: Accuracy:3.90
+ELocation 425: Accuracy:3.90
+ELocation 426: Accuracy:3.90
+ELocation 427: Accuracy:4.00
+ELocation 428: Accuracy:3.90
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:37.829700466312005 Time:32548 TotalReward:1173.668740081689
+ELocation 429: Accuracy:3.90
+ELocation 430: Accuracy:3.90
+ELocation 431: Accuracy:3.90
+ELocation 432: Accuracy:3.90
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:43.42206154608 Time:32515 TotalReward:1217.090801627769
+ELocation 433: Accuracy:3.90
+ELocation 434: Accuracy:3.90
+ELocation 435: Accuracy:3.90
+ELocation 436: Accuracy:3.90
+ELocation 437: Accuracy:3.90
+ELocation 438: Accuracy:3.90
+ELocation 439: Accuracy:3.90
+ETask 20: Configuration:1 Energy:0.0 Power:0.0 Reward:37.080051997519995 Time:32540 TotalReward:1254.170853625289
+ELocation 440: Accuracy:3.90
+ELocation 441: Accuracy:3.90
+ELocation 442: Accuracy:3.90
+ELocation 443: Accuracy:3.90
+ELocation 444: Accuracy:3.90
+ELocation 445: Accuracy:3.90
+ELocation 446: Accuracy:3.90
+ELocation 447: Accuracy:3.90
+ELocation 448: Accuracy:3.90
+ELocation 449: Accuracy:3.90
+ELocation 450: Accuracy:3.90
+ELocation 451: Accuracy:3.90
+ELocation 452: Accuracy:3.90
+ELocation 453: Accuracy:3.90
+ELocation 454: Accuracy:3.90
+ELocation 455: Accuracy:3.90
+ELocation 456: Accuracy:3.90
+ELocation 457: Accuracy:3.90
+ELocation 458: Accuracy:3.90
+ELocation 459: Accuracy:3.90
+ELocation 460: Accuracy:3.90
+ELocation 461: Accuracy:3.90
+ELocation 462: Accuracy:3.90
+ETask 21: Configuration:2 Energy:0.0 Power:0.0 Reward:66.700885779934 Time:32543 TotalReward:1320.871739405223
+ELocation 463: Accuracy:3.90
+ELocation 464: Accuracy:3.90
+ELocation 465: Accuracy:3.90
+ELocation 466: Accuracy:3.90
+ELocation 467: Accuracy:3.90
+ELocation 468: Accuracy:3.90
+ELocation 469: Accuracy:3.90
+ELocation 470: Accuracy:3.90
+ELocation 471: Accuracy:3.90
+ELocation 472: Accuracy:3.90
+ETask 22: Configuration:1 Energy:0.0 Power:0.0 Reward:37.563383911834 Time:32549 TotalReward:1358.435123317057
+ELocation 473: Accuracy:3.90
+ELocation 474: Accuracy:3.90
+ELocation 475: Accuracy:4.00
+ELocation 476: Accuracy:4.00
+ELocation 477: Accuracy:5.00
+ELocation 478: Accuracy:5.00
+ETask 23: Configuration:0 Energy:0.0 Power:0.0 Reward:39.05542489796 Time:32558 TotalReward:1397.490548215017
+ELocation 479: Accuracy:6.00
+ELocation 480: Accuracy:6.00
+ELocation 481: Accuracy:5.00
+ELocation 482: Accuracy:3.90
+ETask 24: Configuration:0 Energy:0.0 Power:0.0 Reward:80.023975428056 Time:32516 TotalReward:1477.514523643073
+STOKE: Config: 0 - Knobs: {interval:5000 priority:100 sensor-configuration:1 batch:1 }  | -- on:12 joules:58.39 reward:0.64
+STOKE: Config: 1 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:5 joules:59.14 reward:0.63
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:7 joules:68.73 reward:0.57
+STOKE: Config: 0 - Knobs: {interval:5000 priority:100 sensor-configuration:1 batch:1 }  | -- on:12 joules:58.39 reward:0.64
+STOKE: Config: 1 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:5 joules:59.14 reward:0.63
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:7 joules:68.73 reward:0.57
+STOKE: Config: 0 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:2000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+ELocation 483: Accuracy:4.00
+ELocation 484: Accuracy:3.90
+ELocation 485: Accuracy:96.00
+ELocation 486: Accuracy:3.90
+ELocation 487: Accuracy:3.90
+ELocation 488: Accuracy:3.90
+ELocation 489: Accuracy:3.90
+ELocation 490: Accuracy:3.90
+ELocation 491: Accuracy:3.90
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:36.834400510626004 Time:32541 TotalReward:36.834400510626004
+ELocation 492: Accuracy:3.90
+ELocation 493: Accuracy:3.90
+ELocation 494: Accuracy:3.90
+ELocation 495: Accuracy:3.90
+ELocation 496: Accuracy:3.90
+ELocation 497: Accuracy:3.90
+ELocation 498: Accuracy:3.90
+ELocation 499: Accuracy:3.90
+ELocation 500: Accuracy:3.90
+ELocation 501: Accuracy:3.90
+ELocation 502: Accuracy:3.90
+ETask 2: Configuration:1 Energy:0.0 Power:0.0 Reward:66.49314819773201 Time:32542 TotalReward:103.32754870835802
+ELocation 503: Accuracy:3.90
+ELocation 504: Accuracy:3.90
+ELocation 505: Accuracy:3.90
+ELocation 506: Accuracy:3.90
+ELocation 507: Accuracy:3.90
+ELocation 508: Accuracy:3.90
+ELocation 509: Accuracy:3.90
+ELocation 510: Accuracy:3.90
+ELocation 511: Accuracy:3.90
+ELocation 512: Accuracy:3.90
+ELocation 513: Accuracy:3.90
+ELocation 514: Accuracy:3.90
+ELocation 515: Accuracy:3.90
+ELocation 516: Accuracy:3.90
+ELocation 517: Accuracy:3.90
+ELocation 518: Accuracy:3.90
+ELocation 519: Accuracy:3.90
+ELocation 520: Accuracy:3.90
+ELocation 521: Accuracy:3.90
+ELocation 522: Accuracy:3.90
+ELocation 523: Accuracy:3.90
+ELocation 524: Accuracy:3.90
+ETask 3: Configuration:2 Energy:0.0 Power:0.0 Reward:81.64121121167999 Time:32556 TotalReward:184.968759920038
+ELocation 525: Accuracy:3.90
+ELocation 526: Accuracy:3.90
+ELocation 527: Accuracy:3.90
+ELocation 528: Accuracy:3.90
+ELocation 529: Accuracy:3.90
+ELocation 530: Accuracy:3.90
+ELocation 531: Accuracy:3.90
+ELocation 532: Accuracy:3.90
+ELocation 533: Accuracy:3.90
+ELocation 534: Accuracy:3.90
+ELocation 535: Accuracy:3.90
+ETask 4: Configuration:0 Energy:0.0 Power:0.0 Reward:82.60804108096 Time:32566 TotalReward:267.576801000998
+ELocation 536: Accuracy:3.90
+ELocation 537: Accuracy:3.90
+ELocation 538: Accuracy:3.90
+ELocation 539: Accuracy:3.90
+ELocation 540: Accuracy:3.90
+ELocation 541: Accuracy:3.90
+ELocation 542: Accuracy:3.90
+ELocation 543: Accuracy:3.90
+ELocation 544: Accuracy:3.90
+ELocation 545: Accuracy:3.90
+ELocation 546: Accuracy:3.90
+ELocation 547: Accuracy:3.90
+ELocation 548: Accuracy:3.90
+ELocation 549: Accuracy:3.90
+ELocation 550: Accuracy:3.90
+ELocation 551: Accuracy:3.90
+ELocation 552: Accuracy:3.90
+ELocation 553: Accuracy:3.90
+ELocation 554: Accuracy:3.90
+ELocation 555: Accuracy:3.90
+ELocation 556: Accuracy:3.90
+ELocation 557: Accuracy:3.90
+ELocation 558: Accuracy:3.90
+ETask 5: Configuration:2 Energy:0.0 Power:0.0 Reward:83.07396461328 Time:32548 TotalReward:350.650765614278
+ELocation 559: Accuracy:3.90
+ELocation 560: Accuracy:3.90
+ELocation 561: Accuracy:3.90
+ELocation 562: Accuracy:3.90
+ELocation 563: Accuracy:3.90
+ELocation 564: Accuracy:3.90
+ELocation 565: Accuracy:3.90
+ELocation 566: Accuracy:3.90
+ELocation 567: Accuracy:3.90
+ETask 6: Configuration:0 Energy:0.0 Power:0.0 Reward:50.7114930996 Time:32553 TotalReward:401.36225871387796
+ELocation 568: Accuracy:3.90
+ELocation 569: Accuracy:3.90
+ELocation 570: Accuracy:3.90
+ELocation 571: Accuracy:3.90
+ELocation 572: Accuracy:3.90
+ELocation 573: Accuracy:3.90
+ELocation 574: Accuracy:3.90
+ELocation 575: Accuracy:3.90
+ELocation 576: Accuracy:3.90
+ELocation 577: Accuracy:3.90
+ELocation 578: Accuracy:3.90
+ELocation 579: Accuracy:3.90
+ELocation 580: Accuracy:3.90
+ELocation 581: Accuracy:3.90
+ELocation 582: Accuracy:3.90
+ELocation 583: Accuracy:3.90
+ELocation 584: Accuracy:3.90
+ELocation 585: Accuracy:3.90
+ELocation 586: Accuracy:3.90
+ELocation 587: Accuracy:3.90
+ELocation 588: Accuracy:3.90
+ELocation 589: Accuracy:3.90
+ELocation 590: Accuracy:3.90
+ELocation 591: Accuracy:3.90
+ELocation 592: Accuracy:3.90
+ETask 7: Configuration:2 Energy:0.0 Power:0.0 Reward:83.19922018584 Time:32549 TotalReward:484.56147889971794
+ELocation 593: Accuracy:3.90
+ELocation 594: Accuracy:3.90
+ELocation 595: Accuracy:3.90
+ELocation 596: Accuracy:3.90
+ELocation 597: Accuracy:3.90
+ELocation 598: Accuracy:3.90
+ELocation 599: Accuracy:3.90
+ELocation 600: Accuracy:3.90
+ELocation 601: Accuracy:3.90
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:85.93388240575999 Time:32554 TotalReward:570.4953613054779
+ELocation 602: Accuracy:3.90
+ELocation 603: Accuracy:3.90
+ELocation 604: Accuracy:3.90
+ELocation 605: Accuracy:3.90
+ELocation 606: Accuracy:3.90
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:35.40560217120001 Time:32517 TotalReward:605.9009634766779
+ELocation 607: Accuracy:3.90
+ELocation 608: Accuracy:3.90
+ELocation 609: Accuracy:3.90
+ELocation 610: Accuracy:3.90
+ELocation 611: Accuracy:3.90
+ELocation 612: Accuracy:3.90
+ELocation 613: Accuracy:3.90
+ELocation 614: Accuracy:3.90
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:35.8294659584 Time:32512 TotalReward:641.7304294350779
+ELocation 615: Accuracy:3.90
+ELocation 616: Accuracy:3.90
+ELocation 617: Accuracy:3.90
+ELocation 618: Accuracy:3.90
+ELocation 619: Accuracy:3.90
+ELocation 620: Accuracy:3.90
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:74.36595581712 Time:32516 TotalReward:716.0963852521979
+ELocation 621: Accuracy:3.90
+ELocation 622: Accuracy:3.90
+ELocation 623: Accuracy:3.90
+ELocation 624: Accuracy:3.90
+ELocation 625: Accuracy:3.90
+ELocation 626: Accuracy:3.90
+ELocation 627: Accuracy:3.90
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:120.81749985131201 Time:32509 TotalReward:836.91388510351
+ELocation 628: Accuracy:3.90
+ELocation 629: Accuracy:3.90
+ELocation 630: Accuracy:3.90
+ELocation 631: Accuracy:3.90
+ELocation 632: Accuracy:3.90
+ELocation 633: Accuracy:3.90
+ELocation 634: Accuracy:3.90
+ELocation 635: Accuracy:3.90
+ELocation 636: Accuracy:3.90
+ELocation 637: Accuracy:3.90
+ELocation 638: Accuracy:3.90
+ELocation 639: Accuracy:3.90
+ETask 13: Configuration:1 Energy:0.0 Power:0.0 Reward:68.88900244275 Time:32550 TotalReward:905.80288754626
+ELocation 640: Accuracy:3.90
+ELocation 641: Accuracy:3.90
+ELocation 642: Accuracy:3.90
+ELocation 643: Accuracy:3.00
+ELocation 644: Accuracy:3.90
+ELocation 645: Accuracy:3.90
+ELocation 646: Accuracy:3.90
+ELocation 647: Accuracy:3.90
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:78.8423182515 Time:32548 TotalReward:984.64520579776
+ELocation 648: Accuracy:3.90
+ELocation 649: Accuracy:3.90
+ELocation 650: Accuracy:3.90
+ELocation 651: Accuracy:3.90
+ELocation 652: Accuracy:3.90
+ELocation 653: Accuracy:3.90
+ELocation 654: Accuracy:3.90
+ETask 15: Configuration:0 Energy:0.0 Power:0.0 Reward:62.135637379094995 Time:32515 TotalReward:1046.7808431768551
+ELocation 655: Accuracy:3.90
+ELocation 656: Accuracy:3.90
+ELocation 657: Accuracy:3.90
+ELocation 658: Accuracy:3.00
+ELocation 659: Accuracy:3.90
+ELocation 660: Accuracy:3.90
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:68.67976662195 Time:32509 TotalReward:1115.460609798805
+ELocation 661: Accuracy:3.90
+ELocation 662: Accuracy:3.90
+ELocation 663: Accuracy:3.90
+ELocation 664: Accuracy:3.90
+ELocation 665: Accuracy:3.90
+ELocation 666: Accuracy:3.90
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:68.243060149215 Time:32515 TotalReward:1183.70366994802
+ELocation 667: Accuracy:3.90
+ELocation 668: Accuracy:3.90
+ELocation 669: Accuracy:3.90
+ELocation 670: Accuracy:3.90
+ELocation 671: Accuracy:3.90
+ELocation 672: Accuracy:3.90
+ELocation 673: Accuracy:3.90
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:68.87751518934999 Time:32506 TotalReward:1252.58118513737
+ELocation 674: Accuracy:3.90
+ELocation 675: Accuracy:3.90
+ELocation 676: Accuracy:3.90
+ELocation 677: Accuracy:3.90
+ELocation 678: Accuracy:3.90
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:68.312109369859 Time:32509 TotalReward:1320.893294507229
+ELocation 679: Accuracy:3.90
+ELocation 680: Accuracy:3.90
+ELocation 681: Accuracy:3.90
+ELocation 682: Accuracy:3.90
+ELocation 683: Accuracy:3.90
+ELocation 684: Accuracy:3.90
+ELocation 685: Accuracy:3.90
+ETask 20: Configuration:0 Energy:0.0 Power:0.0 Reward:41.23869429407401 Time:32514 TotalReward:1362.1319888013031
+ELocation 686: Accuracy:3.90
+ELocation 687: Accuracy:3.90
+ELocation 688: Accuracy:3.90
+ELocation 689: Accuracy:3.90
+ELocation 690: Accuracy:3.90
+ELocation 691: Accuracy:3.90
+ELocation 692: Accuracy:3.90
+ETask 21: Configuration:0 Energy:0.0 Power:0.0 Reward:84.36648357312 Time:32510 TotalReward:1446.498472374423
+ELocation 693: Accuracy:3.90
+ELocation 694: Accuracy:3.90
+ELocation 695: Accuracy:3.90
+ELocation 696: Accuracy:3.90
+ELocation 697: Accuracy:3.90
+ELocation 698: Accuracy:3.90
+ELocation 699: Accuracy:3.90
+ELocation 700: Accuracy:3.90
+ELocation 701: Accuracy:3.90
+ELocation 702: Accuracy:3.90
+ELocation 703: Accuracy:3.90
+ELocation 704: Accuracy:3.90
+ETask 22: Configuration:1 Energy:0.0 Power:0.0 Reward:81.61755871295698 Time:32541 TotalReward:1528.11603108738
+ELocation 705: Accuracy:3.90
+ELocation 706: Accuracy:3.90
+ELocation 707: Accuracy:3.90
+ELocation 708: Accuracy:3.90
+ELocation 709: Accuracy:3.90
+ELocation 710: Accuracy:3.90
+ELocation 711: Accuracy:3.90
+ELocation 712: Accuracy:3.90
+ETask 23: Configuration:0 Energy:0.0 Power:0.0 Reward:40.687710395444 Time:32558 TotalReward:1568.8037414828239
+ELocation 713: Accuracy:3.90
+ELocation 714: Accuracy:3.90
+ELocation 715: Accuracy:3.90
+ELocation 716: Accuracy:3.90
+ELocation 717: Accuracy:3.90
+ELocation 718: Accuracy:3.90
+ELocation 719: Accuracy:3.90
+ELocation 720: Accuracy:3.90
+ELocation 721: Accuracy:3.90
+ELocation 722: Accuracy:3.90
+ELocation 723: Accuracy:3.90
+ETask 24: Configuration:1 Energy:0.0 Power:0.0 Reward:69.409739449728 Time:32544 TotalReward:1638.2134809325519
+STOKE: Config: 0 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:17 joules:64.93 reward:0.60
+STOKE: Config: 1 - Knobs: {interval:2000 priority:100 sensor-configuration:1 batch:1 }  | -- on:4 joules:71.60 reward:0.55
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:3 joules:82.64 reward:0.49
+STOKE: Config: 0 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:17 joules:64.93 reward:0.60
+STOKE: Config: 1 - Knobs: {interval:2000 priority:100 sensor-configuration:1 batch:1 }  | -- on:4 joules:71.60 reward:0.55
+STOKE: Config: 2 - Knobs: {interval:1000 priority:100 sensor-configuration:1 batch:1 }  | -- on:3 joules:82.64 reward:0.49
+STOKE: Config: 0 - Knobs: {interval:6000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:4500 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+ELocation 724: Accuracy:3.90
+ELocation 725: Accuracy:3.90
+ELocation 726: Accuracy:4.00
+ELocation 727: Accuracy:3.90
+ELocation 728: Accuracy:4.00
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:63.293016867845 Time:32555 TotalReward:63.293016867845
+ELocation 729: Accuracy:5.00
+ELocation 730: Accuracy:5.00
+ELocation 731: Accuracy:3.00
+ELocation 732: Accuracy:3.90
+ELocation 733: Accuracy:3.90
+ELocation 734: Accuracy:3.90
+ETask 2: Configuration:1 Energy:0.0 Power:0.0 Reward:59.77756554723 Time:32545 TotalReward:123.070582415075
+ELocation 735: Accuracy:3.00
+ELocation 736: Accuracy:3.00
+ELocation 737: Accuracy:3.90
+ELocation 738: Accuracy:3.90
+ELocation 739: Accuracy:3.90
+ELocation 740: Accuracy:3.90
+ELocation 741: Accuracy:3.90
+ELocation 742: Accuracy:3.90
+ETask 3: Configuration:2 Energy:0.0 Power:0.0 Reward:86.446595199931 Time:32561 TotalReward:209.517177615006
+ELocation 743: Accuracy:3.90
+ELocation 744: Accuracy:3.90
+ELocation 745: Accuracy:3.90
+ELocation 746: Accuracy:3.90
+ELocation 747: Accuracy:3.90
+ETask 4: Configuration:1 Energy:0.0 Power:0.0 Reward:51.21270636701399 Time:32553 TotalReward:260.72988398202
+ELocation 748: Accuracy:3.90
+ELocation 749: Accuracy:3.90
+ELocation 750: Accuracy:3.90
+ELocation 751: Accuracy:3.90
+ETask 5: Configuration:1 Energy:0.0 Power:0.0 Reward:53.539218488027 Time:32509 TotalReward:314.269102470047
+ELocation 752: Accuracy:3.90
+ELocation 753: Accuracy:3.90
+ELocation 754: Accuracy:3.90
+ETask 6: Configuration:1 Energy:0.0 Power:0.0 Reward:36.479749649785 Time:32519 TotalReward:350.748852119832
+ELocation 755: Accuracy:3.90
+ELocation 756: Accuracy:3.90
+ELocation 757: Accuracy:3.90
+ELocation 758: Accuracy:3.90
+ETask 7: Configuration:1 Energy:0.0 Power:0.0 Reward:82.74912499608301 Time:32517 TotalReward:433.49797711591503
+ELocation 759: Accuracy:3.90
+ELocation 760: Accuracy:3.90
+ELocation 761: Accuracy:3.90
+ELocation 762: Accuracy:3.90
+ELocation 763: Accuracy:3.90
+ELocation 764: Accuracy:3.90
+ELocation 765: Accuracy:3.90
+ELocation 766: Accuracy:3.90
+ETask 8: Configuration:2 Energy:0.0 Power:0.0 Reward:38.954712026879996 Time:32539 TotalReward:472.452689142795
+ELocation 767: Accuracy:3.90
+ELocation 768: Accuracy:3.90
+ELocation 769: Accuracy:3.90
+ELocation 770: Accuracy:3.90
+ELocation 771: Accuracy:3.90
+ELocation 772: Accuracy:4.00
+ETask 9: Configuration:1 Energy:0.0 Power:0.0 Reward:39.40401699216 Time:32542 TotalReward:511.856706134955
+ELocation 773: Accuracy:3.90
+ELocation 774: Accuracy:3.90
+ELocation 775: Accuracy:3.90
+ETask 10: Configuration:1 Energy:0.0 Power:0.0 Reward:35.81201096544 Time:32518 TotalReward:547.668717100395
+ELocation 776: Accuracy:3.90
+ELocation 777: Accuracy:3.90
+ELocation 778: Accuracy:3.90
+ELocation 779: Accuracy:3.90
+ETask 11: Configuration:1 Energy:0.0 Power:0.0 Reward:68.04642550535999 Time:32511 TotalReward:615.7151426057551
+ELocation 780: Accuracy:3.90
+ELocation 781: Accuracy:3.90
+ELocation 782: Accuracy:6.00
+ELocation 783: Accuracy:5.00
+ELocation 784: Accuracy:4.00
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:38.57098894488 Time:32557 TotalReward:654.2861315506351
+ELocation 785: Accuracy:4.00
+ELocation 786: Accuracy:4.00
+ELocation 787: Accuracy:3.00
+ELocation 788: Accuracy:3.90
+ELocation 789: Accuracy:3.90
+ELocation 790: Accuracy:3.90
+ELocation 791: Accuracy:3.90
+ELocation 792: Accuracy:3.90
+ETask 13: Configuration:2 Energy:0.0 Power:0.0 Reward:36.312146125199995 Time:32549 TotalReward:690.5982776758351
+ELocation 793: Accuracy:3.90
+ELocation 794: Accuracy:3.90
+ELocation 795: Accuracy:3.90
+ELocation 796: Accuracy:3.90
+ELocation 797: Accuracy:3.90
+ELocation 798: Accuracy:3.90
+ELocation 799: Accuracy:3.90
+ELocation 800: Accuracy:3.90
+ETask 14: Configuration:2 Energy:0.0 Power:0.0 Reward:36.49021858608 Time:32509 TotalReward:727.0884962619151
+ELocation 801: Accuracy:3.90
+ELocation 802: Accuracy:3.90
+ELocation 803: Accuracy:3.90
+ELocation 804: Accuracy:3.90
+ELocation 805: Accuracy:3.90
+ELocation 806: Accuracy:3.90
+ELocation 807: Accuracy:3.90
+ETask 15: Configuration:2 Energy:0.0 Power:0.0 Reward:48.83577921024 Time:32509 TotalReward:775.9242754721552
+ELocation 808: Accuracy:3.90
+ELocation 809: Accuracy:3.90
+ELocation 810: Accuracy:3.90
+ELocation 811: Accuracy:3.90
+ELocation 812: Accuracy:3.90
+ELocation 813: Accuracy:3.90
+ETask 16: Configuration:2 Energy:0.0 Power:0.0 Reward:37.236794505599995 Time:32507 TotalReward:813.1610699777551
+ELocation 814: Accuracy:3.90
+ELocation 815: Accuracy:3.90
+ELocation 816: Accuracy:3.90
+ELocation 817: Accuracy:3.90
+ELocation 818: Accuracy:3.90
+ELocation 819: Accuracy:3.90
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:34.03181731152 Time:32558 TotalReward:847.1928872892752
+ELocation 820: Accuracy:3.90
+ELocation 821: Accuracy:3.90
+ELocation 822: Accuracy:3.90
+ELocation 823: Accuracy:4.00
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:45.08698599552 Time:32512 TotalReward:892.2798732847951
+ELocation 824: Accuracy:5.00
+ELocation 825: Accuracy:3.90
+ELocation 826: Accuracy:3.90
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:35.111556695425 Time:32515 TotalReward:927.3914299802201
+ELocation 827: Accuracy:3.90
+ELocation 828: Accuracy:3.90
+ELocation 829: Accuracy:3.90
+ELocation 830: Accuracy:3.90
+ELocation 831: Accuracy:3.90
+ELocation 832: Accuracy:3.90
+ELocation 833: Accuracy:3.90
+ELocation 834: Accuracy:3.90
+ETask 20: Configuration:2 Energy:0.0 Power:0.0 Reward:35.809044326549994 Time:32538 TotalReward:963.20047430677
+ELocation 835: Accuracy:3.90
+ELocation 836: Accuracy:3.90
+ELocation 837: Accuracy:3.90
+ELocation 838: Accuracy:3.90
+ELocation 839: Accuracy:3.90
+ELocation 840: Accuracy:3.90
+ELocation 841: Accuracy:3.90
+ELocation 842: Accuracy:3.90
+ELocation 843: Accuracy:3.90
+ETask 21: Configuration:2 Energy:0.0 Power:0.0 Reward:36.326940670675 Time:32509 TotalReward:999.527414977445
+ELocation 844: Accuracy:3.90
+ELocation 845: Accuracy:3.90
+ELocation 846: Accuracy:4.00
+ELocation 847: Accuracy:9.00
+ELocation 848: Accuracy:7.00
+ETask 22: Configuration:0 Energy:0.0 Power:0.0 Reward:42.49968476469 Time:32558 TotalReward:1042.027099742135
+ELocation 849: Accuracy:7.00
+ELocation 850: Accuracy:7.00
+ELocation 851: Accuracy:4.00
+ELocation 852: Accuracy:3.90
+ELocation 853: Accuracy:4.00
+ELocation 854: Accuracy:3.90
+ETask 23: Configuration:1 Energy:0.0 Power:0.0 Reward:36.15729601624 Time:32558 TotalReward:1078.184395758375
+ELocation 855: Accuracy:3.00
+ELocation 856: Accuracy:3.00
+ELocation 857: Accuracy:3.90
+ELocation 858: Accuracy:3.90
+ELocation 859: Accuracy:3.90
+ETask 24: Configuration:0 Energy:0.0 Power:0.0 Reward:90.92357552402999 Time:32547 TotalReward:1169.107971282405
+STOKE: Config: 0 - Knobs: {interval:6000 priority:100 sensor-configuration:1 batch:1 }  | -- on:7 joules:49.93 reward:0.69
+STOKE: Config: 1 - Knobs: {interval:4500 priority:100 sensor-configuration:1 batch:1 }  | -- on:9 joules:51.46 reward:0.68
+STOKE: Config: 2 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:8 joules:44.55 reward:0.72
+STOKE: Config: 2 - Knobs: {interval:3000 priority:100 sensor-configuration:1 batch:1 }  | -- on:8 joules:44.55 reward:0.72
+STOKE: Config: 0 - Knobs: {interval:6000 priority:100 sensor-configuration:1 batch:1 }  | -- on:7 joules:49.93 reward:0.69
+STOKE: Config: 1 - Knobs: {interval:4500 priority:100 sensor-configuration:1 batch:1 }  | -- on:9 joules:51.46 reward:0.68
+STOKE: Config: 0 - Knobs: {interval:4500 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 1 - Knobs: {interval:3375 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+STOKE: Config: 2 - Knobs: {interval:2250 priority:100 sensor-configuration:1 batch:1 }  | -- on:0 joules:NaN reward:NaN
+ELocation 860: Accuracy:3.90
+ELocation 861: Accuracy:3.90
+ELocation 862: Accuracy:3.00
+ELocation 863: Accuracy:3.90
+ELocation 864: Accuracy:3.90
+ELocation 865: Accuracy:3.90
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:51.10439292696 Time:32540 TotalReward:51.10439292696
+ELocation 866: Accuracy:3.90
+ELocation 867: Accuracy:3.90
+ELocation 868: Accuracy:3.00
+ELocation 869: Accuracy:3.00
+ELocation 870: Accuracy:3.00
+ELocation 871: Accuracy:3.00
+ELocation 872: Accuracy:3.00
+ETask 2: Configuration:1 Energy:0.0 Power:0.0 Reward:81.60705692839001 Time:32558 TotalReward:132.71144985535
+ELocation 873: Accuracy:3.90
+ELocation 874: Accuracy:3.90
+ELocation 875: Accuracy:3.90
+ELocation 876: Accuracy:3.90
+ELocation 877: Accuracy:3.90
+ELocation 878: Accuracy:3.90
+ELocation 879: Accuracy:3.90
+ELocation 880: Accuracy:3.90
+ELocation 881: Accuracy:3.90
+ELocation 882: Accuracy:3.90
+ETask 3: Configuration:2 Energy:0.0 Power:0.0 Reward:51.415325775655994 Time:32546 TotalReward:184.12677563100598
+ELocation 883: Accuracy:3.90
+ELocation 884: Accuracy:3.90
+ELocation 885: Accuracy:3.00
+ELocation 886: Accuracy:3.90
+ELocation 887: Accuracy:3.90
+ELocation 888: Accuracy:3.90
+ETask 4: Configuration:0 Energy:0.0 Power:0.0 Reward:40.8934078959 Time:32566 TotalReward:225.02018352690598
+ELocation 889: Accuracy:3.90
+ELocation 890: Accuracy:3.90
+ELocation 891: Accuracy:3.90
+ELocation 892: Accuracy:3.90
+ETask 5: Configuration:0 Energy:0.0 Power:0.0 Reward:36.64091654496 Time:32511 TotalReward:261.661100071866
+ELocation 893: Accuracy:3.90
+ELocation 894: Accuracy:3.90
+ELocation 895: Accuracy:3.90
+ETask 6: Configuration:0 Energy:0.0 Power:0.0 Reward:67.47585122922 Time:32518 TotalReward:329.13695130108596
+ELocation 896: Accuracy:3.90
+ELocation 897: Accuracy:3.90
+ELocation 898: Accuracy:3.90
+ELocation 899: Accuracy:3.90
+ETask 7: Configuration:0 Energy:0.0 Power:0.0 Reward:46.650589958699996 Time:32515 TotalReward:375.78754125978594
+ELocation 900: Accuracy:3.90
+ELocation 901: Accuracy:3.90
+ELocation 902: Accuracy:3.90
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:69.1983509364 Time:32520 TotalReward:444.98589219618594
+ELocation 903: Accuracy:3.00
+ELocation 904: Accuracy:3.90
+ELocation 905: Accuracy:3.90
+ELocation 906: Accuracy:3.90
+ELocation 907: Accuracy:3.90
+ELocation 908: Accuracy:3.90
+ELocation 909: Accuracy:3.90
+ELocation 910: Accuracy:3.90
+ELocation 911: Accuracy:3.90
+ELocation 912: Accuracy:3.90
+ETask 9: Configuration:2 Energy:0.0 Power:0.0 Reward:66.45759315148798 Time:32544 TotalReward:511.4434853476739
+ELocation 913: Accuracy:3.90
+ELocation 914: Accuracy:3.90
+ELocation 915: Accuracy:3.90
+ELocation 916: Accuracy:3.90
+ELocation 917: Accuracy:4.00
+ELocation 918: Accuracy:4.00
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:36.41168354846399 Time:32559 TotalReward:547.8551688961379
+ELocation 919: Accuracy:3.90
+ELocation 920: Accuracy:3.90
+ELocation 921: Accuracy:3.90
+ELocation 922: Accuracy:3.90
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:104.86373521381799 Time:32509 TotalReward:652.7189041099559
+ELocation 923: Accuracy:3.90
+ELocation 924: Accuracy:3.90
+ELocation 925: Accuracy:3.90
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:47.92546057807199 Time:32516 TotalReward:700.644364688028
+ELocation 926: Accuracy:3.90
+ELocation 927: Accuracy:3.90
+ELocation 928: Accuracy:3.90
+ELocation 929: Accuracy:3.90
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:35.736878948232 Time:32516 TotalReward:736.3812436362599
+ELocation 930: Accuracy:3.90
+ELocation 931: Accuracy:3.90
+ELocation 932: Accuracy:3.90
+ELocation 933: Accuracy:4.00
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:68.28152997913799 Time:32507 TotalReward:804.6627736153979
+ELocation 934: Accuracy:4.00
+ELocation 935: Accuracy:3.90
+ELocation 936: Accuracy:3.90
+ETask 15: Configuration:0 Energy:0.0 Power:0.0 Reward:35.92068502449 Time:32515 TotalReward:840.5834586398879
+ELocation 937: Accuracy:3.90
+ELocation 938: Accuracy:3.90
+ELocation 939: Accuracy:3.90
+ELocation 940: Accuracy:3.90
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:83.72786419483499 Time:32515 TotalReward:924.3113228347229
+ELocation 941: Accuracy:3.90
+ELocation 942: Accuracy:3.90
+ELocation 943: Accuracy:3.90
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:49.076664231011996 Time:32518 TotalReward:973.3879870657349
+ELocation 944: Accuracy:3.90
+ELocation 945: Accuracy:3.90
+ELocation 946: Accuracy:3.90
+ELocation 947: Accuracy:3.90
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:46.99975951718399 Time:32512 TotalReward:1020.3877465829189
+ELocation 948: Accuracy:3.90
+ELocation 949: Accuracy:3.90
+ELocation 950: Accuracy:3.90
+ELocation 951: Accuracy:3.90
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:68.25275172707998 Time:32507 TotalReward:1088.640498309999
+ELocation 952: Accuracy:3.90
+ELocation 953: Accuracy:3.90
+ELocation 954: Accuracy:3.90
+ETask 20: Configuration:0 Energy:0.0 Power:0.0 Reward:36.74150752623999 Time:32516 TotalReward:1125.382005836239
+ELocation 955: Accuracy:3.90
+ELocation 956: Accuracy:3.90
+ELocation 957: Accuracy:3.90
+ELocation 958: Accuracy:3.90
+ETask 21: Configuration:0 Energy:0.0 Power:0.0 Reward:68.92458948608 Time:32512 TotalReward:1194.306595322319
+ELocation 959: Accuracy:3.90
+ELocation 960: Accuracy:3.90
+ELocation 961: Accuracy:3.90
+ETask 22: Configuration:0 Energy:0.0 Power:0.0 Reward:50.6587285296 Time:32520 TotalReward:1244.965323851919
+ELocation 962: Accuracy:3.90
+ELocation 963: Accuracy:3.90
+ELocation 964: Accuracy:3.90
+ELocation 965: Accuracy:3.90
+ETask 23: Configuration:0 Energy:0.0 Power:0.0 Reward:62.797591632999996 Time:32515 TotalReward:1307.762915484919
+ELocation 966: Accuracy:3.90
+ELocation 967: Accuracy:3.90
+ELocation 968: Accuracy:3.90
+ELocation 969: Accuracy:3.90
+ETask 24: Configuration:0 Energy:0.0 Power:0.0 Reward:53.90819098924 Time:32509 TotalReward:1361.671106474159
+ERun: Time:3904830
+==END-RUN 0==
+STOKE: Config: 0 - Knobs: {interval:4500 priority:100 sensor-configuration:1 batch:1 }  | -- on:21 joules:55.34 reward:0.66
+STOKE: Config: 1 - Knobs: {interval:3375 priority:100 sensor-configuration:1 batch:1 }  | -- on:1 joules:81.61 reward:0.49
+STOKE: Config: 2 - Knobs: {interval:2250 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:58.94 reward:0.63
+ERROR: We got 'done' signal before finishing experiment!
+STOKE: Config: 0 - Knobs: {interval:4500 priority:100 sensor-configuration:1 batch:1 }  | -- on:21 joules:55.34 reward:0.66
+STOKE: Config: 1 - Knobs: {interval:3375 priority:100 sensor-configuration:1 batch:1 }  | -- on:1 joules:81.61 reward:0.49
+STOKE: Config: 2 - Knobs: {interval:2250 priority:100 sensor-configuration:1 batch:1 }  | -- on:2 joules:58.94 reward:0.63

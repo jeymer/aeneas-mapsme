@@ -1,0 +1,12 @@
+// Total: 572.29484 Configuration:4 Knobs:5000 Callback Off 
+// Points Summed: 649.836.6
+65.4
+37.8
+42.9
+85.8
+51.0
+79.2
+85.8
+84.3
+44.7
+36.3

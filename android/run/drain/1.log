@@ -1,0 +1,690 @@
+==RUN 0==
+STOKE: Start Bat: 1.000000
+MAPSME_GPS_RATE: 500
+MAPSME_GPS_PRIORITY: High Accuracy
+MAPSME_GPS_BATCH: 1x
+
+ETask 1: Configuration:0 Energy:0.0 Power:0.0 Reward:85.34406850952399 Time:32516 TotalReward:85.34406850952399
+STOKE: Battery:1.000000 Level:100
+ETask 2: Configuration:0 Energy:0.0 Power:0.0 Reward:95.14898953312502 Time:32517 TotalReward:180.493058042649
+STOKE: Battery:1.000000 Level:100
+ETask 3: Configuration:0 Energy:0.0 Power:0.0 Reward:87.379035583455 Time:32515 TotalReward:267.872093626104
+STOKE: Battery:1.000000 Level:100
+ETask 4: Configuration:0 Energy:0.0 Power:0.0 Reward:86.162027913258 Time:32509 TotalReward:354.034121539362
+STOKE: Battery:1.000000 Level:100
+ETask 5: Configuration:0 Energy:0.0 Power:0.0 Reward:103.982927552988 Time:32516 TotalReward:458.01704909235
+STOKE: Battery:1.000000 Level:100
+ETask 6: Configuration:0 Energy:0.0 Power:0.0 Reward:85.89753573412 Time:32516 TotalReward:543.91458482647
+STOKE: Battery:1.000000 Level:100
+ETask 7: Configuration:0 Energy:0.0 Power:0.0 Reward:86.45420480058002 Time:32514 TotalReward:630.36878962705
+STOKE: Battery:1.000000 Level:100
+ETask 8: Configuration:0 Energy:0.0 Power:0.0 Reward:91.264569564525 Time:32515 TotalReward:721.633359191575
+STOKE: Battery:1.000000 Level:100
+ETask 9: Configuration:0 Energy:0.0 Power:0.0 Reward:85.6660141204 Time:32515 TotalReward:807.2993733119749
+STOKE: Battery:1.000000 Level:100
+ETask 10: Configuration:0 Energy:0.0 Power:0.0 Reward:90.95922883365 Time:32510 TotalReward:898.258602145625
+STOKE: Battery:1.000000 Level:100
+ETask 11: Configuration:0 Energy:0.0 Power:0.0 Reward:85.43437018887 Time:32514 TotalReward:983.692972334495
+STOKE: Battery:1.000000 Level:100
+ETask 12: Configuration:0 Energy:0.0 Power:0.0 Reward:95.76608138838002 Time:32517 TotalReward:1079.459053722875
+STOKE: Battery:1.000000 Level:100
+ETask 13: Configuration:0 Energy:0.0 Power:0.0 Reward:85.92768597504 Time:32518 TotalReward:1165.3867396979151
+STOKE: Battery:0.980000 Level:98
+ETask 14: Configuration:0 Energy:0.0 Power:0.0 Reward:87.187212704592 Time:32516 TotalReward:1252.573952402507
+STOKE: Battery:0.980000 Level:98
+ETask 15: Configuration:0 Energy:0.0 Power:0.0 Reward:92.773962613248 Time:32512 TotalReward:1345.347915015755
+STOKE: Battery:0.980000 Level:98
+ETask 16: Configuration:0 Energy:0.0 Power:0.0 Reward:86.326499245056 Time:32512 TotalReward:1431.674414260811
+STOKE: Battery:0.980000 Level:98
+ETask 17: Configuration:0 Energy:0.0 Power:0.0 Reward:89.841170217876 Time:32516 TotalReward:1521.515584478687
+STOKE: Battery:0.980000 Level:98
+ETask 18: Configuration:0 Energy:0.0 Power:0.0 Reward:88.742273366208 Time:32516 TotalReward:1610.2578578448952
+STOKE: Battery:0.980000 Level:98
+ETask 19: Configuration:0 Energy:0.0 Power:0.0 Reward:96.55853746968 Time:32516 TotalReward:1706.8163953145752
+STOKE: Battery:0.970000 Level:97
+ETask 20: Configuration:0 Energy:0.0 Power:0.0 Reward:86.30994883130401 Time:32514 TotalReward:1793.126344145879
+STOKE: Battery:0.970000 Level:97
+ETask 21: Configuration:0 Energy:0.0 Power:0.0 Reward:86.371807756752 Time:32514 TotalReward:1879.4981519026312
+STOKE: Battery:0.970000 Level:97
+ETask 22: Configuration:0 Energy:0.0 Power:0.0 Reward:100.7547690276 Time:32520 TotalReward:1980.2529209302313
+STOKE: Battery:0.970000 Level:97
+ETask 23: Configuration:0 Energy:0.0 Power:0.0 Reward:95.81065456641599 Time:32521 TotalReward:2076.0635754966474
+STOKE: Battery:0.970000 Level:97
+ETask 24: Configuration:0 Energy:0.0 Power:0.0 Reward:90.97039956389 Time:32515 TotalReward:2167.0339750605376
+STOKE: Battery:0.970000 Level:97
+ETask 25: Configuration:0 Energy:0.0 Power:0.0 Reward:89.53311740826601 Time:32517 TotalReward:2256.567092468804
+STOKE: Battery:0.970000 Level:97
+ETask 26: Configuration:0 Energy:0.0 Power:0.0 Reward:89.67967256016 Time:32520 TotalReward:2346.2467650289636
+STOKE: Battery:0.950000 Level:95
+ETask 27: Configuration:0 Energy:0.0 Power:0.0 Reward:93.14383410976 Time:32515 TotalReward:2439.3905991387237
+STOKE: Battery:0.950000 Level:95
+ETask 28: Configuration:0 Energy:0.0 Power:0.0 Reward:97.63622887795201 Time:32517 TotalReward:2537.0268280166756
+STOKE: Battery:0.950000 Level:95
+ETask 29: Configuration:0 Energy:0.0 Power:0.0 Reward:92.87741038849198 Time:32537 TotalReward:2629.9042384051677
+STOKE: Battery:0.950000 Level:95
+ETask 30: Configuration:0 Energy:0.0 Power:0.0 Reward:92.17383052346399 Time:32514 TotalReward:2722.0780689286316
+STOKE: Battery:0.950000 Level:95
+ETask 31: Configuration:0 Energy:0.0 Power:0.0 Reward:100.96102488655201 Time:32514 TotalReward:2823.0390938151836
+STOKE: Battery:0.950000 Level:95
+ETask 32: Configuration:0 Energy:0.0 Power:0.0 Reward:100.420106641932 Time:32516 TotalReward:2923.4592004571155
+STOKE: Battery:0.930000 Level:93
+ETask 33: Configuration:0 Energy:0.0 Power:0.0 Reward:92.336993471065 Time:32515 TotalReward:3015.7961939281804
+STOKE: Battery:0.930000 Level:93
+ETask 34: Configuration:0 Energy:0.0 Power:0.0 Reward:85.522673758452 Time:32514 TotalReward:3101.3188676866325
+STOKE: Battery:0.930000 Level:93
+ETask 35: Configuration:0 Energy:0.0 Power:0.0 Reward:86.03925249304 Time:32516 TotalReward:3187.3581201796724
+STOKE: Battery:0.930000 Level:93
+ETask 36: Configuration:0 Energy:0.0 Power:0.0 Reward:89.11043757478801 Time:32517 TotalReward:3276.4685577544606
+STOKE: Battery:0.930000 Level:93
+ETask 37: Configuration:0 Energy:0.0 Power:0.0 Reward:115.39643543812798 Time:32513 TotalReward:3391.8649931925884
+STOKE: Battery:0.920000 Level:92
+ETask 38: Configuration:0 Energy:0.0 Power:0.0 Reward:105.08536194156001 Time:32515 TotalReward:3496.9503551341486
+STOKE: Battery:0.920000 Level:92
+ETask 39: Configuration:0 Energy:0.0 Power:0.0 Reward:87.49309387896 Time:32515 TotalReward:3584.4434490131084
+STOKE: Battery:0.920000 Level:92
+ETask 40: Configuration:0 Energy:0.0 Power:0.0 Reward:84.016370789064 Time:32517 TotalReward:3668.459819802172
+STOKE: Battery:0.920000 Level:92
+ETask 41: Configuration:0 Energy:0.0 Power:0.0 Reward:86.920224776208 Time:32514 TotalReward:3755.3800445783804
+STOKE: Battery:0.920000 Level:92
+ETask 42: Configuration:0 Energy:0.0 Power:0.0 Reward:85.50286775481601 Time:32517 TotalReward:3840.8829123331966
+STOKE: Battery:0.920000 Level:92
+ETask 43: Configuration:0 Energy:0.0 Power:0.0 Reward:89.29030562042401 Time:32517 TotalReward:3930.1732179536207
+STOKE: Battery:0.920000 Level:92
+ETask 44: Configuration:0 Energy:0.0 Power:0.0 Reward:107.80337053224 Time:32518 TotalReward:4037.9765884858607
+STOKE: Battery:0.920000 Level:92
+ETask 45: Configuration:0 Energy:0.0 Power:0.0 Reward:100.838317841712 Time:32516 TotalReward:4138.814906327572
+STOKE: Battery:0.900000 Level:90
+ETask 46: Configuration:0 Energy:0.0 Power:0.0 Reward:89.66530873632001 Time:32520 TotalReward:4228.4802150638925
+STOKE: Battery:0.900000 Level:90
+ETask 47: Configuration:0 Energy:0.0 Power:0.0 Reward:84.521660906484 Time:32517 TotalReward:4313.001875970376
+STOKE: Battery:0.900000 Level:90
+ETask 48: Configuration:0 Energy:0.0 Power:0.0 Reward:86.886926508592 Time:32521 TotalReward:4399.8888024789685
+STOKE: Battery:0.900000 Level:90
+ETask 49: Configuration:0 Energy:0.0 Power:0.0 Reward:86.63266711532701 Time:32517 TotalReward:4486.521469594296
+STOKE: Battery:0.900000 Level:90
+ETask 50: Configuration:0 Energy:0.0 Power:0.0 Reward:84.58258729401001 Time:32517 TotalReward:4571.104056888306
+STOKE: Battery:0.900000 Level:90
+ETask 51: Configuration:0 Energy:0.0 Power:0.0 Reward:94.99554545202899 Time:32517 TotalReward:4666.099602340335
+STOKE: Battery:0.890000 Level:89
+ETask 52: Configuration:0 Energy:0.0 Power:0.0 Reward:87.624615530408 Time:32516 TotalReward:4753.724217870743
+STOKE: Battery:0.890000 Level:89
+ETask 53: Configuration:0 Energy:0.0 Power:0.0 Reward:82.187302285728 Time:32517 TotalReward:4835.911520156471
+STOKE: Battery:0.890000 Level:89
+ETask 54: Configuration:0 Energy:0.0 Power:0.0 Reward:86.19305985331201 Time:32512 TotalReward:4922.104580009783
+STOKE: Battery:0.890000 Level:89
+ETask 55: Configuration:0 Energy:0.0 Power:0.0 Reward:91.0059093086 Time:32513 TotalReward:5013.110489318383
+STOKE: Battery:0.890000 Level:89
+ETask 56: Configuration:0 Energy:0.0 Power:0.0 Reward:83.766410431425 Time:32517 TotalReward:5096.876899749808
+STOKE: Battery:0.880000 Level:88
+ETask 57: Configuration:0 Energy:0.0 Power:0.0 Reward:84.7141437153 Time:32516 TotalReward:5181.591043465109
+STOKE: Battery:0.880000 Level:88
+ETask 58: Configuration:0 Energy:0.0 Power:0.0 Reward:100.87323459592501 Time:32511 TotalReward:5282.464278061034
+STOKE: Battery:0.870000 Level:87
+ETask 59: Configuration:0 Energy:0.0 Power:0.0 Reward:89.09870038125001 Time:32515 TotalReward:5371.562978442284
+STOKE: Battery:0.870000 Level:87
+ETask 60: Configuration:0 Energy:0.0 Power:0.0 Reward:90.193262863 Time:32516 TotalReward:5461.756241305284
+STOKE: Battery:0.870000 Level:87
+ETask 61: Configuration:0 Energy:0.0 Power:0.0 Reward:98.09260508160001 Time:32514 TotalReward:5559.848846386883
+STOKE: Battery:0.870000 Level:87
+ETask 62: Configuration:0 Energy:0.0 Power:0.0 Reward:84.45645280175 Time:32518 TotalReward:5644.305299188633
+STOKE: Battery:0.870000 Level:87
+ETask 63: Configuration:0 Energy:0.0 Power:0.0 Reward:83.28117062137501 Time:32517 TotalReward:5727.586469810009
+STOKE: Battery:0.870000 Level:87
+ETask 64: Configuration:0 Energy:0.0 Power:0.0 Reward:82.89408256290002 Time:32517 TotalReward:5810.480552372908
+STOKE: Battery:0.860000 Level:86
+ETask 65: Configuration:0 Energy:0.0 Power:0.0 Reward:98.14031730888 Time:32516 TotalReward:5908.6208696817885
+STOKE: Battery:0.860000 Level:86
+ETask 66: Configuration:0 Energy:0.0 Power:0.0 Reward:85.65644228092 Time:32518 TotalReward:5994.277311962708
+STOKE: Battery:0.860000 Level:86
+ETask 67: Configuration:0 Energy:0.0 Power:0.0 Reward:86.72424495196 Time:32518 TotalReward:6081.001556914668
+STOKE: Battery:0.860000 Level:86
+ETask 68: Configuration:0 Energy:0.0 Power:0.0 Reward:85.99891015044001 Time:32518 TotalReward:6167.000467065108
+STOKE: Battery:0.860000 Level:86
+ETask 69: Configuration:0 Energy:0.0 Power:0.0 Reward:85.48748661110001 Time:32515 TotalReward:6252.487953676208
+STOKE: Battery:0.860000 Level:86
+ETask 70: Configuration:0 Energy:0.0 Power:0.0 Reward:83.46063441436 Time:32518 TotalReward:6335.948588090569
+STOKE: Battery:0.860000 Level:86
+ETask 71: Configuration:0 Energy:0.0 Power:0.0 Reward:97.95120586314 Time:32515 TotalReward:6433.8997939537085
+STOKE: Battery:0.840000 Level:84
+ETask 72: Configuration:0 Energy:0.0 Power:0.0 Reward:81.96540510711601 Time:32517 TotalReward:6515.865199060824
+STOKE: Battery:0.840000 Level:84
+ETask 73: Configuration:0 Energy:0.0 Power:0.0 Reward:84.037339436424 Time:32519 TotalReward:6599.902538497248
+STOKE: Battery:0.840000 Level:84
+ETask 74: Configuration:0 Energy:0.0 Power:0.0 Reward:98.68461181617602 Time:32517 TotalReward:6698.587150313424
+STOKE: Battery:0.840000 Level:84
+ETask 75: Configuration:0 Energy:0.0 Power:0.0 Reward:86.52396947712002 Time:32515 TotalReward:6785.111119790544
+STOKE: Battery:0.840000 Level:84
+ETask 76: Configuration:0 Energy:0.0 Power:0.0 Reward:83.64558555126003 Time:32517 TotalReward:6868.756705341804
+STOKE: Battery:0.840000 Level:84
+ETask 77: Configuration:0 Energy:0.0 Power:0.0 Reward:84.532856778475 Time:32515 TotalReward:6953.28956212028
+STOKE: Battery:0.820000 Level:82
+ETask 78: Configuration:0 Energy:0.0 Power:0.0 Reward:89.63040716365998 Time:32516 TotalReward:7042.919969283939
+STOKE: Battery:0.820000 Level:82
+ETask 79: Configuration:0 Energy:0.0 Power:0.0 Reward:84.41045246904001 Time:32514 TotalReward:7127.330421752979
+STOKE: Battery:0.820000 Level:82
+ETask 80: Configuration:0 Energy:0.0 Power:0.0 Reward:86.205785056612 Time:32513 TotalReward:7213.536206809591
+STOKE: Battery:0.820000 Level:82
+ETask 81: Configuration:0 Energy:0.0 Power:0.0 Reward:98.852037505 Time:32513 TotalReward:7312.388244314591
+STOKE: Battery:0.820000 Level:82
+ETask 82: Configuration:0 Energy:0.0 Power:0.0 Reward:89.77025314703599 Time:32516 TotalReward:7402.158497461627
+STOKE: Battery:0.820000 Level:82
+ETask 83: Configuration:0 Energy:0.0 Power:0.0 Reward:84.43295115696 Time:32515 TotalReward:7486.5914486185875
+STOKE: Battery:0.820000 Level:82
+ETask 84: Configuration:0 Energy:0.0 Power:0.0 Reward:84.71435931273 Time:32515 TotalReward:7571.305807931318
+STOKE: Battery:0.810000 Level:81
+ETask 85: Configuration:0 Energy:0.0 Power:0.0 Reward:81.605007794037 Time:32513 TotalReward:7652.910815725355
+STOKE: Battery:0.810000 Level:81
+ETask 86: Configuration:0 Energy:0.0 Power:0.0 Reward:82.07523520106399 Time:32518 TotalReward:7734.986050926419
+STOKE: Battery:0.810000 Level:81
+ETask 87: Configuration:0 Energy:0.0 Power:0.0 Reward:90.030474207828 Time:32516 TotalReward:7825.016525134247
+STOKE: Battery:0.810000 Level:81
+ETask 88: Configuration:0 Energy:0.0 Power:0.0 Reward:92.063188405629 Time:32517 TotalReward:7917.079713539876
+STOKE: Battery:0.810000 Level:81
+ETask 89: Configuration:0 Energy:0.0 Power:0.0 Reward:96.069252725733 Time:32519 TotalReward:8013.1489662656095
+STOKE: Battery:0.810000 Level:81
+ETask 90: Configuration:0 Energy:0.0 Power:0.0 Reward:81.455797707606 Time:32517 TotalReward:8094.604763973215
+STOKE: Battery:0.810000 Level:81
+ETask 91: Configuration:0 Energy:0.0 Power:0.0 Reward:81.627680553552 Time:32517 TotalReward:8176.232444526767
+STOKE: Battery:0.790000 Level:79
+ETask 92: Configuration:0 Energy:0.0 Power:0.0 Reward:81.721821291005 Time:32515 TotalReward:8257.954265817772
+STOKE: Battery:0.790000 Level:79
+ETask 93: Configuration:0 Energy:0.0 Power:0.0 Reward:85.26534809792999 Time:32515 TotalReward:8343.219613915702
+STOKE: Battery:0.790000 Level:79
+ETask 94: Configuration:0 Energy:0.0 Power:0.0 Reward:88.53686117746798 Time:32516 TotalReward:8431.75647509317
+STOKE: Battery:0.790000 Level:79
+ETask 95: Configuration:0 Energy:0.0 Power:0.0 Reward:111.93058504781999 Time:32515 TotalReward:8543.68706014099
+STOKE: Battery:0.790000 Level:79
+ETask 96: Configuration:0 Energy:0.0 Power:0.0 Reward:89.32375817362801 Time:32514 TotalReward:8633.010818314619
+STOKE: Battery:0.790000 Level:79
+ETask 97: Configuration:0 Energy:0.0 Power:0.0 Reward:81.48617703252 Time:32520 TotalReward:8714.49699534714
+STOKE: Battery:0.780000 Level:78
+ETask 98: Configuration:0 Energy:0.0 Power:0.0 Reward:81.76019389242298 Time:32519 TotalReward:8796.257189239563
+STOKE: Battery:0.780000 Level:78
+ETask 99: Configuration:0 Energy:0.0 Power:0.0 Reward:87.62428319625 Time:32518 TotalReward:8883.881472435813
+STOKE: Battery:0.780000 Level:78
+ETask 100: Configuration:0 Energy:0.0 Power:0.0 Reward:81.72794813877 Time:32514 TotalReward:8965.609420574583
+STOKE: Battery:0.780000 Level:78
+ETask 101: Configuration:0 Energy:0.0 Power:0.0 Reward:107.308236746052 Time:32521 TotalReward:9072.917657320635
+STOKE: Battery:0.780000 Level:78
+ETask 102: Configuration:0 Energy:0.0 Power:0.0 Reward:89.38789752672 Time:32520 TotalReward:9162.305554847355
+STOKE: Battery:0.780000 Level:78
+ETask 103: Configuration:0 Energy:0.0 Power:0.0 Reward:90.94843392119999 Time:32520 TotalReward:9253.253988768554
+STOKE: Battery:0.780000 Level:78
+ETask 104: Configuration:0 Energy:0.0 Power:0.0 Reward:82.15452225571501 Time:32517 TotalReward:9335.408511024269
+STOKE: Battery:0.760000 Level:76
+ETask 105: Configuration:0 Energy:0.0 Power:0.0 Reward:81.42627244635001 Time:32509 TotalReward:9416.834783470618
+STOKE: Battery:0.760000 Level:76
+ETask 106: Configuration:0 Energy:0.0 Power:0.0 Reward:83.19899040245001 Time:32510 TotalReward:9500.033773873069
+STOKE: Battery:0.760000 Level:76
+ETask 107: Configuration:0 Energy:0.0 Power:0.0 Reward:80.605122615615 Time:32511 TotalReward:9580.638896488683
+STOKE: Battery:0.760000 Level:76
+ETask 108: Configuration:0 Energy:0.0 Power:0.0 Reward:84.85895926170001 Time:32513 TotalReward:9665.497855750384
+STOKE: Battery:0.760000 Level:76
+ETask 109: Configuration:0 Energy:0.0 Power:0.0 Reward:88.061833610465 Time:32519 TotalReward:9753.559689360849
+STOKE: Battery:0.760000 Level:76
+ETask 110: Configuration:0 Energy:0.0 Power:0.0 Reward:85.425838382934 Time:32511 TotalReward:9838.985527743784
+STOKE: Battery:0.750000 Level:75
+ETask 111: Configuration:0 Energy:0.0 Power:0.0 Reward:96.21585634488798 Time:32519 TotalReward:9935.201384088672
+STOKE: Battery:0.750000 Level:75
+ETask 112: Configuration:0 Energy:0.0 Power:0.0 Reward:85.90619871869 Time:32515 TotalReward:10021.107582807363
+STOKE: Battery:0.750000 Level:75
+ETask 113: Configuration:0 Energy:0.0 Power:0.0 Reward:84.175691163648 Time:32512 TotalReward:10105.28327397101
+STOKE: Battery:0.750000 Level:75
+ETask 114: Configuration:0 Energy:0.0 Power:0.0 Reward:80.41463666776203 Time:32511 TotalReward:10185.697910638772
+STOKE: Battery:0.750000 Level:75
+ETask 115: Configuration:0 Energy:0.0 Power:0.0 Reward:81.66294146808 Time:32517 TotalReward:10267.36085210685
+STOKE: Battery:0.750000 Level:75
+ETask 116: Configuration:0 Energy:0.0 Power:0.0 Reward:82.02033090116399 Time:32519 TotalReward:10349.381183008014
+STOKE: Battery:0.750000 Level:75
+ETask 117: Configuration:0 Energy:0.0 Power:0.0 Reward:107.61212662713599 Time:32519 TotalReward:10456.99330963515
+STOKE: Battery:0.730000 Level:73
+ETask 118: Configuration:0 Energy:0.0 Power:0.0 Reward:85.554443745408 Time:32516 TotalReward:10542.547753380559
+STOKE: Battery:0.730000 Level:73
+ETask 119: Configuration:0 Energy:0.0 Power:0.0 Reward:85.38397460928 Time:32518 TotalReward:10627.931727989839
+STOKE: Battery:0.730000 Level:73
+ETask 120: Configuration:0 Energy:0.0 Power:0.0 Reward:80.22071770608 Time:32515 TotalReward:10708.15244569592
+STOKE: Battery:0.730000 Level:73
+ETask 121: Configuration:0 Energy:0.0 Power:0.0 Reward:80.63076255024 Time:32515 TotalReward:10788.78320824616
+STOKE: Battery:0.730000 Level:73
+ETask 122: Configuration:0 Energy:0.0 Power:0.0 Reward:91.64169222336001 Time:32514 TotalReward:10880.42490046952
+STOKE: Battery:0.730000 Level:73
+ETask 123: Configuration:0 Energy:0.0 Power:0.0 Reward:85.219145028996 Time:32516 TotalReward:10965.644045498515
+STOKE: Battery:0.710000 Level:71
+ETask 124: Configuration:0 Energy:0.0 Power:0.0 Reward:90.04166693221501 Time:32517 TotalReward:11055.68571243073
+STOKE: Battery:0.710000 Level:71
+ETask 125: Configuration:0 Energy:0.0 Power:0.0 Reward:80.90726534549101 Time:32517 TotalReward:11136.592977776221
+STOKE: Battery:0.710000 Level:71
+ETask 126: Configuration:0 Energy:0.0 Power:0.0 Reward:81.17932571959501 Time:32517 TotalReward:11217.772303495816
+STOKE: Battery:0.710000 Level:71
+ETask 127: Configuration:0 Energy:0.0 Power:0.0 Reward:96.996347753492 Time:32516 TotalReward:11314.768651249307
+STOKE: Battery:0.710000 Level:71
+ETask 128: Configuration:0 Energy:0.0 Power:0.0 Reward:83.16681318823699 Time:32519 TotalReward:11397.935464437543
+STOKE: Battery:0.710000 Level:71
+ETask 129: Configuration:0 Energy:0.0 Power:0.0 Reward:79.871078974554 Time:32519 TotalReward:11477.806543412098
+STOKE: Battery:0.700000 Level:70
+ETask 130: Configuration:0 Energy:0.0 Power:0.0 Reward:81.098950209984 Time:32514 TotalReward:11558.905493622082
+STOKE: Battery:0.700000 Level:70
+ETask 131: Configuration:0 Energy:0.0 Power:0.0 Reward:90.348030313002 Time:32509 TotalReward:11649.253523935084
+STOKE: Battery:0.700000 Level:70
+ETask 132: Configuration:0 Energy:0.0 Power:0.0 Reward:86.80162204375199 Time:32516 TotalReward:11736.055145978835
+STOKE: Battery:0.700000 Level:70
+ETask 133: Configuration:0 Energy:0.0 Power:0.0 Reward:80.105710906368 Time:32512 TotalReward:11816.160856885203
+STOKE: Battery:0.700000 Level:70
+ETask 134: Configuration:0 Energy:0.0 Power:0.0 Reward:81.632230390368 Time:32518 TotalReward:11897.79308727557
+STOKE: Battery:0.700000 Level:70
+ETask 135: Configuration:0 Energy:0.0 Power:0.0 Reward:83.579381038188 Time:32514 TotalReward:11981.372468313757
+STOKE: Battery:0.700000 Level:70
+ETask 136: Configuration:0 Energy:0.0 Power:0.0 Reward:81.0518619936 Time:32520 TotalReward:12062.424330307356
+STOKE: Battery:0.680000 Level:68
+ETask 137: Configuration:0 Energy:0.0 Power:0.0 Reward:82.35432411712 Time:32516 TotalReward:12144.778654424475
+STOKE: Battery:0.680000 Level:68
+ETask 138: Configuration:0 Energy:0.0 Power:0.0 Reward:95.31247278336 Time:32512 TotalReward:12240.091127207836
+STOKE: Battery:0.680000 Level:68
+ETask 139: Configuration:0 Energy:0.0 Power:0.0 Reward:86.56711992704 Time:32518 TotalReward:12326.658247134876
+STOKE: Battery:0.680000 Level:68
+ETask 140: Configuration:0 Energy:0.0 Power:0.0 Reward:92.60567416656001 Time:32517 TotalReward:12419.263921301435
+STOKE: Battery:0.680000 Level:68
+ETask 141: Configuration:0 Energy:0.0 Power:0.0 Reward:81.89616481852 Time:32518 TotalReward:12501.160086119955
+STOKE: Battery:0.680000 Level:68
+ETask 142: Configuration:0 Energy:0.0 Power:0.0 Reward:80.41548855252002 Time:32520 TotalReward:12581.575574672475
+STOKE: Battery:0.670000 Level:67
+ETask 143: Configuration:0 Energy:0.0 Power:0.0 Reward:96.528185471529 Time:32517 TotalReward:12678.103760144004
+STOKE: Battery:0.670000 Level:67
+ETask 144: Configuration:0 Energy:0.0 Power:0.0 Reward:82.703789822976 Time:32512 TotalReward:12760.80754996698
+STOKE: Battery:0.670000 Level:67
+ETask 145: Configuration:0 Energy:0.0 Power:0.0 Reward:81.564734728848 Time:32518 TotalReward:12842.372284695828
+STOKE: Battery:0.670000 Level:67
+ETask 146: Configuration:0 Energy:0.0 Power:0.0 Reward:92.032573162088 Time:32519 TotalReward:12934.404857857917
+STOKE: Battery:0.670000 Level:67
+ETask 147: Configuration:0 Energy:0.0 Power:0.0 Reward:82.915300085248 Time:32512 TotalReward:13017.320157943164
+STOKE: Battery:0.670000 Level:67
+ETask 148: Configuration:0 Energy:0.0 Power:0.0 Reward:81.49769973162901 Time:32517 TotalReward:13098.817857674794
+STOKE: Battery:0.650000 Level:65
+ETask 149: Configuration:0 Energy:0.0 Power:0.0 Reward:82.59921430263098 Time:32513 TotalReward:13181.417071977425
+STOKE: Battery:0.650000 Level:65
+ETask 150: Configuration:0 Energy:0.0 Power:0.0 Reward:82.21196793716499 Time:32519 TotalReward:13263.62903991459
+STOKE: Battery:0.650000 Level:65
+ETask 151: Configuration:0 Energy:0.0 Power:0.0 Reward:80.90354943279901 Time:32517 TotalReward:13344.532589347387
+STOKE: Battery:0.650000 Level:65
+ETask 152: Configuration:0 Energy:0.0 Power:0.0 Reward:86.358246915174 Time:32514 TotalReward:13430.89083626256
+STOKE: Battery:0.650000 Level:65
+ETask 153: Configuration:0 Energy:0.0 Power:0.0 Reward:93.16183340895 Time:32514 TotalReward:13524.052669671511
+STOKE: Battery:0.650000 Level:65
+ETask 154: Configuration:0 Energy:0.0 Power:0.0 Reward:90.48633066395101 Time:32517 TotalReward:13614.539000335462
+STOKE: Battery:0.640000 Level:64
+ETask 155: Configuration:0 Energy:0.0 Power:0.0 Reward:80.96733691542902 Time:32521 TotalReward:13695.506337250892
+STOKE: Battery:0.640000 Level:64
+ETask 156: Configuration:0 Energy:0.0 Power:0.0 Reward:82.113441762688 Time:32522 TotalReward:13777.61977901358
+STOKE: Battery:0.640000 Level:64
+ETask 157: Configuration:0 Energy:0.0 Power:0.0 Reward:90.369145061052 Time:32516 TotalReward:13867.98892407463
+STOKE: Battery:0.640000 Level:64
+ETask 158: Configuration:0 Energy:0.0 Power:0.0 Reward:81.14048551191 Time:32514 TotalReward:13949.129409586541
+STOKE: Battery:0.640000 Level:64
+ETask 159: Configuration:0 Energy:0.0 Power:0.0 Reward:84.05866569201501 Time:32515 TotalReward:14033.188075278556
+STOKE: Battery:0.640000 Level:64
+ETask 160: Configuration:0 Energy:0.0 Power:0.0 Reward:83.75475717201601 Time:32508 TotalReward:14116.942832450572
+STOKE: Battery:0.640000 Level:64
+ETask 161: Configuration:0 Energy:0.0 Power:0.0 Reward:83.014091858425 Time:32515 TotalReward:14199.956924308997
+STOKE: Battery:0.620000 Level:62
+ETask 162: Configuration:0 Energy:0.0 Power:0.0 Reward:85.240147444725 Time:32515 TotalReward:14285.197071753722
+STOKE: Battery:0.620000 Level:62
+ETask 163: Configuration:0 Energy:0.0 Power:0.0 Reward:82.02715950572 Time:32516 TotalReward:14367.224231259443
+STOKE: Battery:0.620000 Level:62
+ETask 164: Configuration:0 Energy:0.0 Power:0.0 Reward:79.78195653141998 Time:32516 TotalReward:14447.006187790863
+STOKE: Battery:0.620000 Level:62
+ETask 165: Configuration:0 Energy:0.0 Power:0.0 Reward:87.07216035141 Time:32517 TotalReward:14534.078348142273
+STOKE: Battery:0.620000 Level:62
+ETask 166: Configuration:0 Energy:0.0 Power:0.0 Reward:98.70012384735999 Time:32510 TotalReward:14632.778471989634
+STOKE: Battery:0.610000 Level:61
+ETask 167: Configuration:0 Energy:0.0 Power:0.0 Reward:90.054477512608 Time:32519 TotalReward:14722.83294950224
+STOKE: Battery:0.600000 Level:60
+ETask 168: Configuration:0 Energy:0.0 Power:0.0 Reward:87.692623062912 Time:32519 TotalReward:14810.525572565153
+STOKE: Battery:0.600000 Level:60
+ETask 169: Configuration:0 Energy:0.0 Power:0.0 Reward:89.10702026240001 Time:32518 TotalReward:14899.632592827553
+STOKE: Battery:0.600000 Level:60
+ETask 170: Configuration:0 Energy:0.0 Power:0.0 Reward:88.794000095808 Time:32521 TotalReward:14988.42659292336
+STOKE: Battery:0.600000 Level:60
+ETask 171: Configuration:0 Energy:0.0 Power:0.0 Reward:84.58851572841601 Time:32517 TotalReward:15073.015108651776
+STOKE: Battery:0.600000 Level:60
+ETask 172: Configuration:0 Energy:0.0 Power:0.0 Reward:83.76837249984001 Time:32514 TotalReward:15156.783481151617
+STOKE: Battery:0.600000 Level:60
+ETask 173: Configuration:0 Energy:0.0 Power:0.0 Reward:86.31283496352 Time:32516 TotalReward:15243.096316115138
+STOKE: Battery:0.590000 Level:59
+ETask 174: Configuration:0 Energy:0.0 Power:0.0 Reward:83.01236637651 Time:32519 TotalReward:15326.108682491647
+STOKE: Battery:0.590000 Level:59
+ETask 175: Configuration:0 Energy:0.0 Power:0.0 Reward:81.22031758697999 Time:32513 TotalReward:15407.329000078627
+STOKE: Battery:0.590000 Level:59
+ETask 176: Configuration:0 Energy:0.0 Power:0.0 Reward:86.30752601808001 Time:32514 TotalReward:15493.636526096707
+STOKE: Battery:0.590000 Level:59
+ETask 177: Configuration:0 Energy:0.0 Power:0.0 Reward:98.90249787660001 Time:32516 TotalReward:15592.539023973306
+STOKE: Battery:0.590000 Level:59
+ETask 178: Configuration:0 Energy:0.0 Power:0.0 Reward:93.30993418113 Time:32517 TotalReward:15685.848958154436
+STOKE: Battery:0.590000 Level:59
+ETask 179: Configuration:0 Energy:0.0 Power:0.0 Reward:85.26636945272101 Time:32531 TotalReward:15771.115327607158
+STOKE: Battery:0.570000 Level:57
+ETask 180: Configuration:0 Energy:0.0 Power:0.0 Reward:82.389937237466 Time:32519 TotalReward:15853.505264844624
+STOKE: Battery:0.570000 Level:57
+ETask 181: Configuration:0 Energy:0.0 Power:0.0 Reward:82.36863607506 Time:32518 TotalReward:15935.873900919683
+STOKE: Battery:0.570000 Level:57
+ETask 182: Configuration:0 Energy:0.0 Power:0.0 Reward:80.630392910144 Time:32516 TotalReward:16016.504293829827
+STOKE: Battery:0.570000 Level:57
+ETask 183: Configuration:0 Energy:0.0 Power:0.0 Reward:81.609950351512 Time:32516 TotalReward:16098.114244181339
+STOKE: Battery:0.570000 Level:57
+ETask 184: Configuration:0 Energy:0.0 Power:0.0 Reward:97.07967128772002 Time:32517 TotalReward:16195.193915469059
+STOKE: Battery:0.570000 Level:57
+ETask 185: Configuration:0 Energy:0.0 Power:0.0 Reward:92.91269592305999 Time:32510 TotalReward:16288.106611392119
+STOKE: Battery:0.560000 Level:56
+ETask 186: Configuration:0 Energy:0.0 Power:0.0 Reward:82.15713213516902 Time:32517 TotalReward:16370.263743527288
+STOKE: Battery:0.560000 Level:56
+ETask 187: Configuration:0 Energy:0.0 Power:0.0 Reward:79.887110381496 Time:32516 TotalReward:16450.150853908784
+STOKE: Battery:0.560000 Level:56
+ETask 188: Configuration:0 Energy:0.0 Power:0.0 Reward:96.50032250262298 Time:32513 TotalReward:16546.651176411408
+STOKE: Battery:0.560000 Level:56
+ETask 189: Configuration:0 Energy:0.0 Power:0.0 Reward:80.125842540636 Time:32514 TotalReward:16626.777018952045
+STOKE: Battery:0.560000 Level:56
+ETask 190: Configuration:0 Energy:0.0 Power:0.0 Reward:81.453687935295 Time:32513 TotalReward:16708.23070688734
+STOKE: Battery:0.560000 Level:56
+ETask 191: Configuration:0 Energy:0.0 Power:0.0 Reward:79.935691721925 Time:32509 TotalReward:16788.166398609268
+STOKE: Battery:0.540000 Level:54
+ETask 192: Configuration:0 Energy:0.0 Power:0.0 Reward:89.10486776142001 Time:32515 TotalReward:16877.271266370688
+STOKE: Battery:0.540000 Level:54
+ETask 193: Configuration:0 Energy:0.0 Power:0.0 Reward:95.36032983424201 Time:32518 TotalReward:16972.63159620493
+STOKE: Battery:0.540000 Level:54
+ETask 194: Configuration:0 Energy:0.0 Power:0.0 Reward:88.89571874430602 Time:32514 TotalReward:17061.527314949235
+STOKE: Battery:0.540000 Level:54
+ETask 195: Configuration:0 Energy:0.0 Power:0.0 Reward:81.43247723169999 Time:32515 TotalReward:17142.959792180936
+STOKE: Battery:0.540000 Level:54
+ETask 196: Configuration:0 Energy:0.0 Power:0.0 Reward:80.828267850944 Time:32521 TotalReward:17223.78806003188
+STOKE: Battery:0.540000 Level:54
+ETask 197: Configuration:0 Energy:0.0 Power:0.0 Reward:86.14499210714699 Time:32517 TotalReward:17309.933052139026
+STOKE: Battery:0.530000 Level:53
+ETask 198: Configuration:0 Energy:0.0 Power:0.0 Reward:81.39135960176198 Time:32522 TotalReward:17391.32441174079
+STOKE: Battery:0.530000 Level:53
+ETask 199: Configuration:0 Energy:0.0 Power:0.0 Reward:81.43244306881199 Time:32516 TotalReward:17472.7568548096
+STOKE: Battery:0.530000 Level:53
+ETask 200: Configuration:0 Energy:0.0 Power:0.0 Reward:86.68435126885598 Time:32516 TotalReward:17559.441206078456
+STOKE: Battery:0.530000 Level:53
+ETask 201: Configuration:0 Energy:0.0 Power:0.0 Reward:91.10086152995399 Time:32518 TotalReward:17650.54206760841
+STOKE: Battery:0.530000 Level:53
+ETask 202: Configuration:0 Energy:0.0 Power:0.0 Reward:83.31241482127199 Time:32513 TotalReward:17733.854482429684
+STOKE: Battery:0.530000 Level:53
+ETask 203: Configuration:0 Energy:0.0 Power:0.0 Reward:80.673620912874 Time:32517 TotalReward:17814.52810334256
+STOKE: Battery:0.510000 Level:51
+ETask 204: Configuration:0 Energy:0.0 Power:0.0 Reward:81.753717894552 Time:32516 TotalReward:17896.281821237113
+STOKE: Battery:0.510000 Level:51
+ETask 205: Configuration:0 Energy:0.0 Power:0.0 Reward:79.67298023784001 Time:32520 TotalReward:17975.954801474953
+STOKE: Battery:0.510000 Level:51
+ETask 206: Configuration:0 Energy:0.0 Power:0.0 Reward:80.25802593731999 Time:32515 TotalReward:18056.212827412273
+STOKE: Battery:0.510000 Level:51
+ETask 207: Configuration:0 Energy:0.0 Power:0.0 Reward:80.77677091248601 Time:32521 TotalReward:18136.98959832476
+STOKE: Battery:0.510000 Level:51
+ETask 208: Configuration:0 Energy:0.0 Power:0.0 Reward:106.85182205808 Time:32514 TotalReward:18243.84142038284
+STOKE: Battery:0.510000 Level:51
+ETask 209: Configuration:0 Energy:0.0 Power:0.0 Reward:105.135954676844 Time:32513 TotalReward:18348.977375059683
+STOKE: Battery:0.500000 Level:50
+ETask 210: Configuration:0 Energy:0.0 Power:0.0 Reward:84.61103521671001 Time:32511 TotalReward:18433.588410276392
+STOKE: Battery:0.500000 Level:50
+ETask 211: Configuration:0 Energy:0.0 Power:0.0 Reward:80.914727836824 Time:32514 TotalReward:18514.503138113218
+STOKE: Battery:0.500000 Level:50
+ETask 212: Configuration:0 Energy:0.0 Power:0.0 Reward:82.96841522830498 Time:32535 TotalReward:18597.471553341522
+STOKE: Battery:0.500000 Level:50
+ETask 213: Configuration:0 Energy:0.0 Power:0.0 Reward:95.24552561105399 Time:32519 TotalReward:18692.717078952577
+STOKE: Battery:0.500000 Level:50
+ETask 214: Configuration:0 Energy:0.0 Power:0.0 Reward:81.13446957900699 Time:32513 TotalReward:18773.851548531584
+STOKE: Battery:0.500000 Level:50
+ETask 215: Configuration:0 Energy:0.0 Power:0.0 Reward:87.642945287348 Time:32516 TotalReward:18861.494493818933
+STOKE: Battery:0.500000 Level:50
+ETask 216: Configuration:0 Energy:0.0 Power:0.0 Reward:80.80817791199999 Time:32516 TotalReward:18942.302671730933
+STOKE: Battery:0.480000 Level:48
+ETask 217: Configuration:0 Energy:0.0 Power:0.0 Reward:82.57593038184001 Time:32517 TotalReward:19024.878602112774
+STOKE: Battery:0.480000 Level:48
+ETask 218: Configuration:0 Energy:0.0 Power:0.0 Reward:81.55398480516001 Time:32517 TotalReward:19106.432586917934
+STOKE: Battery:0.480000 Level:48
+ETask 219: Configuration:0 Energy:0.0 Power:0.0 Reward:81.15882188750001 Time:32515 TotalReward:19187.591408805434
+STOKE: Battery:0.480000 Level:48
+ETask 220: Configuration:0 Energy:0.0 Power:0.0 Reward:81.48459107491499 Time:32519 TotalReward:19269.075999880348
+STOKE: Battery:0.480000 Level:48
+ETask 221: Configuration:0 Energy:0.0 Power:0.0 Reward:82.785484077625 Time:32519 TotalReward:19351.86148395797
+STOKE: Battery:0.480000 Level:48
+ETask 222: Configuration:0 Energy:0.0 Power:0.0 Reward:82.27720008523201 Time:32514 TotalReward:19434.138684043202
+STOKE: Battery:0.460000 Level:46
+ETask 223: Configuration:0 Energy:0.0 Power:0.0 Reward:93.01475636745599 Time:32516 TotalReward:19527.153440410657
+STOKE: Battery:0.460000 Level:46
+ETask 224: Configuration:0 Energy:0.0 Power:0.0 Reward:85.025352695064 Time:32523 TotalReward:19612.178793105722
+STOKE: Battery:0.460000 Level:46
+ETask 225: Configuration:0 Energy:0.0 Power:0.0 Reward:93.960111984288 Time:32516 TotalReward:19706.13890509001
+STOKE: Battery:0.460000 Level:46
+ETask 226: Configuration:0 Energy:0.0 Power:0.0 Reward:82.324375760224 Time:32518 TotalReward:19788.463280850236
+STOKE: Battery:0.460000 Level:46
+ETask 227: Configuration:0 Energy:0.0 Power:0.0 Reward:85.02012406592799 Time:32521 TotalReward:19873.48340491616
+STOKE: Battery:0.460000 Level:46
+ETask 228: Configuration:0 Energy:0.0 Power:0.0 Reward:86.815451611042 Time:32522 TotalReward:19960.298856527203
+STOKE: Battery:0.450000 Level:45
+ETask 229: Configuration:0 Energy:0.0 Power:0.0 Reward:95.94384625112298 Time:32513 TotalReward:20056.242702778327
+STOKE: Battery:0.450000 Level:45
+ETask 230: Configuration:0 Energy:0.0 Power:0.0 Reward:82.40600536315098 Time:32519 TotalReward:20138.648708141478
+STOKE: Battery:0.450000 Level:45
+ETask 231: Configuration:0 Energy:0.0 Power:0.0 Reward:81.74372125723698 Time:32513 TotalReward:20220.392429398715
+STOKE: Battery:0.450000 Level:45
+ETask 232: Configuration:0 Energy:0.0 Power:0.0 Reward:85.71102311916 Time:32517 TotalReward:20306.103452517873
+STOKE: Battery:0.450000 Level:45
+ETask 233: Configuration:0 Energy:0.0 Power:0.0 Reward:112.82858049063 Time:32514 TotalReward:20418.932033008503
+STOKE: Battery:0.450000 Level:45
+ETask 234: Configuration:0 Energy:0.0 Power:0.0 Reward:81.28811824021 Time:32515 TotalReward:20500.22015124871
+STOKE: Battery:0.430000 Level:43
+ETask 235: Configuration:0 Energy:0.0 Power:0.0 Reward:84.730748407724 Time:32518 TotalReward:20584.950899656436
+STOKE: Battery:0.430000 Level:43
+ETask 236: Configuration:0 Energy:0.0 Power:0.0 Reward:82.744479458136 Time:32514 TotalReward:20667.69537911457
+STOKE: Battery:0.430000 Level:43
+ETask 237: Configuration:0 Energy:0.0 Power:0.0 Reward:84.933840097012 Time:32518 TotalReward:20752.629219211583
+STOKE: Battery:0.430000 Level:43
+ETask 238: Configuration:0 Energy:0.0 Power:0.0 Reward:86.500964908458 Time:32517 TotalReward:20839.13018412004
+STOKE: Battery:0.430000 Level:43
+ETask 239: Configuration:0 Energy:0.0 Power:0.0 Reward:91.85237980176001 Time:32509 TotalReward:20930.9825639218
+STOKE: Battery:0.430000 Level:43
+ETask 240: Configuration:0 Energy:0.0 Power:0.0 Reward:95.21569793226 Time:32518 TotalReward:21026.19826185406
+STOKE: Battery:0.420000 Level:42
+ETask 241: Configuration:0 Energy:0.0 Power:0.0 Reward:85.31477922177 Time:32515 TotalReward:21111.513041075832
+STOKE: Battery:0.420000 Level:42
+ETask 242: Configuration:0 Energy:0.0 Power:0.0 Reward:82.577737911328 Time:32516 TotalReward:21194.09077898716
+STOKE: Battery:0.420000 Level:42
+ETask 243: Configuration:0 Energy:0.0 Power:0.0 Reward:82.733011543552 Time:32512 TotalReward:21276.82379053071
+STOKE: Battery:0.420000 Level:42
+ETask 244: Configuration:0 Energy:0.0 Power:0.0 Reward:80.09288615411998 Time:32515 TotalReward:21356.916676684832
+STOKE: Battery:0.420000 Level:42
+ETask 245: Configuration:0 Energy:0.0 Power:0.0 Reward:83.05577845356 Time:32516 TotalReward:21439.97245513839
+STOKE: Battery:0.420000 Level:42
+ETask 246: Configuration:0 Energy:0.0 Power:0.0 Reward:83.05946201826 Time:32519 TotalReward:21523.03191715665
+STOKE: Battery:0.400000 Level:40
+ETask 247: Configuration:0 Energy:0.0 Power:0.0 Reward:84.72455013593999 Time:32516 TotalReward:21607.75646729259
+STOKE: Battery:0.400000 Level:40
+ETask 248: Configuration:0 Energy:0.0 Power:0.0 Reward:87.345555804 Time:32520 TotalReward:21695.10202309659
+STOKE: Battery:0.400000 Level:40
+ETask 249: Configuration:0 Energy:0.0 Power:0.0 Reward:79.54798804348499 Time:32519 TotalReward:21774.650011140075
+STOKE: Battery:0.400000 Level:40
+ETask 250: Configuration:0 Energy:0.0 Power:0.0 Reward:80.88755954058 Time:32518 TotalReward:21855.537570680655
+STOKE: Battery:0.400000 Level:40
+ETask 251: Configuration:0 Energy:0.0 Power:0.0 Reward:82.44003253824 Time:32514 TotalReward:21937.977603218897
+STOKE: Battery:0.400000 Level:40
+ETask 252: Configuration:0 Energy:0.0 Power:0.0 Reward:79.06760089644 Time:32518 TotalReward:22017.045204115337
+STOKE: Battery:0.400000 Level:40
+ETask 253: Configuration:0 Energy:0.0 Power:0.0 Reward:90.85700654280001 Time:32520 TotalReward:22107.902210658136
+STOKE: Battery:0.390000 Level:39
+ETask 254: Configuration:0 Energy:0.0 Power:0.0 Reward:85.54809065688 Time:32520 TotalReward:22193.450301315017
+STOKE: Battery:0.390000 Level:39
+ETask 255: Configuration:0 Energy:0.0 Power:0.0 Reward:88.413095292678 Time:32513 TotalReward:22281.863396607696
+STOKE: Battery:0.390000 Level:39
+ETask 256: Configuration:0 Energy:0.0 Power:0.0 Reward:81.719643897306 Time:32517 TotalReward:22363.583040505
+STOKE: Battery:0.390000 Level:39
+ETask 257: Configuration:0 Energy:0.0 Power:0.0 Reward:82.58045475319199 Time:32516 TotalReward:22446.16349525819
+STOKE: Battery:0.390000 Level:39
+ETask 258: Configuration:0 Energy:0.0 Power:0.0 Reward:82.42080198282 Time:32511 TotalReward:22528.58429724101
+STOKE: Battery:0.390000 Level:39
+ETask 259: Configuration:0 Energy:0.0 Power:0.0 Reward:81.37819017744 Time:32520 TotalReward:22609.96248741845
+STOKE: Battery:0.370000 Level:37
+ETask 260: Configuration:0 Energy:0.0 Power:0.0 Reward:81.486367579136 Time:32512 TotalReward:22691.448854997583
+STOKE: Battery:0.370000 Level:37
+ETask 261: Configuration:0 Energy:0.0 Power:0.0 Reward:91.0922350247 Time:32515 TotalReward:22782.54109002228
+STOKE: Battery:0.370000 Level:37
+ETask 262: Configuration:0 Energy:0.0 Power:0.0 Reward:90.01045131624002 Time:32508 TotalReward:22872.551541338522
+STOKE: Battery:0.370000 Level:37
+ETask 263: Configuration:0 Energy:0.0 Power:0.0 Reward:85.107685402116 Time:32517 TotalReward:22957.659226740638
+STOKE: Battery:0.370000 Level:37
+ETask 264: Configuration:0 Energy:0.0 Power:0.0 Reward:81.83511422604 Time:32520 TotalReward:23039.494340966678
+STOKE: Battery:0.350000 Level:35
+ETask 265: Configuration:0 Energy:0.0 Power:0.0 Reward:80.49311970795 Time:32510 TotalReward:23119.987460674627
+STOKE: Battery:0.350000 Level:35
+ETask 266: Configuration:0 Energy:0.0 Power:0.0 Reward:81.790998356664 Time:32517 TotalReward:23201.77845903129
+STOKE: Battery:0.350000 Level:35
+ETask 267: Configuration:0 Energy:0.0 Power:0.0 Reward:83.95220274438601 Time:32518 TotalReward:23285.730661775677
+STOKE: Battery:0.350000 Level:35
+ETask 268: Configuration:0 Energy:0.0 Power:0.0 Reward:83.771820793335 Time:32519 TotalReward:23369.502482569012
+STOKE: Battery:0.350000 Level:35
+ETask 269: Configuration:0 Energy:0.0 Power:0.0 Reward:84.1560924507 Time:32519 TotalReward:23453.658575019712
+STOKE: Battery:0.350000 Level:35
+ETask 270: Configuration:0 Energy:0.0 Power:0.0 Reward:86.852422573138 Time:32521 TotalReward:23540.51099759285
+STOKE: Battery:0.340000 Level:34
+ETask 271: Configuration:0 Energy:0.0 Power:0.0 Reward:81.02926859352 Time:32520 TotalReward:23621.54026618637
+STOKE: Battery:0.340000 Level:34
+ETask 272: Configuration:0 Energy:0.0 Power:0.0 Reward:81.44647591272398 Time:32519 TotalReward:23702.986742099092
+STOKE: Battery:0.340000 Level:34
+ETask 273: Configuration:0 Energy:0.0 Power:0.0 Reward:82.61714831086599 Time:32513 TotalReward:23785.60389040996
+STOKE: Battery:0.340000 Level:34
+ETask 274: Configuration:0 Energy:0.0 Power:0.0 Reward:86.19519018059401 Time:32514 TotalReward:23871.799080590554
+STOKE: Battery:0.340000 Level:34
+ETask 275: Configuration:0 Energy:0.0 Power:0.0 Reward:87.44912810768699 Time:32519 TotalReward:23959.24820869824
+STOKE: Battery:0.340000 Level:34
+ETask 276: Configuration:0 Energy:0.0 Power:0.0 Reward:88.50271011555999 Time:32519 TotalReward:24047.750918813803
+STOKE: Battery:0.320000 Level:32
+ETask 277: Configuration:0 Energy:0.0 Power:0.0 Reward:87.21683367163199 Time:32519 TotalReward:24134.967752485434
+STOKE: Battery:0.320000 Level:32
+ETask 278: Configuration:0 Energy:0.0 Power:0.0 Reward:84.12542462352002 Time:32520 TotalReward:24219.093177108953
+STOKE: Battery:0.320000 Level:32
+ETask 279: Configuration:0 Energy:0.0 Power:0.0 Reward:98.85609058617598 Time:32516 TotalReward:24317.94926769513
+STOKE: Battery:0.320000 Level:32
+ETask 280: Configuration:0 Energy:0.0 Power:0.0 Reward:85.73474587585599 Time:32516 TotalReward:24403.684013570986
+STOKE: Battery:0.320000 Level:32
+ETask 281: Configuration:0 Energy:0.0 Power:0.0 Reward:81.718447473264 Time:32511 TotalReward:24485.40246104425
+STOKE: Battery:0.320000 Level:32
+ETask 282: Configuration:0 Energy:0.0 Power:0.0 Reward:80.70246254728 Time:32515 TotalReward:24566.10492359153
+STOKE: Battery:0.310000 Level:31
+ETask 283: Configuration:0 Energy:0.0 Power:0.0 Reward:93.79868014052501 Time:32509 TotalReward:24659.903603732055
+STOKE: Battery:0.310000 Level:31
+ETask 284: Configuration:0 Energy:0.0 Power:0.0 Reward:90.08510147802001 Time:32516 TotalReward:24749.988705210075
+STOKE: Battery:0.310000 Level:31
+ETask 285: Configuration:0 Energy:0.0 Power:0.0 Reward:88.31564566811 Time:32515 TotalReward:24838.304350878185
+STOKE: Battery:0.310000 Level:31
+ETask 286: Configuration:0 Energy:0.0 Power:0.0 Reward:81.50887611718201 Time:32517 TotalReward:24919.813226995368
+STOKE: Battery:0.310000 Level:31
+ETask 287: Configuration:0 Energy:0.0 Power:0.0 Reward:93.126791903772 Time:32516 TotalReward:25012.94001889914
+STOKE: Battery:0.310000 Level:31
+ETask 288: Configuration:0 Energy:0.0 Power:0.0 Reward:82.90967906040001 Time:32514 TotalReward:25095.84969795954
+STOKE: Battery:0.290000 Level:29
+ETask 289: Configuration:0 Energy:0.0 Power:0.0 Reward:80.97634007049601 Time:32517 TotalReward:25176.826038030034
+STOKE: Battery:0.290000 Level:29
+ETask 290: Configuration:0 Energy:0.0 Power:0.0 Reward:79.70410857763198 Time:32516 TotalReward:25256.530146607667
+STOKE: Battery:0.290000 Level:29
+ETask 291: Configuration:0 Energy:0.0 Power:0.0 Reward:90.375564611904 Time:32518 TotalReward:25346.90571121957
+STOKE: Battery:0.290000 Level:29
+ETask 292: Configuration:0 Energy:0.0 Power:0.0 Reward:100.77578027323202 Time:32514 TotalReward:25447.6814914928
+STOKE: Battery:0.290000 Level:29
+ETask 293: Configuration:0 Energy:0.0 Power:0.0 Reward:83.56785386048 Time:32509 TotalReward:25531.24934535328
+STOKE: Battery:0.280000 Level:28
+ETask 294: Configuration:0 Energy:0.0 Power:0.0 Reward:80.95317166580001 Time:32515 TotalReward:25612.20251701908
+STOKE: Battery:0.280000 Level:28
+ETask 295: Configuration:0 Energy:0.0 Power:0.0 Reward:82.90373978673 Time:32517 TotalReward:25695.106256805808
+STOKE: Battery:0.270000 Level:27
+ETask 296: Configuration:0 Energy:0.0 Power:0.0 Reward:90.01373350780798 Time:32516 TotalReward:25785.119990313615
+STOKE: Battery:0.270000 Level:27
+ETask 297: Configuration:0 Energy:0.0 Power:0.0 Reward:81.680419726308 Time:32514 TotalReward:25866.800410039923
+STOKE: Battery:0.270000 Level:27
+ETask 298: Configuration:0 Energy:0.0 Power:0.0 Reward:87.84914357854801 Time:32514 TotalReward:25954.64955361847
+STOKE: Battery:0.270000 Level:27
+ETask 299: Configuration:0 Energy:0.0 Power:0.0 Reward:93.3060826096 Time:32518 TotalReward:26047.95563622807
+STOKE: Battery:0.260000 Level:26
+ETask 300: Configuration:0 Energy:0.0 Power:0.0 Reward:79.3633154066 Time:32519 TotalReward:26127.318951634672
+STOKE: Battery:0.260000 Level:26
+ETask 301: Configuration:0 Energy:0.0 Power:0.0 Reward:80.38250204864998 Time:32521 TotalReward:26207.701453683323
+STOKE: Battery:0.260000 Level:26
+ETask 302: Configuration:0 Energy:0.0 Power:0.0 Reward:82.4736583295 Time:32510 TotalReward:26290.175112012825
+STOKE: Battery:0.260000 Level:26
+ETask 303: Configuration:0 Energy:0.0 Power:0.0 Reward:79.0745988736 Time:32512 TotalReward:26369.249710886426
+STOKE: Battery:0.260000 Level:26
+ETask 304: Configuration:0 Energy:0.0 Power:0.0 Reward:85.72784269349998 Time:32515 TotalReward:26454.977553579927
+STOKE: Battery:0.260000 Level:26
+ETask 305: Configuration:0 Energy:0.0 Power:0.0 Reward:96.72184223524201 Time:32518 TotalReward:26551.69939581517
+STOKE: Battery:0.240000 Level:24
+ETask 306: Configuration:0 Energy:0.0 Power:0.0 Reward:103.19693779829701 Time:32517 TotalReward:26654.896333613466
+STOKE: Battery:0.240000 Level:24
+ETask 307: Configuration:0 Energy:0.0 Power:0.0 Reward:86.42754289971201 Time:32512 TotalReward:26741.32387651318
+STOKE: Battery:0.240000 Level:24
+ETask 308: Configuration:0 Energy:0.0 Power:0.0 Reward:82.881432107264 Time:32512 TotalReward:26824.205308620443
+STOKE: Battery:0.240000 Level:24
+ETask 309: Configuration:0 Energy:0.0 Power:0.0 Reward:97.03866432442001 Time:32515 TotalReward:26921.243972944863
+STOKE: Battery:0.240000 Level:24
+ETask 310: Configuration:0 Energy:0.0 Power:0.0 Reward:81.61935128414999 Time:32510 TotalReward:27002.863324229013
+STOKE: Battery:0.230000 Level:23
+ETask 311: Configuration:0 Energy:0.0 Power:0.0 Reward:94.24235785545001 Time:32517 TotalReward:27097.105682084464
+STOKE: Battery:0.230000 Level:23
+ETask 312: Configuration:0 Energy:0.0 Power:0.0 Reward:87.26418748152 Time:32518 TotalReward:27184.369869565984
+STOKE: Battery:0.230000 Level:23
+ETask 313: Configuration:0 Energy:0.0 Power:0.0 Reward:90.39720710006998 Time:32513 TotalReward:27274.767076666056
+STOKE: Battery:0.230000 Level:23
+ETask 314: Configuration:0 Energy:0.0 Power:0.0 Reward:82.59138295808398 Time:32516 TotalReward:27357.358459624138
+STOKE: Battery:0.220000 Level:22
+ETask 315: Configuration:0 Energy:0.0 Power:0.0 Reward:84.84460655655599 Time:32516 TotalReward:27442.203066180693
+STOKE: Battery:0.220000 Level:22
+ETask 316: Configuration:0 Energy:0.0 Power:0.0 Reward:88.726481359056 Time:32518 TotalReward:27530.92954753975
+STOKE: Battery:0.210000 Level:21
+ETask 317: Configuration:0 Energy:0.0 Power:0.0 Reward:80.60548368549601 Time:32517 TotalReward:27611.535031225245
+STOKE: Battery:0.210000 Level:21
+ETask 318: Configuration:0 Energy:0.0 Power:0.0 Reward:81.832256966808 Time:32517 TotalReward:27693.367288192054
+STOKE: Battery:0.210000 Level:21
+ETask 319: Configuration:0 Energy:0.0 Power:0.0 Reward:96.52923025704 Time:32521 TotalReward:27789.896518449095
+STOKE: Battery:0.210000 Level:21
+ETask 320: Configuration:0 Energy:0.0 Power:0.0 Reward:93.36308445237599 Time:32518 TotalReward:27883.25960290147
+STOKE: Battery:0.210000 Level:21
+ETask 321: Configuration:0 Energy:0.0 Power:0.0 Reward:89.75906150889598 Time:32513 TotalReward:27973.018664410367
+STOKE: Battery:0.210000 Level:21
+ETask 322: Configuration:0 Energy:0.0 Power:0.0 Reward:81.68216284500001 Time:32520 TotalReward:28054.70082725537
+STOKE: Battery:0.200000 Level:20
+ETask 323: Configuration:0 Energy:0.0 Power:0.0 Reward:79.2800519115 Time:32516 TotalReward:28133.98087916687
+STOKE: Battery:0.200000 Level:20
+ETask 324: Configuration:0 Energy:0.0 Power:0.0 Reward:83.149468642125 Time:32517 TotalReward:28217.130347808994
+STOKE: Battery:0.200000 Level:20
+ETask 325: Configuration:0 Energy:0.0 Power:0.0 Reward:83.920259885 Time:32516 TotalReward:28301.050607693993
+STOKE: Battery:0.200000 Level:20
+ETask 326: Configuration:0 Energy:0.0 Power:0.0 Reward:81.662068832 Time:32512 TotalReward:28382.712676525993
+STOKE: Battery:0.200000 Level:20
+ETask 327: Configuration:0 Energy:0.0 Power:0.0 Reward:84.92746330749999 Time:32516 TotalReward:28467.640139833493
+STOKE: Battery:0.200000 Level:20
+ETask 328: Configuration:0 Energy:0.0 Power:0.0 Reward:89.267881573002 Time:32518 TotalReward:28556.908021406496
+STOKE: Battery:0.180000 Level:18
+ETask 329: Configuration:0 Energy:0.0 Power:0.0 Reward:90.979669207008 Time:32514 TotalReward:28647.887690613505
+STOKE: Battery:0.180000 Level:18
+ETask 330: Configuration:0 Energy:0.0 Power:0.0 Reward:85.27881783353999 Time:32523 TotalReward:28733.166508447044
+STOKE: Battery:0.180000 Level:18
+ETask 331: Configuration:0 Energy:0.0 Power:0.0 Reward:84.60695928780001 Time:32520 TotalReward:28817.773467734845
+STOKE: Battery:0.180000 Level:18
+ETask 332: Configuration:0 Energy:0.0 Power:0.0 Reward:84.32190005324799 Time:32516 TotalReward:28902.095367788093
+STOKE: Battery:0.170000 Level:17
+ETask 333: Configuration:0 Energy:0.0 Power:0.0 Reward:98.9854369792 Time:32512 TotalReward:29001.080804767294
+STOKE: Battery:0.170000 Level:17
+ETask 334: Configuration:0 Energy:0.0 Power:0.0 Reward:82.76482040816 Time:32516 TotalReward:29083.845625175454
+STOKE: Battery:0.170000 Level:17
+ETask 335: Configuration:0 Energy:0.0 Power:0.0 Reward:88.664497799936 Time:32512 TotalReward:29172.51012297539
+STOKE: Battery:0.170000 Level:17
+ETask 336: Configuration:0 Energy:0.0 Power:0.0 Reward:91.57378156741201 Time:32518 TotalReward:29264.0839045428
+STOKE: Battery:0.170000 Level:17
+ETask 337: Configuration:0 Energy:0.0 Power:0.0 Reward:101.06466934837 Time:32515 TotalReward:29365.14857389117
+STOKE: Battery:0.170000 Level:17
+ETask 338: Configuration:0 Energy:0.0 Power:0.0 Reward:82.33880672777401 Time:32517 TotalReward:29447.487380618943
+STOKE: Battery:0.170000 Level:17
+ETask 339: Configuration:0 Energy:0.0 Power:0.0 Reward:81.234213517276 Time:32518 TotalReward:29528.72159413622
+STOKE: Battery:0.170000 Level:17
+STOKE: End Bat: 0.150000
+STOKE: Usage Bat: 0.850000
+ERROR: We got 'done' signal before finishing experiment!
+ERun: Time:11028539
+==END-RUN 0==
+STOKE: Config: 0 - Knobs: {interval:500 priority:100 sensor-configuration:1 batch:1 }  | -- on:339 joules:87.11 reward:0.32

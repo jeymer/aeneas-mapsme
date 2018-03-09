@@ -1,0 +1,35 @@
+
+energy	drain	deviation	rel	gps_accuracy	gps_interval	sensor_configuration
+82.5	0.0	0.0	0.0%	Low Power	30000	Callback Off
+96.27	0.01	0.0	0.0%	Balanced Power	30000	Callback Off
+93.67	0.0	0.0	0.0%	High Accuracy	30000	Callback Off
+113.26	0.02	0.0	0.0%	Low Power	10000	Callback Off
+102.53	0.02	0.0	0.0%	Balanced Power	10000	Callback Off
+118.64	0.01	0.0	0.0%	High Accuracy	10000	Callback Off
+101.74	0.02	0.0	0.0%	Low Power	8000	Callback Off
+93.22	0.01	0.0	0.0%	Balanced Power	8000	Callback Off
+98.84	0.02	0.0	0.0%	High Accuracy	8000	Callback Off
+114.55	0.01	0.0	0.0%	Low Power	7500	Callback Off
+93.45	0.0	0.0	0.0%	Balanced Power	7500	Callback Off
+92.59	0.0	0.0	0.0%	High Accuracy	7500	Callback Off
+88.4	0.02	0.0	0.0%	Low Power	5000	Callback Off
+93.91	0.01	0.0	0.0%	Balanced Power	5000	Callback Off
+104.98	0.02	0.0	0.0%	High Accuracy	5000	Callback Off
+113.02	0.01	0.0	0.0%	Low Power	3500	Callback Off
+92.06	0.02	0.0	0.0%	Balanced Power	3500	Callback Off
+108.88	0.0	0.0	0.0%	High Accuracy	3500	Callback Off
+98.6	0.02	0.0	0.0%	Low Power	3000	Callback Off
+117.32	0.0	0.0	0.0%	Balanced Power	3000	Callback Off
+97.07	0.02	0.0	0.0%	High Accuracy	3000	Callback Off
+94.82	0.01	0.0	0.0%	Low Power	2500	Callback Off
+95.39	0.02	0.0	0.0%	Balanced Power	2500	Callback Off
+109.75	0.01	0.0	0.0%	High Accuracy	2500	Callback Off
+98.57	0.02	0.0	0.0%	Low Power	2000	Callback Off
+86.68	0.01	0.0	0.0%	Balanced Power	2000	Callback Off
+118.54	0.02	0.0	0.0%	High Accuracy	2000	Callback Off
+131.89	0.02	0.0	0.0%	Low Power	1000	Callback Off
+123.69	0.01	0.0	0.0%	Balanced Power	1000	Callback Off
+137.62	0.03	0.0	0.0%	High Accuracy	1000	Callback Off
+129.64	0.02	0.0	0.0%	Low Power	500	Callback Off
+158.23	0.03	0.0	0.0%	Balanced Power	500	Callback Off
+156.15	0.02	0.0	0.0%	High Accuracy	500	Callback Off

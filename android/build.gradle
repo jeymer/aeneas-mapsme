@@ -72,11 +72,19 @@ dependencies {
   //compile files(System.getenv("STOKE_HOME") + "/stoke.jar")
   //apk files(System.getenv("STOKE_HOME") + "/stoke.jar")
 
+<<<<<<< HEAD
   compile files("/home/acanino/Projects/stokelib/bin/classes.jar")
   apk files("/home/acanino/Projects/stokelib/bin/classes.jar")
 
   compile files("/home/acanino/Projects/stokelib/libs/guava-20.0.jar")
   apk files("/home/acanino/Projects/stokelib/libs/guava-20.0.jar")
+=======
+  compile files("./classes.jar")
+  apk files("./classes.jar")
+
+  compile files("./guava-20.0.jar")
+  apk files("./guava-20.0.jar")
+>>>>>>> 28122c4686af18d243b3d694e40c18538be9f5d1
 }
 
 def getDate() {
